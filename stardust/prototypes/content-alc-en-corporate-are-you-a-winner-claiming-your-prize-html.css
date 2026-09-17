@@ -1,0 +1,360 @@
+/* stylelint-disable selector-class-pattern, media-feature-range-notation, number-max-precision, font-family-no-missing-generic-family-keyword, no-descending-specificity -- measured source fidelity */
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .online-corporate-detail {
+  background: #fff;
+  position: relative;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .breadcrumb-container {
+  height: 53.84375px;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 3;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .breadcrumbs {
+  align-items: center;
+  display: flex;
+  font-size: 12px;
+  font-weight: 700;
+  gap: 10px;
+  height: 33px;
+  padding: 0 10px;
+  text-transform: uppercase;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .breadcrumbs > * {
+  background: #fff;
+  color: #4e5b68;
+  display: block;
+  line-height: 33px;
+  margin: 0 -10px;
+  padding: 0 10px;
+  pointer-events: auto;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .breadcrumbs a {
+  color: #006faf;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .breadcrumbs > span:nth-of-type(-n+3) {
+  color: #69727b;
+  padding: 0;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu {
+  display: flex;
+  height: 60px;
+  left: 50%;
+  padding: 0 10px;
+  position: absolute;
+  top: 69px;
+  transform: translateX(-50%);
+  z-index: 4;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu button,
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu a {
+  background: #fff;
+  border: 0;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 20%);
+  color: #4e5b68;
+  height: 60px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu button {
+  color: #006faf;
+  font-size: 27px;
+  padding: 0;
+  width: 46px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu button::after {
+  content: "\e313";
+  font-family: "Material Icons";
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .visually-hidden {
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu a {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  padding: 0 16px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu strong {
+  color: #006faf;
+  margin-right: 4px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu-links {
+  height: 1px;
+  left: -10000px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-hero {
+  background: url("./assets/content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html/hero-desktop.jpg") no-repeat bottom center / auto 405px;
+  height: 405px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .page-title {
+  background: #009ddb;
+  color: #fff;
+  height: 50px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .page-title h1 {
+  color: #fff;
+  font-family: var(--alc-display);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 47px;
+  margin: 0;
+  padding: 0 10px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .body-content {
+  background: url("./assets/content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html/background.jpg") no-repeat left top / 100% auto;
+  padding-bottom: 20px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .page-shell {
+  background: rgb(255 255 255 / 50%);
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  min-height: 1817.859375px;
+  padding: 20px 0 0;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content,
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-column {
+  min-width: 0;
+  padding: 0 10px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content {
+  color: #4e5b68;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content h2 {
+  color: #009ddb;
+  font-family: var(--alc-display);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24.2px;
+  margin: 20px 0 10px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content > h2:first-child {
+  margin-top: 20px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content > h3 {
+  color: #009ddb;
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 19.8px;
+  margin: 20px 0 10px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content p {
+  line-height: 22.8571px;
+  margin: 0 0 10px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content ul {
+  margin: 0 0 10px;
+  padding-left: 40px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content li {
+  line-height: 22.8571px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .priority {
+  margin-top: 20px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion {
+  border: 0;
+  margin: 0 0 20px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion-title {
+  background: #d4dadf;
+  border-radius: 8px;
+  font-size: 22px;
+  line-height: 31.4286px;
+  margin: 0;
+  padding: 10px 15px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion-title a {
+  background: none;
+  border: 0;
+  color: #009ddb;
+  cursor: pointer;
+  display: block;
+  font-family: var(--alc-display);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22.8571px;
+  outline: 0;
+  padding: 0;
+  text-align: left;
+  width: 100%;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion-title a::after {
+  content: "\e313";
+  float: right;
+  font-family: "Material Icons";
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 22.8571px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion-title a[aria-expanded="true"]::after {
+  content: "\e316";
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion-panel {
+  overflow: hidden;
+  padding: 15px;
+  transition: height .35s ease;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .accordion-panel[hidden] {
+  display: none;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .tips-accordions .accordion {
+  margin-bottom: 5px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .tips-accordions .accordion:last-child {
+  margin-bottom: 20px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card,
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .contact-card {
+  background: #fff;
+  border: 1px solid #d4dadf;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 20px;
+  padding: 25px 30px 20px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card:nth-child(1) img {
+  aspect-ratio: 450 / 542;
+  object-fit: cover;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card:nth-child(2) img {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card:nth-child(3) img {
+  aspect-ratio: 665 / 375;
+  object-fit: cover;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .contact-title {
+  color: #69727b;
+  font-family: var(--alc-display);
+  font-size: 22px;
+  line-height: 24.2px;
+  margin: 0 0 26px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .contact-card p {
+  color: #4e5b68;
+  line-height: 22.8571px;
+  margin: 0 0 28px;
+}
+
+[data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .contact-card a {
+  color: #009ddb;
+}
+
+@media (max-width: 767px) {
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .breadcrumb-container {
+    display: none;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-menu {
+    display: none;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .corporate-hero {
+    background-image: url("./assets/content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html/hero-mobile.jpg");
+    background-position: bottom center;
+    background-size: auto 350px;
+    height: 350px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .page-title h1 {
+    padding-left: 10px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .page-shell {
+    display: block;
+    min-height: 4261.78125px;
+    padding: 20px 0 0;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content,
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-column {
+    padding: 0 10px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content h2 {
+    font-size: 24px;
+    line-height: 26.4px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .article-content {
+    min-height: 2602.375px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-column {
+    min-height: 1658.40625px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card,
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .contact-card {
+    padding: 25px;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card:nth-child(2) img {
+    aspect-ratio: 288 / 205.328125;
+  }
+
+  [data-replica-page="content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html"] .promo-card:nth-child(3) img {
+    aspect-ratio: 288 / 147.328125;
+  }
+}

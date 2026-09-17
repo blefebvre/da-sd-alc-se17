@@ -1,0 +1,2166 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-17T17:33:58.812Z",
+  "title": "Design System: Atlantic Lottery — Current State",
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-09-17T17:33:58.812Z",
+    "readArtifacts": [
+      "stardust/current/_brand-extraction.json",
+      "stardust/current/PRODUCT.md"
+    ],
+    "mode": "descriptive-current-state"
+  },
+  "extensions": {
+    "colorMeta": {
+      "background": {
+        "role": "background",
+        "displayName": "Background",
+        "canonical": "#fff",
+        "sources": [
+          "stardust/.work/source-css/054a5d8d-loqate.min.css",
+          "stardust/.work/source-css/15015eb8-clientlib-utils.min.css",
+          "stardust/.work/source-css/2505386c-no-ui-slider.min.css"
+        ]
+      },
+      "primary": {
+        "role": "primary",
+        "displayName": "Primary",
+        "canonical": "#009ddb",
+        "sources": [
+          "stardust/.work/source-css/15015eb8-clientlib-utils.min.css",
+          "stardust/.work/source-css/64bdd829-my-account.min.css",
+          "stardust/.work/source-css/73b86db3-clientlibs.min.css"
+        ]
+      },
+      "surface": {
+        "role": "surface",
+        "displayName": "Surface",
+        "canonical": "#d4dadf",
+        "sources": [
+          "stardust/.work/source-css/15015eb8-clientlib-utils.min.css",
+          "stardust/.work/source-css/64bdd829-my-account.min.css",
+          "stardust/.work/source-css/73b86db3-clientlibs.min.css"
+        ]
+      },
+      "text-secondary": {
+        "role": "text-secondary",
+        "displayName": "Text Secondary",
+        "canonical": "#69727b",
+        "sources": [
+          "stardust/.work/source-css/15015eb8-clientlib-utils.min.css",
+          "stardust/.work/source-css/64bdd829-my-account.min.css",
+          "stardust/.work/source-css/73b86db3-clientlibs.min.css"
+        ]
+      },
+      "action": {
+        "role": "action",
+        "displayName": "Action",
+        "canonical": "#006faf",
+        "sources": [
+          "stardust/.work/source-css/73b86db3-clientlibs.min.css",
+          "stardust/.work/source-css/94750371-clientlib-base.min.css",
+          "stardust/.work/source-css/a7b74e87-alc.min.css"
+        ]
+      },
+      "text-primary": {
+        "role": "text-primary",
+        "displayName": "Text Primary",
+        "canonical": "#4e5b68",
+        "sources": [
+          "stardust/.work/source-css/15015eb8-clientlib-utils.min.css",
+          "stardust/.work/source-css/64bdd829-my-account.min.css",
+          "stardust/.work/source-css/73b86db3-clientlibs.min.css"
+        ]
+      },
+      "secondary": {
+        "role": "secondary",
+        "displayName": "Secondary",
+        "canonical": "#007bc2",
+        "sources": [
+          "stardust/.work/source-css/94750371-clientlib-base.min.css",
+          "stardust/.work/source-css/a7b74e87-alc.min.css"
+        ]
+      },
+      "primary-deep": {
+        "role": "primary-deep",
+        "displayName": "Primary Deep",
+        "canonical": "#00529b",
+        "sources": [
+          "stardust/.work/source-css/73b86db3-clientlibs.min.css",
+          "stardust/.work/source-css/94750371-clientlib-base.min.css",
+          "stardust/.work/source-css/a7b74e87-alc.min.css"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Ubuntu headings",
+        "purpose": "Page, section, feature, and promotional headings."
+      },
+      "body": {
+        "displayName": "Proxima Nova body",
+        "purpose": "Body copy, navigation, labels, and controls."
+      }
+    },
+    "shadows": [
+      {
+        "value": "0 3px 5px 0 rgba(0,82,155,0.1)",
+        "uses": "brand controls and tiles",
+        "occurrences": 27,
+        "source": "stardust/.work/source-css/94750371-clientlib-base.min.css"
+      },
+      {
+        "value": "0 3px 8px rgba(37,100,144,0.12)",
+        "uses": "cards",
+        "occurrences": 16,
+        "source": "stardust/.work/source-css/a7b74e87-alc.min.css"
+      },
+      {
+        "value": "0 0 8px 0 #007bc2",
+        "uses": "focus and active emphasis",
+        "occurrences": 15,
+        "source": "stardust/.work/source-css/a7b74e87-alc.min.css"
+      }
+    ],
+    "gradients": [
+      {
+        "value": "linear-gradient(to bottom,#0078a8 0,#0fbbff 100%)",
+        "uses": "blue controls and game surfaces",
+        "occurrences": 11,
+        "source": "stardust/.work/source-css/fdf5f233-libraries.min.css"
+      },
+      {
+        "value": "linear-gradient(to bottom,#005fb4 0,#004f96 100%)",
+        "uses": "deep-blue controls and game surfaces",
+        "occurrences": 11,
+        "source": "stardust/.work/source-css/fdf5f233-libraries.min.css"
+      },
+      {
+        "value": "linear-gradient(175deg,#ed9d13,#ffdea4,#ed9d13 33.33%)",
+        "uses": "gold promotional surface",
+        "occurrences": 8,
+        "source": "stardust/.work/source-css/a7b74e87-alc.min.css"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm-container",
+        "value": "740px"
+      },
+      {
+        "name": "md-container",
+        "value": "960px"
+      },
+      {
+        "name": "lg-container",
+        "value": "1160px"
+      }
+    ],
+    "componentStyle": {
+      "buttons": {
+        "primary": {
+          "background": "#006faf",
+          "color": "#fff",
+          "borderRadius": "4px to 6px; 50px on pill variant",
+          "padding": "6px 12px; 15px 36px on large pill variant",
+          "fontWeight": 400,
+          "shadow": "0 3px 5px 0 rgba(0,82,155,0.1)",
+          "hoverDelta": "#005e95",
+          "source": "stardust/.work/source-css/94750371-clientlib-base.min.css and fdf5f233-libraries.min.css"
+        },
+        "secondary": {
+          "background": "#fff",
+          "color": "#69727b",
+          "borderRadius": "4px",
+          "padding": "6px 12px",
+          "border": "2px solid #69727b",
+          "source": "stardust/.work/source-css/94750371-clientlib-base.min.css"
+        }
+      },
+      "dualCTAPattern": "primary-and-secondary",
+      "cards": {
+        "background": "#fff",
+        "borderRadius": "5px",
+        "padding": "20px",
+        "shadow": "0 3px 8px rgba(37,100,144,0.12)",
+        "border": "1px solid #d4dadf",
+        "source": "stardust/.work/source-css/a7b74e87-alc.min.css"
+      },
+      "inputs": {
+        "borderRadius": "3px to 5px",
+        "padding": "10px",
+        "border": "1px solid #aebbc7",
+        "focusRing": "0 0 8px 0 #007bc2",
+        "source": "stardust/.work/source-css/a7b74e87-alc.min.css"
+      }
+    },
+    "motifs": [
+      {
+        "name": "horizontal-mega-navigation",
+        "evidence": "96 pages expose the same site-search/navigation surface"
+      },
+      {
+        "name": "footer-cross-promo",
+        "evidence": "96 pages repeat the same six-heading cluster"
+      },
+      {
+        "name": "game-card-grid",
+        "evidence": "Game-category and home captures repeat image-backed game collections"
+      },
+      {
+        "name": "pill-action",
+        "evidence": "Source CSS repeatedly uses 30px/50px radii on CTA controls"
+      },
+      {
+        "name": "blue-gradient-game-surface",
+        "evidence": "Harvested source CSS repeats the cyan-to-blue gradient family"
+      }
+    ],
+    "voice": [
+      {
+        "role": "hero",
+        "value": "Dream Bigger with LOTTO MAX.",
+        "source": "content-alc-en-html#body[0]"
+      },
+      {
+        "role": "tagline",
+        "value": "Visit alc.ca today to buy lottery tickets online, get the latest winning numbers, play games and more. Safe, regulated, and secure.",
+        "source": "content-alc-en-html#description"
+      },
+      {
+        "role": "cta",
+        "value": [
+          "Play now",
+          "See all games",
+          "Create Account",
+          "Contact Us"
+        ],
+        "source": "pages/*.json#ctas"
+      }
+    ],
+    "systemComponents": [
+      {
+        "name": "site-header-and-mega-navigation",
+        "kind": "header",
+        "occurrences": 96,
+        "headingSequence": [],
+        "ctaLabels": [
+          "ALC",
+          "Français",
+          "Help",
+          "Create Account",
+          "Sign In",
+          "Winning Numbers"
+        ],
+        "domFingerprintHash": "sha256:25f5ed460f656d86",
+        "exampleSlug": "content-alc-en-html",
+        "exampleSelector": "header",
+        "examplePages": [
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+          "content-alc-en-corporate-about-atlantic-lottery-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html"
+        ]
+      },
+      {
+        "name": "footer-cross-promotion",
+        "kind": "cross-promo",
+        "occurrences": 96,
+        "headingSequence": [
+          "Are you a winner?",
+          "Giving Back",
+          "Did you know 100% of the profits go back into the community?",
+          "About Atlantic Lottery",
+          "PlayWise",
+          "Explore our other sites:"
+        ],
+        "ctaLabels": [
+          "Are you a winner?",
+          "Giving Back",
+          "About Atlantic Lottery",
+          "PlayWise"
+        ],
+        "domFingerprintHash": "sha256:680ec1f635c604ea",
+        "exampleSlug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+        "exampleSelector": "heading/CTA cluster recorded in headings[] and ctas[]",
+        "examplePages": [
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+          "content-alc-en-corporate-about-atlantic-lottery-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html"
+        ]
+      },
+      {
+        "name": "footer-contact-and-legal-navigation",
+        "kind": "footer",
+        "occurrences": 98,
+        "headingSequence": [
+          "Contact Us",
+          "Explore our other sites:"
+        ],
+        "ctaLabels": [
+          "SITE MAP",
+          "SECURITY",
+          "TERMS OF SERVICE",
+          "LEGAL AND PRIVACY",
+          "HEALTHY PLAY POLICY",
+          "COOKIE POLICY"
+        ],
+        "domFingerprintHash": "sha256:23dd382de0ee7f89",
+        "exampleSlug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+        "exampleSelector": "footer links represented in ctas[]",
+        "examplePages": [
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+          "content-alc-en-corporate-about-atlantic-lottery-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html"
+        ]
+      },
+      {
+        "name": "shared-header-logo",
+        "kind": "background-motif",
+        "occurrences": 95,
+        "assetUrl": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+        "domFingerprintHash": "sha256:6e45035da580ba42",
+        "exampleSlug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+        "exampleSelector": "media.cssBackgrounds[]",
+        "examplePages": [
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+          "content-alc-en-corporate-about-atlantic-lottery-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html"
+        ]
+      },
+      {
+        "name": "shared-page-backdrop",
+        "kind": "background-motif",
+        "occurrences": 56,
+        "assetUrl": "https://www.alc.ca/content/dam/alc/images/static/alc-images/background.jpg",
+        "domFingerprintHash": "sha256:b426a9eada9e3618",
+        "exampleSlug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+        "exampleSelector": "media.cssBackgrounds[]",
+        "examplePages": [
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+          "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+          "content-alc-en-corporate-about-atlantic-lottery-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+          "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html"
+        ]
+      }
+    ],
+    "modules": [
+      {
+        "id": "candidate-footer-cross-promo",
+        "slots": [
+          {
+            "name": "winner-heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "giving-back-heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "community-proof",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "links",
+            "type": "link-list",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-executive-profiles-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-al-winners-publicity-policy-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-buying-and-checking-your-tickets-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-winners-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-corporate-social-responsibility-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-where-the-money-goes-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-know-the-facts-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-assessment-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-tools-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-email-communications-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-atlantic-49-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-bucko-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-daily-grand-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-keno-atlantic-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lotto-649-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lottomax-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-poker-lotto-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-salsa-bingo-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-legal-security-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-legal-site-map-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-legal-terms-and-conditions-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-abonnements-subscriptions-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-app-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-7083-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-casino-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-coasters-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-contests-and-promotions-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-contests-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-group-lottery-play-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-instant-win-games-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-lotto-max-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-mega360-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-mobile-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-red-shores-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-3370-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-self-service-terminals-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-swinging-bells-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-app-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-atlantic49-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-bucko-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-bloomin-bunnies-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-three-card-poker-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-zeus-iii-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-dailygrand-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-gme-show-retro-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-the-wolf-trail-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-keno-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto-games-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto649-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-lottomax-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-pokerlotto-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-proline-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-salsabingo-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-play-online-subscriptions-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-lotto-thenewlotto649-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-other-multi-factor-authentication-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-ask-away-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-casino-megavault-prize-drop-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-coasters-coasters-grand-reopening-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-igames-cleopatra-games-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-mobile-app-ticket-scanning-issue-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-new-template-conversions-mobile-app-2-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-proline-season-kick-off-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-retail-wave8-lottery-terminals-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-promos-scratch-celebrate-share-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-registration-account-confirmation-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-additional-information-needed-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-success-page-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-registration-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-rewards-existing-account-confirmation-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-rewards-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-rewards-join-rewards-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-rewards-points-details-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          },
+          {
+            "slug": "content-alc-en-winning-numbers-html",
+            "selector": "heading cluster: Are you a winner? / Giving Back / About Atlantic Lottery / PlayWise"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "headings[] recurring cluster",
+          "ctas[] recurring footer links"
+        ]
+      },
+      {
+        "id": "candidate-contact-support-band",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "contact-link",
+            "type": "link",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-executive-profiles-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-al-winners-publicity-policy-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-buying-and-checking-your-tickets-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-winners-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-corporate-social-responsibility-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-where-the-money-goes-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-know-the-facts-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-assessment-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-tools-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-email-communications-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-atlantic-49-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-bucko-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-daily-grand-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-keno-atlantic-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lotto-649-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lottomax-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-poker-lotto-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-salsa-bingo-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-legal-security-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-legal-site-map-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-legal-terms-and-conditions-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-abonnements-subscriptions-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-app-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-7083-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-casino-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-coasters-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-contests-and-promotions-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-contests-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-group-lottery-play-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-instant-win-games-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-lotto-max-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-mega360-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-mobile-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-red-shores-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-3370-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-self-service-terminals-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-swinging-bells-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-app-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-atlantic49-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-bucko-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-bloomin-bunnies-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-three-card-poker-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-zeus-iii-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-dailygrand-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-gme-show-retro-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-the-wolf-trail-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-keno-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto-games-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto649-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lottomax-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-pokerlotto-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-proline-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-salsabingo-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-play-online-subscriptions-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-lotto-thenewlotto649-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-other-multi-factor-authentication-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-ask-away-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-casino-megavault-prize-drop-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-coasters-coasters-grand-reopening-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-igames-cleopatra-games-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-mobile-app-ticket-scanning-issue-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-new-template-conversions-mobile-app-2-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-proline-season-kick-off-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-retail-wave8-lottery-terminals-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-promos-scratch-celebrate-share-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-registration-account-confirmation-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-additional-information-needed-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-success-page-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-registration-forgot-email-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-registration-forgot-password-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-registration-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-rewards-existing-account-confirmation-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-rewards-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-rewards-join-rewards-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-rewards-points-details-html",
+            "selector": "cta[label='Contact Us']"
+          },
+          {
+            "slug": "content-alc-en-winning-numbers-html",
+            "selector": "cta[label='Contact Us']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "ctas[].label",
+          "ctas[].href"
+        ]
+      },
+      {
+        "id": "candidate-site-search",
+        "slots": [
+          {
+            "name": "query",
+            "type": "text-input",
+            "required": true
+          },
+          {
+            "name": "submit",
+            "type": "button",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-executive-profiles-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-al-winners-publicity-policy-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-buying-and-checking-your-tickets-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-winners-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-corporate-social-responsibility-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-where-the-money-goes-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-know-the-facts-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-assessment-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-corporate-playwise-player-tools-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-email-communications-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-atlantic-49-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-bucko-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-daily-grand-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-keno-atlantic-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lotto-649-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lottomax-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-poker-lotto-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-salsa-bingo-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-legal-security-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-legal-site-map-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-legal-terms-and-conditions-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-abonnements-subscriptions-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-app-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-7083-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-casino-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-coasters-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-contests-and-promotions-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-contests-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-group-lottery-play-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-instant-win-games-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-lotto-max-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-mega360-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-mobile-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-red-shores-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-3370-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-self-service-terminals-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-swinging-bells-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-app-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-atlantic49-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-bucko-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-bloomin-bunnies-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-three-card-poker-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-zeus-iii-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-dailygrand-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-gme-show-retro-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-the-wolf-trail-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-keno-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto-games-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto649-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lottomax-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-pokerlotto-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-proline-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-salsabingo-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-play-online-subscriptions-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-lotto-thenewlotto649-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-other-multi-factor-authentication-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-ask-away-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-casino-megavault-prize-drop-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-coasters-coasters-grand-reopening-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-igames-cleopatra-games-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-mobile-app-ticket-scanning-issue-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-new-template-conversions-mobile-app-2-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-proline-season-kick-off-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-retail-wave8-lottery-terminals-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-promos-scratch-celebrate-share-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-registration-account-confirmation-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-additional-information-needed-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-success-page-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-registration-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-rewards-existing-account-confirmation-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-rewards-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-rewards-join-rewards-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-rewards-points-details-html",
+            "selector": "form[action$='/search-results.html']"
+          },
+          {
+            "slug": "content-alc-en-winning-numbers-html",
+            "selector": "form[action$='/search-results.html']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "dynamic.forms[].action",
+          "dynamic.forms[].fieldNames"
+        ]
+      },
+      {
+        "id": "candidate-game-popular-combos",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "combos",
+            "type": "collection",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-game-configurator-atlantic-49-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-bucko-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-daily-grand-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-keno-atlantic-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lottomax-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-poker-lotto-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-salsa-bingo-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-atlantic49-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-bucko-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-dailygrand-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-keno-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lottomax-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-pokerlotto-html",
+            "selector": "heading[text='Popular combos: ']"
+          },
+          {
+            "slug": "content-alc-en-play-online-salsabingo-html",
+            "selector": "heading[text='Popular combos: ']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "headings[].text"
+        ]
+      },
+      {
+        "id": "candidate-number-picker-guide",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "steps",
+            "type": "rich-text",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-game-configurator-atlantic-49-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-daily-grand-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lotto-649-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lottomax-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-play-online-atlantic49-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-play-online-dailygrand-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto649-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lottomax-html",
+            "selector": "heading[text='How Do You Pick Your Numbers?']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "headings[].text"
+        ]
+      },
+      {
+        "id": "candidate-mobile-app-feature-grid",
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "features",
+            "type": "collection",
+            "required": true
+          },
+          {
+            "name": "store-links",
+            "type": "link-list",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-our-games-app-html",
+            "selector": "heading cluster: Play / Buy / Scan, Deposit & Earn"
+          },
+          {
+            "slug": "content-alc-en-our-games-mobile-html",
+            "selector": "heading cluster: Play / Buy / Scan, Deposit & Earn"
+          },
+          {
+            "slug": "content-alc-en-play-online-app-html",
+            "selector": "heading cluster: Play / Buy / Scan, Deposit & Earn"
+          },
+          {
+            "slug": "content-alc-en-promos-new-template-conversions-mobile-app-2-html",
+            "selector": "heading cluster: Play / Buy / Scan, Deposit & Earn"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "headings[] recurring cluster",
+          "ctas[]"
+        ]
+      },
+      {
+        "id": "candidate-game-summary",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "game-facts",
+            "type": "rich-text",
+            "required": true
+          },
+          {
+            "name": "related-games",
+            "type": "collection",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-our-games-video-lottery-swinging-bells-html",
+            "selector": "heading[text='Game Summary']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-bloomin-bunnies-html",
+            "selector": "heading[text='Game Summary']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-three-card-poker-html",
+            "selector": "heading[text='Game Summary']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-zeus-iii-html",
+            "selector": "heading[text='Game Summary']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-gme-show-retro-html",
+            "selector": "heading[text='Game Summary']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-the-wolf-trail-html",
+            "selector": "heading[text='Game Summary']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "headings[].text",
+          "body[]"
+        ]
+      },
+      {
+        "id": "candidate-rewards-promo",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "copy",
+            "type": "rich-text",
+            "required": false
+          },
+          {
+            "name": "action",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-our-games-casino-html",
+            "selector": "heading[text='Rewards']"
+          },
+          {
+            "slug": "content-alc-en-our-games-instant-win-games-html",
+            "selector": "heading[text='Rewards']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-html",
+            "selector": "heading[text='Rewards']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-html",
+            "selector": "heading[text='Rewards']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-html",
+            "selector": "heading[text='Rewards']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "headings[].text",
+          "ctas[]"
+        ]
+      },
+      {
+        "id": "candidate-standard-page-backdrop",
+        "slots": [
+          {
+            "name": "background",
+            "type": "image",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-2024-10-01-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-corporate-releases-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-annual-reports-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-board-profiles-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-about-atlantic-lottery-who-is-al-executive-profiles-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-al-winners-publicity-policy-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-buying-and-checking-your-tickets-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-are-you-a-winner-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-corporate-social-responsibility-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-corporate-giving-back-where-the-money-goes-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-atlantic-49-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-bucko-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-daily-grand-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-keno-atlantic-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lotto-649-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-lottomax-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-poker-lotto-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-game-configurator-salsa-bingo-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-legal-site-map-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-legal-terms-and-conditions-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-abonnements-subscriptions-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-breakopen-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-group-lottery-play-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-instant-win-games-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-lotto-lotto-max-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-red-shores-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-3370-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-scratch-n-win-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-our-games-video-lottery-swinging-bells-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-atlantic49-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-bucko-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-bloomin-bunnies-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-three-card-poker-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-casino-zeus-iii-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-dailygrand-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-gme-show-retro-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-instant-win-games-the-wolf-trail-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-keno-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lotto649-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-lottomax-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-pokerlotto-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-salsabingo-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-play-online-subscriptions-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-promos-archived-lotto-thenewlotto649-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-promos-ask-away-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-promos-retail-wave8-lottery-terminals-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-additional-information-needed-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-registration-aml-success-page-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-rewards-existing-account-confirmation-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-rewards-join-rewards-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          },
+          {
+            "slug": "content-alc-en-winning-numbers-html",
+            "selector": "media.cssBackgrounds[url*='/static/alc-images/background.jpg']"
+          }
+        ],
+        "status": "candidate",
+        "signals": [
+          "media.cssBackgrounds[].url"
+        ]
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Observed blue primary action with darker hover and visible focus treatment.",
+      "html": "<button class=\"ds-btn-primary\">PLAY NOW</button>",
+      "css": ".ds-btn-primary{background:#006faf;color:#fff;border:1px solid #006faf;border-radius:4px;padding:6px 12px;font:600 14px/1.43 'proxima_nova',Helvetica,Arial,sans-serif}.ds-btn-primary:hover{background:#005e95}.ds-btn-primary:focus-visible{outline:2px solid #005e95;outline-offset:2px;box-shadow:0 0 8px 0 #005e95}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Observed white secondary action with slate border and text.",
+      "html": "<button class=\"ds-btn-secondary\">LEARN MORE</button>",
+      "css": ".ds-btn-secondary{background:#fff;color:#69727b;border:2px solid #69727b;border-radius:4px;padding:6px 12px;font:600 14px/1.43 'proxima_nova',Helvetica,Arial,sans-serif}.ds-btn-secondary:hover{color:#00529b;border-color:#00529b}.ds-btn-secondary:focus-visible{outline:2px solid #007bc2;outline-offset:2px}"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Compact white field with a cool-gray boundary and blue focus glow.",
+      "html": "<input class=\"ds-input\" value=\"Winning numbers\" aria-label=\"Example input\">",
+      "css": ".ds-input{background:#fff;color:#4e5b68;border:1px solid #aebbc7;border-radius:3px;padding:10px;font:400 16px/1.43 'proxima_nova',Helvetica,Arial,sans-serif}.ds-input:focus-visible{outline:2px solid #007bc2;outline-offset:2px;box-shadow:0 0 8px 0 #007bc2}"
+    },
+    {
+      "name": "Content Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "White bounded card with compact rounding and a subtle blue-gray lift.",
+      "html": "<article class=\"ds-card\"><h3>Featured game</h3><p>Captured card treatment.</p></article>",
+      "css": ".ds-card{background:#fff;color:#4e5b68;border:1px solid #d4dadf;border-radius:5px;padding:20px;box-shadow:0 3px 8px rgba(37,100,144,.12)}.ds-card h3{margin:0 0 10px;color:#00529b;font:700 24px/1.1 Ubuntu,Helvetica,Arial,sans-serif}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Atlantic Play, Regulated Confidence",
+    "overview": "A descriptive current-state system that places varied game campaigns inside a stable blue corporate shell, balancing promotional energy with regulated trust.",
+    "keyCharacteristics": [
+      "Blue-led corporate shell",
+      "Ubuntu headings with Proxima Nova body copy",
+      "Mixed compact and pill radius vocabulary",
+      "Light border-and-shadow depth",
+      "Repeated community, support, and responsible-play frame"
+    ],
+    "rules": [
+      {
+        "name": "The Blue Anchor Rule",
+        "body": "Use the recurring blue family to anchor the corporate shell.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do preserve the blue corporate shell around visually varied game campaigns.",
+      "Do keep responsible-play, support, legal, and community-return pathways visible."
+    ],
+    "donts": [
+      "Don't treat campaign-specific gradients as universal brand colors.",
+      "Don't imply a single radius or modular type scale where the source CSS shows variance."
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+:root {
+  --alc-font: "proxima_nova", "Replica Roboto", helvetica, arial, sans-serif;
+}
+
+.desktop-header,
+.primary-nav {
+  font-family: var(--alc-font);
+}
+
+.assessment-hero {
+  background: #82c7e7 url("./assets/content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html/playwise-background.jpg") center / cover no-repeat;
+  height: 210.3125px;
+}
+
+.assessment-hero .container {
+  height: 100%;
+  padding: 0 10px;
+  position: relative;
+}
+
+.breadcrumbs {
+  background: #fff;
+  display: inline-flex;
+  left: 10px;
+  position: absolute;
+  top: 14px;
+}
+
+.breadcrumbs a {
+  color: var(--alc-blue);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 29px;
+  padding: 0 9px;
+  text-transform: uppercase;
+}
+
+.breadcrumbs a + a {
+  padding-left: 14px;
+  position: relative;
+}
+
+.breadcrumbs a + a::before {
+  content: "›";
+  left: 0;
+  position: absolute;
+}
+
+.assessment-hero h1 {
+  color: #fff;
+  font-family: var(--alc-display);
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  line-height: 52.8px;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 69px;
+}
+
+.assessment-content {
+  height: 1177.3594px;
+}
+
+.assessment-content > .container {
+  height: 100%;
+  padding: 0 10px;
+  position: relative;
+}
+
+.back-link {
+  color: var(--alc-blue);
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  left: 10px;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 34px;
+}
+
+.back-link::before {
+  content: "‹";
+  font-size: 24px;
+  font-weight: 400;
+  left: -20px;
+  line-height: 16px;
+  position: absolute;
+  text-decoration: none;
+}
+
+.back-link-bottom {
+  bottom: 34px;
+  top: auto;
+}
+
+.questionnaire {
+  left: 106.6563px;
+  position: absolute;
+  top: 84px;
+  width: 702px;
+}
+
+.questionnaire h2,
+.assessment-result h2 {
+  color: var(--alc-cyan);
+  font-family: var(--alc-display);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 39.6px;
+  margin: 0 0 28px;
+}
+
+.assessment-result {
+  margin-bottom: 28px;
+}
+
+.assessment-result .score {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.question-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 30px;
+}
+
+.question-list li {
+  font-weight: 700;
+  margin: 0 0 28px;
+  padding: 0;
+  position: relative;
+}
+
+.question-number {
+  left: -30px;
+  position: absolute;
+  top: 0;
+}
+
+.question-list p {
+  font-size: 16px;
+  line-height: 20.8px;
+  margin: 0 0 9px;
+  position: relative;
+  top: -1px;
+}
+
+.form-group {
+  width: 210.6563px;
+}
+
+.question-list select {
+  background: #fff;
+  border: 1px solid #aebbc7;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
+  color: var(--alc-text);
+  display: block;
+  font-family: var(--alc-font);
+  font-size: 16px;
+  font-weight: 400;
+  height: 34px;
+  line-height: 22.8571px;
+  padding: 6px 12px;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  width: 100%;
+}
+
+.form-group.has-error select {
+  border-color: #a94442;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%), 0 0 6px #ce8483;
+}
+
+.sr-only {
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.response {
+  font-weight: 400;
+  margin: 0 0 12px;
+}
+
+.assess-button {
+  background: var(--alc-blue);
+  border: 2px solid #fff;
+  border-radius: 30px;
+  box-shadow: 0 3px 5px rgb(0 82 155 / 10%);
+  color: #fff;
+  cursor: pointer;
+  font-family: var(--alc-font);
+  font-size: 20px;
+  font-weight: 500;
+  height: 45px;
+  letter-spacing: -.25px;
+  line-height: 41px;
+  margin-top: 20px;
+  padding: 0 50px 0 15px;
+  position: relative;
+  transition: background-color .15s ease-in-out;
+}
+
+.assess-button::after {
+  align-items: center;
+  background: #fff;
+  border-radius: 50%;
+  color: var(--alc-blue);
+  content: "›";
+  display: flex;
+  font-size: 36px;
+  height: 34px;
+  justify-content: center;
+  line-height: 30px;
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 34px;
+}
+
+.assess-button:hover {
+  background: #007bc2;
+}
+
+.gambling-supports {
+  background: #f4f5f6;
+  height: 315px;
+}
+
+.gambling-supports .container {
+  padding: 72px 10px 0;
+  text-align: center;
+}
+
+.gambling-supports h2 {
+  color: var(--alc-cyan);
+  font-family: var(--alc-display);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 39.6px;
+  margin: 0 0 16px;
+}
+
+.gambling-supports p {
+  margin: 0;
+}
+
+.supports-mobile-copy {
+  display: none;
+}
+
+.support-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 37px;
+}
+
+.support-grid p {
+  line-height: 22.8571px;
+  padding: 0 14px;
+}
+
+.site-footer {
+  height: 547.4219px;
+}
+
+@media (width <= 767px) {
+  .assessment-hero {
+    height: 119.625px;
+  }
+
+  .assessment-hero h1 {
+    font-size: 36px;
+    line-height: 39.6px;
+    top: 38px;
+  }
+
+  .breadcrumbs {
+    display: none;
+  }
+
+  .assessment-content {
+    height: 1599.3438px;
+  }
+
+  .assessment-content > .container {
+    padding: 0 10px;
+  }
+
+  .back-link {
+    left: 30px;
+    top: 34px;
+  }
+
+  .back-link-bottom {
+    bottom: 34px;
+    top: auto;
+  }
+
+  .questionnaire {
+    left: 10px;
+    top: 84px;
+    width: 280px;
+  }
+
+  .questionnaire h2,
+  .assessment-result h2 {
+    font-size: 36px;
+    line-height: 39.6px;
+  }
+
+  .question-list {
+    padding-left: 30px;
+  }
+
+  .question-list li {
+    width: 250px;
+  }
+
+  .form-group {
+    width: 250px;
+  }
+
+  .assess-button {
+    width: 280px;
+  }
+
+  .gambling-supports {
+    height: 562.7813px;
+  }
+
+  .gambling-supports .container {
+    padding: 68px 30px 0;
+    text-align: left;
+  }
+
+  .gambling-supports h2 {
+    text-align: center;
+  }
+
+  .supports-desktop-copy {
+    display: none;
+  }
+
+  .supports-mobile-copy {
+    display: block;
+    line-height: 22.8571px;
+    margin-top: 20px;
+  }
+
+  .support-grid {
+    display: block;
+    margin-top: 18px;
+  }
+
+  .support-grid p {
+    margin-bottom: 20px;
+    padding: 0;
+  }
+
+  .site-footer {
+    height: 800.5156px;
+  }
+}

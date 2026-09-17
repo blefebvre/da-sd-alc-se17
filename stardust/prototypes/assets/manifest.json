@@ -1,0 +1,68 @@
+{
+  "_provenance": {
+    "sourcePage": "https://www.alc.ca/content/alc/en.html",
+    "harvestedAt": "2026-09-17T18:13:00.000Z",
+    "method": "direct public source asset download",
+    "policy": "No trackers, credentials, or commercial Proxima Nova font files are included."
+  },
+  "groups": {
+    "chrome": {
+      "alc-header-logo-en.png": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+      "winning-numbers-mobile.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/html_promo/imageM.img.jpg/1789563420381.jpg",
+      "material-icons.woff2": "https://www.alc.ca/etc.clientlibs/alc/clientlibs/clientlib-site/resources/fonts/MaterialIcons-Regular.woff2",
+      "alc-sprite.png": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite.png",
+      "alc-sprite-2.png": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite-2.png"
+    },
+    "fonts": {
+      "ubuntu-regular.woff2": "https://www.alc.ca/etc.clientlibs/alc/clientlibs/clientlib-site/resources/fonts/ubuntu-regular-webfont.woff2",
+      "ubuntu-medium.woff2": "https://www.alc.ca/etc.clientlibs/alc/clientlibs/clientlib-site/resources/fonts/ubuntu-medium-webfont.woff2",
+      "ubuntu-bold.woff2": "https://www.alc.ca/etc.clientlibs/alc/clientlibs/clientlib-site/resources/fonts/ubuntu-bold-webfont.woff2"
+    },
+    "hero": {
+      "hero-lottomax-desktop.png": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-fca-lmhj/home-carousel-lm-green-50-2/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.png/1776877339725.png",
+      "hero-lottomax-mobile.png": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-fca-lmhj/home-carousel-lm-green-50-2/jcr:content/componentPar/fca_carousel_slide_p/imageM.img.png/1776877339725.png",
+      "hero-social-desktop.jpg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-rg-promo/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1788894163498.jpg",
+      "hero-social-mobile.jpg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-rg-promo/jcr:content/componentPar/fca_carousel_slide_p/imageM.img.jpg/1788894163498.jpg",
+      "hero-desert-desktop.jpg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-fca-IW/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1789056599204.jpg",
+      "hero-desert-mobile.jpg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-fca-IW/jcr:content/componentPar/fca_carousel_slide_p/imageM.img.jpg/1789056599204.jpg",
+      "hero-proline-desktop.jpg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/HomepageFCA-PROLINE/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1788551429206.jpg",
+      "hero-proline-mobile.jpg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/HomepageFCA-PROLINE/jcr:content/componentPar/fca_carousel_slide_p/imageM.img.jpg/1788551429206.jpg",
+      "hero-649-desktop.jpeg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepagefca-649-live/_jcr_content/componentPar/external_data.coreimg.jpeg/1764948034319/homepage-carouseljackpot-649-classic-10-28-r-1900x930.jpeg",
+      "lotto649-logo.svg": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepagefca-649-live/_jcr_content/componentPar/external_data/draw-logo.coreimg.svg/1651860040011/logo-lotto649.svg"
+    },
+    "winner": {
+      "winners-bg.png": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/winners-carousel-bg-generic.png",
+      "winners-bg-mobile.png": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/winners-carousel-bg-generic-mobile.png",
+      "province-pe.png": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/PE.png",
+      "winner-robert-roche.jpg": "https://www.alc.ca/content/dam/alc/images/Winners/NB/Robert%20Roche%20-%20$1.5M%20-%20Super%20set%20for%20life%20-%20cardigan%20PEI.jpg",
+      "scratchnwin-logo.png": "https://www.alc.ca/content/dam/alc/images/Winners/logo/homepage-winners-carousel/ScratchNWin_en.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png"
+    },
+    "tiles": {
+      "tile-lottomax.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355.img.jpg/1789563420435.jpg",
+      "tile-lotto649.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_8ecd_copy.img.jpg/1789563420449.jpg",
+      "tile-proline.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_402382965_.img.jpg/1789563420461.jpg",
+      "tile-scratch.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_402382965__157540270.img.jpg/1789563420471.jpg",
+      "tile-desert.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355_2073844692.img.jpg/1789563420483.jpg",
+      "tile-fortune.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355_681114146.img.jpg/1789646923267.jpg",
+      "tile-live-casino.jpg": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355_1825352155.img.jpg/1789563420513.jpg",
+      "gold-ball-en.png": "https://www.alc.ca/content/dam/alc/images/Homepage/GOLD_BALL_EN.png"
+    },
+    "railFooter": {
+      "rail-lottomax-desktop.png": "source desktop right-rail rendition",
+      "rail-lottomax-mobile.png": "source mobile right-rail rendition",
+      "rail-magnetic-desktop.jpg": "source desktop right-rail rendition",
+      "rail-magnetic-mobile.jpg": "source mobile right-rail rendition",
+      "rail-social-desktop.jpg": "source desktop right-rail rendition",
+      "rail-social-mobile.jpg": "source mobile right-rail rendition",
+      "rail-discover-desktop.jpg": "source desktop right-rail rendition",
+      "rail-discover-mobile.jpg": "source mobile right-rail rendition",
+      "footer-19plus.jpg": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+      "footer-askaway.png": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+      "footer-redshores.png": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+      "footer-rgcheck.png": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+      "footer-wla.png": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+      "footer-facebook.png": "https://www.alc.ca/content/dam/alc/images/static/footer/Facebook.png",
+      "footer-instagram.png": "https://www.alc.ca/content/dam/alc/images/static/footer/instagram.png"
+    }
+  }
+}

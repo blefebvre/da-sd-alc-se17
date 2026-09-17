@@ -1,0 +1,640 @@
+/* stylelint-disable number-max-precision, selector-class-pattern, media-feature-range-notation -- source-measured fidelity values and source-compatible variant names */
+
+.mobile-winning-banner {
+  display: none;
+}
+
+.home-hero {
+  height: 525px;
+  overflow: hidden;
+  position: relative;
+}
+
+.hero-track,
+.hero-slide,
+.hero-slide > a {
+  height: 100%;
+  width: 100%;
+}
+
+.hero-slide {
+  display: none;
+}
+
+.hero-slide.is-active {
+  display: block;
+}
+
+.hero-slide > a {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+}
+
+.hero-649 > a {
+  background-image: url("./assets/hero-649-desktop.jpeg");
+}
+
+.hero-649-content {
+  color: #fff;
+  font-family: var(--alc-display);
+  padding: 105px 0 0 32px;
+  width: 410px;
+}
+
+.hero-649-content img {
+  height: 67px;
+  width: 106px;
+}
+
+.hero-649-jackpot {
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -2px;
+  line-height: 80px;
+}
+
+.hero-649-copy {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 18px;
+}
+
+.hero-lottomax > a {
+  background-image: url("./assets/hero-lottomax-desktop.png");
+}
+
+.hero-social > a {
+  background-image: url("./assets/hero-social-desktop.jpg");
+}
+
+.hero-desert > a {
+  background-image: url("./assets/hero-desert-desktop.jpg");
+}
+
+.hero-proline > a {
+  background-image: url("./assets/hero-proline-desktop.jpg");
+}
+
+.hero-controls {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+.hero-controls button {
+  background: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 22px;
+}
+
+.hero-dot {
+  background: #fff;
+  border: 0;
+  border-radius: 50%;
+  height: 8px;
+  margin: 0 9px;
+  opacity: .65;
+  padding: 0;
+  width: 8px;
+}
+
+.hero-dot.is-active {
+  background: var(--alc-cyan);
+  opacity: 1;
+}
+
+.section-band {
+  color: #fff;
+  height: 39.796875px;
+}
+
+.section-band h2 {
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 19.8px;
+  margin: 0;
+  padding: 10px;
+}
+
+.section-band--blue {
+  background: var(--alc-cyan);
+}
+
+.section-band--green {
+  background: var(--alc-green);
+}
+
+.winner-carousel {
+  background: #52b9e9 url("./assets/winners-bg.png") no-repeat center;
+  height: 245px;
+  overflow: hidden;
+  position: relative;
+}
+
+.winner-slide {
+  height: 245px;
+  padding: 20px 20px 0;
+  position: relative;
+}
+
+.winner-content {
+  display: grid;
+  grid-template-columns: 25% 33.333% 41.667%;
+  margin: 0 auto;
+  max-width: var(--alc-container);
+  position: relative;
+}
+
+.winner-map {
+  background: url("./assets/province-pe.png") no-repeat top left / contain;
+  height: 181px;
+  left: 252px;
+  position: absolute;
+  top: -13px;
+  width: 250px;
+}
+
+.winner-photo {
+  background: url("./assets/winner-robert-roche.jpg") no-repeat center / cover;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 3px 18px rgb(0 82 155 / 50%);
+  height: 204px;
+  margin: 0 auto;
+  left: 27.5px;
+  position: relative;
+  top: 2px;
+  width: 204px;
+}
+
+.winner-info {
+  color: #fff;
+  margin: 0 auto 0 40px;
+  padding-top: 20px;
+}
+
+.winner-info h3 {
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 19.8px;
+  margin: 0 0 8px;
+}
+
+.winner-info .winner-location {
+  display: block;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 24.2px;
+}
+
+.round-button {
+  background: var(--alc-blue);
+  border: 2px solid #fff;
+  border-radius: 24px;
+  color: #fff;
+  display: inline-block;
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 500;
+  height: 45px;
+  line-height: 41px;
+  margin-top: 10px;
+  padding: 0 45px 0 15px;
+  position: relative;
+}
+
+.round-button .arrow {
+  align-items: center;
+  background: #fff;
+  border-radius: 50%;
+  color: var(--alc-blue);
+  display: flex;
+  height: 31px;
+  justify-content: center;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 31px;
+}
+
+.winner-prize {
+  color: var(--alc-blue-dark);
+  padding: 15px 0 0 30px;
+  position: relative;
+}
+
+.winner-game {
+  align-items: center;
+  color: #fff;
+  display: flex;
+  font-family: var(--alc-display);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.winner-game img {
+  height: 80px;
+  object-fit: contain;
+  width: 80px;
+}
+
+.winner-game span {
+  background: var(--alc-winner-red, #ec2f2d);
+  border-radius: 5px;
+  margin-left: 0;
+  padding: 0 25px;
+}
+
+.winner-amount {
+  font-size: 72px;
+  line-height: 72px;
+  margin: -3px 0 0;
+}
+
+.winner-arrow {
+  background: transparent;
+  border: 0;
+  color: #fff;
+  height: 96px;
+  position: absolute;
+  top: 75px;
+  width: 44px;
+}
+
+.winner-arrow.prev {
+  left: 0;
+}
+
+.winner-arrow.next {
+  right: 0;
+}
+
+.featured-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  height: 1776px;
+  padding: 24px 0;
+}
+
+.game-carousel {
+  min-width: 0;
+  padding: 0 10px;
+}
+
+.game-track {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 1728px;
+  overflow: hidden;
+}
+
+.game-tile {
+  height: 405px;
+  margin: 0 0 27px;
+  padding: 0 10px;
+  position: relative;
+}
+
+.tile-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 8px 8px 0 0;
+  height: 185px;
+  position: relative;
+}
+
+.tile-lottomax .tile-image { background-image: url("./assets/tile-lottomax.jpg"); }
+.tile-lotto649 .tile-image { background-image: url("./assets/tile-lotto649.jpg"); }
+.tile-proline .tile-image { background-image: url("./assets/tile-proline.jpg"); }
+.tile-scratch .tile-image { background-image: url("./assets/tile-scratch.jpg"); }
+.tile-desert .tile-image { background-image: url("./assets/tile-desert.jpg"); }
+.tile-fortune .tile-image { background-image: url("./assets/tile-fortune.jpg"); }
+.tile-live .tile-image { background-image: url("./assets/tile-live-casino.jpg"); }
+
+.jackpot-strip {
+  bottom: 0;
+  display: flex;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+.jackpot-strip .amount {
+  align-items: center;
+  background: #01152b;
+  color: #ffff1b;
+  display: flex;
+  font-size: 16px;
+  font-weight: 700;
+  justify-content: center;
+  min-width: 40%;
+}
+
+.jackpot-strip .amount small {
+  font-size: 10px;
+  margin-left: 3px;
+}
+
+.jackpot-strip .decor {
+  background: linear-gradient(to right bottom, #01152b 0, #01152b 49%, #e5c524 50%, #0655aa 52%, #0655aa 100%);
+  width: 24px;
+}
+
+.jackpot-strip .extra {
+  align-items: center;
+  background: #0655aa;
+  color: #fff;
+  display: flex;
+  flex: 1;
+  font-size: 15px;
+  font-weight: 700;
+  justify-content: center;
+}
+
+.jackpot-strip .extra.gold {
+  background: #0655aa url("./assets/gold-ball-en.png") no-repeat center / calc(100% - 20px) auto;
+}
+
+.new-ribbon {
+  background: url("./assets/alc-sprite.png") no-repeat 0 -159px;
+  height: 32px;
+  overflow: hidden;
+  position: absolute;
+  right: 11px;
+  text-indent: -200%;
+  top: -5px;
+  width: 80px;
+}
+
+.tile-content {
+  background: #fff;
+  border: 1px solid var(--alc-line);
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 2px 8px -2px rgb(0 0 0 / 45%);
+  height: 220px;
+  padding: 0 40px 22px;
+  position: relative;
+}
+
+.tile-content h3 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22px;
+  margin: 17px 0 10px;
+}
+
+.tile-description {
+  height: 50px;
+  line-height: 19.2px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.tile-description a {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.jackpot-copy {
+  color: #198754;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 19.2px;
+  margin: 0;
+}
+
+.tile-content .round-button {
+  bottom: 20px;
+  height: 45px;
+  left: 40px;
+  line-height: 41px;
+  margin: 0;
+  position: absolute;
+}
+
+.round-button .arrow::before {
+  content: "\e315";
+}
+
+.game-controls {
+  display: none;
+}
+
+.promo-rail {
+  padding: 10px 10px 0;
+}
+
+.promo-rail a {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.promo-rail picture,
+.promo-rail img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.site-footer .footer-body {
+  padding-top: 10px;
+}
+
+@media (max-width: 767px) {
+  .mobile-winning-banner {
+    background: url("./assets/winning-numbers-mobile.jpg") no-repeat center / cover;
+    display: block;
+    height: 75px;
+  }
+
+  .home-hero {
+    height: 375px;
+  }
+
+  .hero-slide {
+    display: none;
+  }
+
+  .hero-slide.is-active {
+    display: none;
+  }
+
+  .hero-desert {
+    display: block;
+  }
+
+  .hero-desert > a {
+    background-image: url("./assets/hero-desert-mobile.jpg");
+  }
+
+  .hero-649-content {
+    display: none;
+  }
+
+  .hero-controls {
+    background: #fff;
+    bottom: 0;
+    height: 30px;
+  }
+
+  .hero-controls button {
+    color: var(--alc-cyan);
+    font-size: 18px;
+  }
+
+  .hero-dot {
+    background: var(--alc-text);
+    height: 7px;
+    margin: 0 10px;
+    width: 7px;
+  }
+
+  .section-band h2 {
+    padding-left: 10px;
+  }
+
+  .winner-carousel {
+    background-image: url("./assets/winners-bg-mobile.png");
+    height: 428.34375px;
+  }
+
+  .winner-slide {
+    height: 422.34375px;
+    padding: 20px 0 0;
+  }
+
+  .winner-content {
+    display: block;
+    height: 100%;
+  }
+
+  .winner-map {
+    left: 0;
+    top: 80px;
+  }
+
+  .winner-photo {
+    height: 162px;
+    left: 0;
+    top: 0;
+    width: 162px;
+  }
+
+  .winner-info {
+    margin: 0;
+    padding-top: 18px;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+  }
+
+  .winner-info h3 {
+    margin-bottom: 7px;
+  }
+
+  .winner-info .winner-location {
+    font-size: 22px;
+  }
+
+  .winner-info .round-button {
+    margin: 10px auto 0;
+  }
+
+  .winner-prize {
+    display: none;
+  }
+
+  .winner-arrow {
+    top: 164px;
+  }
+
+  .featured-layout {
+    display: block;
+    height: 1557.609375px;
+    padding: 24px 0;
+  }
+
+  .game-carousel {
+    height: 495px;
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .game-track {
+    display: flex;
+    height: 465px;
+    overflow: visible;
+    width: 2520px;
+  }
+
+  .game-tile {
+    flex: 0 0 360px;
+    height: 465px;
+    margin: 0;
+    padding: 0 10px;
+  }
+
+  .tile-content {
+    padding: 0 30px 22px;
+  }
+
+  .tile-content .round-button {
+    left: 30px;
+  }
+
+  .game-controls {
+    align-items: center;
+    display: flex;
+    height: 30px;
+    padding-left: 6px;
+  }
+
+  .game-controls button {
+    background: #eee;
+    border: 1px solid #aaa;
+    color: var(--alc-text);
+    height: 22px;
+    line-height: 18px;
+    padding: 0;
+    width: 22px;
+  }
+
+  .game-controls .dot {
+    background: var(--alc-text);
+    border: 0;
+    border-radius: 50%;
+    height: 7px;
+    margin-left: 17px;
+    opacity: .8;
+    width: 7px;
+  }
+
+  .game-controls .dot.active {
+    background: var(--alc-cyan);
+  }
+
+  .promo-rail {
+    height: 1014px;
+    padding: 10px 10px 0;
+  }
+
+  .promo-rail a {
+    margin-bottom: 10px;
+  }
+
+  .promo-rail img {
+    height: auto;
+    width: 340px;
+  }
+}

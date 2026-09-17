@@ -1,0 +1,844 @@
+/* stylelint-disable number-max-precision, media-feature-range-notation, selector-class-pattern, no-descending-specificity -- source-measured replica values */
+
+.featured-winners-holder {
+  color: var(--alc-text);
+}
+
+.featured-winners-holder .breadcrumb-container {
+  height: 53.84375px;
+  position: relative;
+  z-index: 2;
+}
+
+.featured-winners-holder .breadcrumbs {
+  align-items: center;
+  display: flex;
+  font-size: 12px;
+  font-weight: 700;
+  gap: 23px;
+  height: 53.84375px;
+  padding: 0 10px;
+  text-transform: uppercase;
+}
+
+.featured-winners-holder .breadcrumbs a {
+  position: relative;
+}
+
+.featured-winners-holder .breadcrumbs a::after {
+  color: var(--alc-blue);
+  content: "›";
+  font-size: 19px;
+  line-height: 1;
+  position: absolute;
+  right: -15px;
+  top: -2px;
+}
+
+.featured-winners-holder .breadcrumbs span {
+  color: var(--alc-text);
+}
+
+.featured-winners-holder .featured-winner {
+  height: 465px;
+  margin-top: -53.84375px;
+}
+
+.featured-winners-holder .winners-bg {
+  background: transparent url("./assets/content-alc-en-corporate-are-you-a-winner-winners-html/featured-desktop.jpg") no-repeat bottom center;
+  height: 465px;
+}
+
+.featured-winners-holder .winner-info-container {
+  height: 365px;
+  margin-left: 10px;
+  padding-top: 75px;
+  position: relative;
+  width: 373px;
+}
+
+.featured-winners-holder .game-title {
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 500;
+  height: 51.421875px;
+  left: -2px;
+  line-height: 25.7143px;
+  margin: 0;
+  position: absolute;
+  top: 75px;
+  width: 374.7px;
+}
+
+.featured-winners-holder .game-title img {
+  height: 85px;
+  left: -15px;
+  position: absolute;
+  top: -8px;
+  width: 143px;
+}
+
+.featured-winners-holder .game-title span {
+  background: linear-gradient(to right, #5fb300 0, #498b00 100%);
+  border-radius: 5px;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  height: 31.421875px;
+  left: 3px;
+  line-height: 31.4286px;
+  padding: 0 30px 0 155px;
+  position: absolute;
+  top: 20px;
+  width: 258.88px;
+}
+
+.featured-winners-holder .prize-amount {
+  color: #0065a5;
+  display: flex;
+  font-family: var(--alc-display);
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
+  margin: 0;
+}
+
+.featured-winners-holder .prize-amount::before {
+  content: "$";
+  font-size: 22px;
+  line-height: 35px;
+  margin-right: 2px;
+}
+
+.featured-winners-holder .prize-amount span {
+  background: #fff;
+  border: 1px solid #d4dadf;
+  border-radius: 5px;
+  line-height: 36px;
+  margin-right: 5px;
+  padding: 0 5px;
+  position: relative;
+}
+
+.featured-winners-holder .featured-prize {
+  display: block;
+  font-family: var(--alc-font);
+  font-size: 80px;
+  font-weight: 400;
+  height: 77px;
+  left: 0;
+  line-height: 60px;
+  margin: 0;
+  position: absolute;
+  top: 133.4375px;
+  width: 373px;
+}
+
+.featured-winners-holder .featured-prize::before {
+  font-size: 44px;
+  line-height: 77px;
+}
+
+.featured-winners-holder .featured-prize span {
+  border: 0;
+  display: inline-block;
+  font-weight: 800;
+  height: 77px;
+  line-height: 60px;
+  margin: 0 5px 0 0;
+  padding: 15px 8px 0;
+}
+
+.featured-winners-holder .winner-info-details {
+  background: rgb(105 114 123 / 57%);
+  color: #fff;
+  height: 100px;
+  left: 15px;
+  padding: 0;
+  position: absolute;
+  top: 235.4375px;
+  width: 372.7px;
+}
+
+.featured-winners-holder .winner-info-details p {
+  margin: 0;
+}
+
+.featured-winners-holder .winner-info-details .name {
+  font-size: 28px;
+  font-weight: 700;
+  height: 32px;
+  line-height: 22px;
+  padding: 10px 0 0 10px;
+}
+
+.featured-winners-holder .winner-info-details .location {
+  font-size: 24px;
+  line-height: 34.2857px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.featured-winners-holder .winner-list {
+  background: #fff;
+}
+
+.featured-winners-holder .listing-layout {
+  display: grid;
+  grid-template-columns: 773.333px 386.667px;
+}
+
+.featured-winners-holder .listing-column {
+  padding: 0 10px;
+}
+
+.featured-winners-holder .winner-help {
+  background: #fff;
+  border: 1px solid var(--alc-line);
+  border-left: 4px solid var(--alc-green);
+  border-radius: 8px;
+  height: 152px;
+  margin: 20px 0;
+  overflow: hidden;
+  padding: 18px 10px 0 22px;
+  position: relative;
+}
+
+.featured-winners-holder .winner-help h1 {
+  color: #aaba0a;
+  font-family: var(--alc-display);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 27px;
+  margin: 0 0 7px;
+}
+
+.featured-winners-holder .winner-help p {
+  margin: 0;
+}
+
+.featured-winners-holder .winner-help > img {
+  height: 171px;
+  object-fit: contain;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 213px;
+}
+
+.featured-winners-holder .winner-help .actions {
+  display: flex;
+  gap: 53px;
+  margin-top: 23px;
+}
+
+.featured-winners-holder .winner-help .actions a {
+  color: var(--alc-blue);
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.featured-winners-holder .winner-help .actions a::after {
+  content: "›";
+  margin-left: 8px;
+}
+
+.featured-winners-holder .winners-content {
+  background: #fff;
+  border: 1px solid var(--alc-line);
+  border-radius: 8px;
+  box-shadow: 0 3px 5px 0 rgb(0 82 155 / 10%);
+  margin-bottom: 20px;
+  min-height: 2271.96875px;
+  padding: 10px;
+}
+
+.featured-winners-holder .winners-content h2 {
+  color: var(--alc-cyan);
+  font-family: var(--alc-display);
+  font-size: 22px;
+  line-height: 26px;
+  margin: 0 10px 10px;
+}
+
+.featured-winners-holder .filters-collapse {
+  display: none;
+}
+
+.featured-winners-holder .filters {
+  background: var(--alc-cyan);
+  border-radius: 10px 10px 0 0;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  height: 54px;
+  padding: 10px;
+}
+
+.featured-winners-holder .filters label {
+  display: block;
+  position: relative;
+}
+
+.featured-winners-holder .filters select {
+  appearance: none;
+  background: #fff;
+  border: 1px solid #aebbc7;
+  border-radius: 5px;
+  color: var(--alc-text-dark);
+  font-size: 14px;
+  height: 34px;
+  padding: 5px 30px 5px 10px;
+  width: 100%;
+}
+
+.featured-winners-holder .filters label::after {
+  color: #7b8792;
+  content: "⌄";
+  font-size: 18px;
+  pointer-events: none;
+  position: absolute;
+  right: 9px;
+  top: 2px;
+}
+
+.featured-winners-holder .search-winners {
+  align-items: center;
+  background: var(--alc-line);
+  display: grid;
+  font-weight: 700;
+  grid-template-columns: 25% 50% 25%;
+  height: 54px;
+  padding: 10px;
+}
+
+.featured-winners-holder .search-winners > label {
+  font-size: 14px;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.featured-winners-holder .custom-search {
+  display: flex;
+}
+
+.featured-winners-holder .custom-search input {
+  border: 1px solid #aebbc7;
+  border-radius: 5px 0 0 5px;
+  height: 34px;
+  padding: 5px 10px;
+  width: calc(100% - 38px);
+}
+
+.featured-winners-holder .custom-search button {
+  background: #fff url("./assets/alc-sprite-2.png") no-repeat -41px -111px;
+  border: 1px solid #aebbc7;
+  border-left: 0;
+  border-radius: 0 5px 5px 0;
+  height: 34px;
+  width: 38px;
+}
+
+.featured-winners-holder .reset-winners {
+  background: #fff;
+  border: 1px solid #aebbc7;
+  border-radius: 20px;
+  color: var(--alc-text-dark);
+  height: 31px;
+  justify-self: start;
+  margin-left: 10px;
+  padding: 0 13px;
+}
+
+.featured-winners-holder .winners-table {
+  border: 1px solid var(--alc-line);
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 3px 5px 0 rgb(0 82 155 / 10%);
+}
+
+.featured-winners-holder article.winner {
+  border-bottom: 1px solid var(--alc-line);
+  display: grid;
+  grid-template-columns: 24% 48% 28%;
+  height: 204px;
+  padding: 32px 22px;
+}
+
+.featured-winners-holder article.winner:last-child {
+  border-bottom: 0;
+}
+
+.featured-winners-holder .winner-img-mask {
+  border: 3px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px #ccc;
+  height: 130px;
+  overflow: hidden;
+  width: 130px;
+}
+
+.featured-winners-holder .winner-img-mask img {
+  height: 130px;
+  min-width: 130px;
+  width: auto;
+}
+
+.featured-winners-holder .winners-info {
+  padding-left: 15px;
+}
+
+.featured-winners-holder article.winner p {
+  line-height: 20px;
+  margin: 0;
+}
+
+.featured-winners-holder .winners-info .name {
+  font-weight: 700;
+}
+
+.featured-winners-holder .winners-info .location,
+.featured-winners-holder article.winner .retailer {
+  font-size: 14px;
+}
+
+.featured-winners-holder .winners-info .game {
+  display: block;
+  margin: 14px 0 -3px -7px;
+  max-height: 50px;
+  max-width: 90px;
+  object-fit: contain;
+  object-position: left bottom;
+}
+
+.featured-winners-holder .winners-info .readmore {
+  display: none;
+}
+
+.featured-winners-holder .winners-info .game.scratch {
+  max-height: 56px;
+}
+
+.featured-winners-holder .winners-info .game.tag {
+  max-height: 44px;
+}
+
+.featured-winners-holder .winners-info .prize-amount {
+  font-family: var(--alc-font);
+  font-size: 20px;
+  height: 32px;
+  line-height: 20px;
+  margin: -7px 0 5px -20px;
+}
+
+.featured-winners-holder .winners-info .prize-amount::before {
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.featured-winners-holder .winners-info .prize-amount span {
+  line-height: 20px;
+  padding: 8px 5px 0;
+}
+
+.featured-winners-holder article.winner .drawdate {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.featured-winners-holder .loadmore-wrapper {
+  padding: 10px;
+  text-align: center;
+}
+
+.featured-winners-holder .loadmore {
+  background: transparent;
+  border: 0;
+  color: var(--alc-cyan);
+  font-weight: 700;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.featured-winners-holder .loadmore span {
+  border-bottom: 1px solid var(--alc-cyan);
+}
+
+.featured-winners-holder .loadmore span::after {
+  content: " +";
+}
+
+.featured-winners-holder .promo-holder {
+  padding: 20px 10px 0;
+}
+
+.featured-winners-holder .promo-card {
+  height: 435px;
+  margin: 0 0 27px;
+  padding: 0 10px;
+}
+
+.featured-winners-holder .promo-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px 8px 0 0;
+  height: 185px;
+}
+
+.featured-winners-holder .promo-image.dream-big {
+  background-image: url("./assets/content-alc-en-corporate-are-you-a-winner-winners-html/promo-dream-big.png");
+}
+
+.featured-winners-holder .promo-image.contest {
+  background-image: url("./assets/content-alc-en-corporate-are-you-a-winner-winners-html/promo-contest.png");
+}
+
+.featured-winners-holder .promo-content {
+  border: 1px solid var(--alc-line);
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 2px 8px -2px rgb(0 0 0 / 45%);
+  height: 220px;
+  padding: 1px 40px 22px;
+  position: relative;
+}
+
+.featured-winners-holder .promo-content h3 {
+  font-size: 20px;
+  line-height: 22px;
+  margin: 17px 0 10px;
+}
+
+.featured-winners-holder .promo-content p {
+  line-height: 19.2px;
+  margin: 0;
+}
+
+.featured-winners-holder .promo-content a {
+  background: var(--alc-blue);
+  border: 2px solid #fff;
+  border-radius: 24px;
+  bottom: 20px;
+  color: #fff;
+  font-family: var(--alc-display);
+  font-size: 16px;
+  font-weight: 500;
+  height: 45px;
+  left: 40px;
+  line-height: 41px;
+  padding: 0 45px 0 15px;
+  position: absolute;
+}
+
+.featured-winners-holder .promo-content a span {
+  align-items: center;
+  background: #fff;
+  border-radius: 50%;
+  color: var(--alc-blue);
+  display: flex;
+  font-size: 28px;
+  height: 31px;
+  justify-content: center;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 31px;
+}
+
+@media (max-width: 767px) {
+  .featured-winners-holder .breadcrumb-container {
+    display: none;
+  }
+
+  .featured-winners-holder .featured-winner {
+    height: 375px;
+    margin: 0;
+  }
+
+  .featured-winners-holder .winners-bg {
+    background-image: url("./assets/content-alc-en-corporate-are-you-a-winner-winners-html/featured-mobile.jpg");
+    background-position: bottom center;
+    background-size: 760px auto;
+    height: 375px;
+  }
+
+  .featured-winners-holder .winner-info-container {
+    margin-left: 0;
+    padding: 75px 0 0 20px;
+    width: 275.67px;
+  }
+
+  .featured-winners-holder .game-title {
+    height: 50px;
+    left: 18px;
+    top: 75px;
+    width: 257.67px;
+  }
+
+  .featured-winners-holder .game-title img {
+    height: 60px;
+    left: -6px;
+    top: -3px;
+    width: 101px;
+  }
+
+  .featured-winners-holder .game-title span {
+    font-size: 21px;
+    line-height: 30px;
+    left: 3px;
+    padding: 0 20px 0 105px;
+    top: 20px;
+    width: 195.52px;
+  }
+
+  .featured-winners-holder .featured-prize {
+    font-size: 48px;
+    height: 58px;
+    left: 20px;
+    line-height: 48px;
+    top: 128px;
+    width: 255.67px;
+  }
+
+  .featured-winners-holder .featured-prize::before {
+    font-size: 32px;
+    line-height: 58px;
+  }
+
+  .featured-winners-holder .featured-prize span {
+    height: 58px;
+    line-height: 48px;
+    margin: 0;
+    padding: 8px 8px 0;
+  }
+
+  .featured-winners-holder .winner-info-details {
+    left: 15px;
+    padding: 0;
+    top: 211px;
+    width: 255.67px;
+  }
+
+  .featured-winners-holder .winner-info-details .name {
+    font-size: 17px;
+    line-height: 22px;
+  }
+
+  .featured-winners-holder .winner-info-details .location {
+    font-size: 17px;
+    line-height: 24.2857px;
+  }
+
+  .featured-winners-holder .listing-layout {
+    display: block;
+  }
+
+  .featured-winners-holder .winner-list {
+    display: flow-root;
+  }
+
+  .featured-winners-holder .listing-column {
+    padding: 0 10px;
+  }
+
+  .featured-winners-holder .winner-help {
+    border: 0;
+    height: 361.375px;
+    margin: 20px 0 0;
+    padding: 0 10px;
+  }
+
+  .featured-winners-holder .winner-help h1 {
+    font-size: 30px;
+    line-height: 33px;
+    margin: 20px 0 5px;
+  }
+
+  .featured-winners-holder .winner-help > img {
+    height: 171px;
+    left: 63px;
+    right: auto;
+    top: 91px;
+    width: 213px;
+  }
+
+  .featured-winners-holder .winner-help .actions {
+    display: block;
+    margin: 159px -10px 0;
+    min-height: 109.69px;
+    padding: 0 10px;
+  }
+
+  .featured-winners-holder .winner-help .actions a {
+    display: block;
+    font-size: 14px;
+    margin: 0 0 16px;
+  }
+
+  .featured-winners-holder .winners-content {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 10px 0 20px;
+    min-height: 2626.171875px;
+    padding: 0;
+  }
+
+  .featured-winners-holder .winners-content h2 {
+    font-size: 24px;
+    line-height: 26.4px;
+    margin: 10px;
+  }
+
+  .featured-winners-holder .filters-collapse {
+    background: var(--alc-cyan);
+    border: 0;
+    border-radius: 10px 10px 0 0;
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    height: 43px;
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+  }
+
+  .featured-winners-holder .filters-collapse::after {
+    content: "+";
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+  }
+
+  .featured-winners-holder .filters-collapse[aria-expanded="true"]::after {
+    content: "−";
+  }
+
+  .featured-winners-holder .filter-holder {
+    height: 0;
+    overflow: hidden;
+    transition: height .35s ease;
+  }
+
+  .featured-winners-holder .filter-holder.is-open {
+    height: 306px;
+  }
+
+  .featured-winners-holder .filters {
+    border-radius: 0;
+    display: block;
+    height: 162px;
+  }
+
+  .featured-winners-holder .filters label {
+    margin-bottom: 10px;
+  }
+
+  .featured-winners-holder .search-winners {
+    display: block;
+    height: 144px;
+  }
+
+  .featured-winners-holder .search-winners > label {
+    display: block;
+    margin-bottom: 10px;
+    padding: 0;
+    text-align: center;
+  }
+
+  .featured-winners-holder .custom-search {
+    margin: 0 auto 10px;
+    max-width: 400px;
+  }
+
+  .featured-winners-holder .reset-winners {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .featured-winners-holder .winners-table {
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .featured-winners-holder article.winner {
+    display: grid;
+    grid-template-columns: 37.5% 62.5%;
+    height: 235.078125px;
+    padding: 20px 10px;
+  }
+
+  .featured-winners-holder article.winner:nth-child(3) {
+    height: 267.515625px;
+  }
+
+  .featured-winners-holder article.winner:nth-child(4),
+  .featured-winners-holder article.winner:nth-child(9) {
+    height: 248.15625px;
+  }
+
+  .featured-winners-holder article.winner:nth-child(5) {
+    height: 255.515625px;
+  }
+
+  .featured-winners-holder article.winner:nth-child(10) {
+    height: 283.359375px;
+  }
+
+  .featured-winners-holder .winner-img-mask {
+    height: 100px;
+    width: 95px;
+  }
+
+  .featured-winners-holder .winner-img-mask img {
+    height: 100px;
+    min-width: 100px;
+    width: 100px;
+  }
+
+  .featured-winners-holder .winners-info {
+    padding: 0 10px 0 15px;
+  }
+
+  .featured-winners-holder .winners-info .name,
+  .featured-winners-holder .winners-info .location {
+    font-size: 16px;
+    line-height: 22.8571px;
+  }
+
+  .featured-winners-holder .winners-info .game {
+    margin-top: 14px;
+  }
+
+  .featured-winners-holder article.winner .retailer {
+    font-size: 16px;
+    grid-column: 1 / 3;
+    margin: 0;
+    padding: 0 10px;
+  }
+
+  .featured-winners-holder article.winner .retailer p {
+    line-height: 22.8571px;
+  }
+
+  .featured-winners-holder .loadmore-wrapper {
+    border: 1px solid var(--alc-line);
+    border-radius: 0 0 8px 8px;
+    border-top: 0;
+    padding: 20px 10px;
+  }
+
+  .featured-winners-holder .loadmore {
+    margin: 0;
+  }
+
+  .featured-winners-holder .promo-holder {
+    height: 1005px;
+    padding: 20px 10px 0;
+  }
+
+  .featured-winners-holder .promo-card {
+    height: 435px;
+    padding: 0 10px;
+  }
+}

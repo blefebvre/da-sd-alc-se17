@@ -1,0 +1,327 @@
+{
+  "url": "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1081,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 2181,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 800,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 500,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 300,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 150,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 120,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 90,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 60,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 30,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".body-content .accordion .panel-title a",
+      "frames": [
+        {
+          "t": 15015.200000017881,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15216.700000017881,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15419,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15622,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".body-content .accordion .panel-title a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 157, 219)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 157, 219)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "height",
+        "el": "div.accordion.parbase.section > div > div.panel-group > div.panel.panel-default > div.panel-collapse.collapsing",
+        "y": 434,
+        "dur": "0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.promo.col-xs-12.col-sm-12 > div.promo-holder > div > div.cmp.cmp-image.section > div.impress.impressed",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.promo.col-xs-12.col-sm-12 > div.promo-holder > div > div.cmp.cmp-image.section > div.impress.impressed",
+        "y": 400
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.promo.col-xs-12.col-sm-12 > div.promo-holder > div > div.cmp.cmp-image.section > div.impress.impressed",
+        "y": 800
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 434
+      },
+      {
+        "added": [
+          "collapsing"
+        ],
+        "el": "div.accordion.parbase.section > div > div.panel-group > div.panel.panel-default > div.panel-collapse.collapsing",
+        "y": 434
+      },
+      {
+        "added": [
+          "collapsing"
+        ],
+        "el": "div.accordion.parbase.section > div > div.panel-group > div.panel.panel-default > div.panel-collapse.collapsing",
+        "y": 434
+      },
+      {
+        "added": [
+          "collapse",
+          "in"
+        ],
+        "el": "div.accordion.parbase.section > div > div.panel-group > div.panel.panel-default > div.panel-collapse.collapse.in",
+        "y": 434
+      },
+      {
+        "added": [
+          "collapse",
+          "in"
+        ],
+        "el": "div.accordion.parbase.section > div > div.panel-group > div.panel.panel-default > div.panel-collapse.collapse.in",
+        "y": 434
+      }
+    ]
+  }
+}

@@ -1,0 +1,1975 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-09-17T17:22:59.810Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "content-alc-en-play-online-proline-html",
+  "url": "https://www.alc.ca/content/alc/en/play-online/proline.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-09-17T17:22:59.810Z",
+  "finalUrl": "https://www.alc.ca/content/proline-stadium/en.html",
+  "title": "Play Proline Stadium Online | Sports Betting Canada | Atlantic Lottery",
+  "description": "Play Proline Stadium online. Safe and secure sports betting in Canada. Wager on singles, futures, fantasy and more.",
+  "og": {
+    "title": "Home",
+    "description": "Play Proline Stadium online. Safe and secure sports betting in Canada. Wager on singles, futures, fantasy and more.",
+    "image": "https://www.alc.ca/content/dam/alc/images/static/social-share-images/facebook-proline-en.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "HOW GOOD IS YOUR GAME?"
+    },
+    {
+      "tag": "h2",
+      "text": "New on Pro-Line"
+    },
+    {
+      "tag": "h2",
+      "text": "EVENTS AND PROMOTIONS"
+    },
+    {
+      "tag": "h2",
+      "text": "How do I Play?"
+    },
+    {
+      "tag": "h4",
+      "text": "How to use QR Codes"
+    },
+    {
+      "tag": "h4",
+      "text": "How to use QR Codes"
+    },
+    {
+      "tag": "h4",
+      "text": "How to Play Moneyline"
+    },
+    {
+      "tag": "h4",
+      "text": "How to Play Spreads and Totals"
+    },
+    {
+      "tag": "h4",
+      "text": "How to Play Stadium Bets"
+    },
+    {
+      "tag": "h4",
+      "text": "How to Play Combo Plays"
+    },
+    {
+      "tag": "h2",
+      "text": "How good is your game?"
+    },
+    {
+      "tag": "h1",
+      "text": "Are you a winner?"
+    },
+    {
+      "tag": "h1",
+      "text": "Giving Back"
+    },
+    {
+      "tag": "h2",
+      "text": "Did you know 100% of the profits go back into the community?"
+    },
+    {
+      "tag": "h1",
+      "text": "About Atlantic Lottery"
+    },
+    {
+      "tag": "h1",
+      "text": "PlayWise"
+    },
+    {
+      "tag": "h3",
+      "text": "Explore our other sites:"
+    }
+  ],
+  "body": [
+    "Games Buy Proline tickets online. Wager on Games, Props and Novelty Bets through a variety of wagering formats. Buy Proline Fantasy tickets online. A different spin on Daily Fantasy: Fixed odds! Pick group winners and track performance on our In-Progress page. Buy Proline Futures tickets online. Single selection wagers available on a variety of sports and novelty offerings. No parlays required. Buy Proline Stadium Bets tickets online. Wager on Singles or Parlays at premium odds. No Proline \"Ties\".",
+    "How to Play How To Play - PRO•LINE How To Play - FANTASY How To Play - FUTURES How To Play - STADIUM•BETS",
+    "Scores & Stats Matchups & Stats PRO•LINE Results FANTASY Results FANTASY in-progress FUTURES Results STADIUM•BETS Results",
+    "ALC Atlantic Lottery Lotto Games Casino Instant Wins",
+    "Wager on Games, Props and Novelty Bets through a variety of wagering formats.",
+    "A different spin on Daily Fantasy: Fixed odds! Pick group winners and track performance on our In-Progress page.",
+    "Single selection wagers on league or tournament winners, awards shows and more",
+    "Wager on Singles or Parlays at premium odds. No Proline “Ties\"",
+    "Find all the information you need to help you place a PRO•LINE wager.",
+    "Check out the videos below for tips and tutorials on PRO•LINE fundamentals or learn more in our How to Play section.",
+    "Learn how to create QR Codes - a quick and easy way to make your PRO•LINE picks when purchasing at retail.",
+    "How to use QR Codes New! - WATCH VIDEO How to Play Moneyline Part 1 - WATCH VIDEO How to Play Spreads and Totals Part 2 - WATCH VIDEO How to Play Stadium Bets Part 3 - WATCH VIDEO How to Play Combo Plays Part 4 - WATCH VIDEO",
+    "New! -",
+    "Part 1 -",
+    "Part 2 -",
+    "Part 3 -",
+    "Part 4 -",
+    "Contact Us",
+    "tooltip_2 Leave a Comment",
+    "Buying and Checking your Tickets",
+    "Buying and Checking your Tickets",
+    "Claiming your Prize",
+    "Claiming your Prize",
+    "Winners",
+    "Winners",
+    "AL Winners Publicity Policy",
+    "AL Winners Publicity Policy",
+    "Where the Money Goes",
+    "Where the Money Goes",
+    "Social Responsibility",
+    "Social Responsibility",
+    "Sponsorships",
+    "Sponsorships",
+    "Community Initiative",
+    "Community Initiative",
+    "Who is Atlantic Lottery",
+    "Who is Atlantic Lottery",
+    "Integrity and Compliance",
+    "Integrity and Compliance",
+    "Corporate Transparency",
+    "Corporate Transparency",
+    "Career Opportunities",
+    "Career Opportunities",
+    "Retailer Zone",
+    "Retailer Zone",
+    "Contact Us",
+    "Contact Us",
+    "News Room",
+    "News Room",
+    "More News: The Ticket",
+    "More News: The Ticket",
+    "Supply Chain Management",
+    "Supply Chain Management",
+    "Rules and Regulations",
+    "Rules and Regulations",
+    "Player Tools",
+    "Player Tools",
+    "Player Assessment",
+    "Player Assessment",
+    "Know The Facts",
+    "Know The Facts",
+    "Get Support",
+    "Get Support",
+    "Our Promise",
+    "Our Promise",
+    "SITE MAP | SECURITY | TERMS OF SERVICE | LEGAL AND PRIVACY | HEALTHY PLAY POLICY | COOKIE POLICY",
+    "You must be 19+ to purchase, play or redeem ALC products.",
+    "© Copyright Atlantic Lottery Corporation. All rights reserved."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "PROLINE",
+      "href": "/content/proline-stadium/en.html"
+    },
+    {
+      "label": "Français",
+      "href": "?toggle"
+    },
+    {
+      "label": "Help",
+      "href": "/content/proline-stadium/en/how-to-play.html"
+    },
+    {
+      "label": "Create Account",
+      "href": "/content/alc/en/registration/register-account.html"
+    },
+    {
+      "label": "0",
+      "href": "/content/alc/en/cart.html"
+    },
+    {
+      "label": " Sign In",
+      "href": null
+    },
+    {
+      "label": "Games",
+      "href": "/content/proline-stadium/en/games.html"
+    },
+    {
+      "label": "How to Play",
+      "href": "/content/proline-stadium/en/how-to-play.html"
+    },
+    {
+      "label": "Scores & Stats",
+      "href": "/content/proline-stadium/en/scores-and-stats.html"
+    },
+    {
+      "label": "ALC",
+      "href": null
+    },
+    {
+      "label": "Make your picks",
+      "href": "/content/proline-stadium/en/games/proline.html"
+    },
+    {
+      "label": "Make your picks",
+      "href": "/content/proline-stadium/en/games/fantasy.html"
+    },
+    {
+      "label": "Make your picks",
+      "href": "/content/proline-stadium/en/games/futures.html"
+    },
+    {
+      "label": "Make your picks",
+      "href": "/content/proline-stadium/en/games/stadium-bets.html"
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "previous",
+      "href": null
+    },
+    {
+      "label": "next",
+      "href": null
+    },
+    {
+      "label": "WATCH VIDEO",
+      "href": "#"
+    },
+    {
+      "label": "WATCH VIDEO",
+      "href": "#"
+    },
+    {
+      "label": "WATCH VIDEO",
+      "href": "#"
+    },
+    {
+      "label": "WATCH VIDEO",
+      "href": "#"
+    },
+    {
+      "label": "WATCH VIDEO",
+      "href": "#"
+    },
+    {
+      "label": "Wager Now",
+      "href": "/content/alc/en/registration/create-account.html"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+    },
+    {
+      "label": "Leave a Comment",
+      "href": null
+    },
+    {
+      "label": "Are you a winner?",
+      "href": "/content/alc/en/corporate/are-you-a-winner.html"
+    },
+    {
+      "label": "Buying and Checking your Tickets",
+      "href": "/content/alc/en/corporate/are-you-a-winner/buying-and-checking-your-tickets.html"
+    },
+    {
+      "label": "Claiming your Prize",
+      "href": "/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html"
+    },
+    {
+      "label": "Winners",
+      "href": "/content/alc/en/corporate/are-you-a-winner/winners.html"
+    },
+    {
+      "label": "AL Winners Publicity Policy",
+      "href": "/content/alc/en/corporate/are-you-a-winner/al-winners-publicity-policy.html"
+    },
+    {
+      "label": "Giving Back",
+      "href": "/content/alc/en/corporate/giving-back.html"
+    },
+    {
+      "label": "Where the Money Goes",
+      "href": "/content/alc/en/corporate/giving-back/where-the-money-goes.html"
+    },
+    {
+      "label": "Social Responsibility",
+      "href": "/content/alc/en/corporate/giving-back/corporate-social-responsibility.html"
+    },
+    {
+      "label": "Sponsorships",
+      "href": "/content/alc/en/corporate/giving-back/sponsorships.html"
+    },
+    {
+      "label": "Community Initiative",
+      "href": "/content/alc/en/corporate/giving-back/sponsored-events.html"
+    },
+    {
+      "label": "About Atlantic Lottery",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery.html"
+    },
+    {
+      "label": "Who is Atlantic Lottery",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/who-is-al.html"
+    },
+    {
+      "label": "Integrity and Compliance",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/integrity-and-compliance.html"
+    },
+    {
+      "label": "Corporate Transparency",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/corporate-transparency.html"
+    },
+    {
+      "label": "Career Opportunities",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/career-opportunities.html"
+    },
+    {
+      "label": "Retailer Zone",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/retailers.html"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+    },
+    {
+      "label": "News Room",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/media-room.html"
+    },
+    {
+      "label": "More News: The Ticket",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/theticket.html"
+    },
+    {
+      "label": "Supply Chain Management",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html"
+    },
+    {
+      "label": "Rules and Regulations",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html"
+    },
+    {
+      "label": "PlayWise",
+      "href": "/content/alc/en/corporate/playwise.html"
+    },
+    {
+      "label": "Player Tools",
+      "href": "/content/alc/en/corporate/playwise/player-tools.html"
+    },
+    {
+      "label": "Player Assessment",
+      "href": "/content/alc/en/corporate/playwise/player-assessment.html"
+    },
+    {
+      "label": "Know The Facts",
+      "href": "/content/alc/en/corporate/playwise/know-the-facts.html"
+    },
+    {
+      "label": "Get Support",
+      "href": "/content/alc/en/corporate/playwise/get-support.html"
+    },
+    {
+      "label": "Our Promise",
+      "href": "/content/alc/en/corporate/playwise/our-promise.html"
+    },
+    {
+      "label": "SITE MAP",
+      "href": "/content/alc/en/legal/site-map.html"
+    },
+    {
+      "label": "SECURITY",
+      "href": "/content/alc/en/legal/security.html"
+    },
+    {
+      "label": "TERMS OF SERVICE",
+      "href": "/content/alc/en/legal/terms-and-conditions.html"
+    },
+    {
+      "label": "LEGAL AND PRIVACY",
+      "href": "/content/alc/en/legal/privacy-policy.html"
+    },
+    {
+      "label": "HEALTHY PLAY POLICY",
+      "href": "/content/alc/en/legal/HealthyPlayPolicy.html"
+    },
+    {
+      "label": "COOKIE POLICY",
+      "href": "/content/alc/en/referenced/cookie-policy.html"
+    }
+  ],
+  "links": [
+    "https://www.alc.ca/content/proline-stadium/en.html#skip-to-main-content",
+    "https://www.alc.ca/content/alc/en/referenced-content/external/help-redirect.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/contact-us.html",
+    "https://www.alc.ca/content/proline-stadium/en.html",
+    "https://www.alc.ca/content/proline-stadium/en/games/proline.html?page=retailpicks",
+    "https://www.alc.ca/content/proline-stadium/en.html?toggle",
+    "https://www.alc.ca/content/proline-stadium/en/how-to-play.html",
+    "https://www.alc.ca/content/alc/en/registration/register-account.html",
+    "https://www.alc.ca/content/alc/en/cart.html",
+    "https://www.alc.ca/content/proline-stadium/en.html#",
+    "https://www.alc.ca/content/alc/en/my-account.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-profile.html",
+    "https://www.alc.ca/content/alc/en/my-account/message-center.html",
+    "https://www.alc.ca/content/alc/en/registration/reverify-account.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-offers.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-rewards/redeem-points.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-rewards/contests-and-entries.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-rewards/enter-tickets.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-wallet.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-proline-tokens.html",
+    "https://www.alc.ca/content/proline-stadium/en/games.html",
+    "https://www.alc.ca/content/proline-stadium/en/games/proline.html",
+    "https://www.alc.ca/content/proline-stadium/en/games/fantasy.html",
+    "https://www.alc.ca/content/proline-stadium/en/games/futures.html",
+    "https://www.alc.ca/content/proline-stadium/en/games/stadium-bets.html",
+    "https://www.alc.ca/content/proline-stadium/en/how-to-play/how-to-play-proline.html",
+    "https://www.alc.ca/content/proline-stadium/en/how-to-play/how-to-play-fantasy.html",
+    "https://www.alc.ca/content/proline-stadium/en/how-to-play/how-to-play-futures.html",
+    "https://www.alc.ca/content/proline-stadium/en/how-to-play/how-to-play-stadium.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats/matchups-stats.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats/proline-results.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats/fantasy-results.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats/fantasy-in-progress.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats/futures-results.html",
+    "https://www.alc.ca/content/proline-stadium/en/scores-and-stats/stadium-results.html",
+    "https://www.alc.ca/content/alc/en.html",
+    "https://www.alc.ca/content/alc/en/our-games/lotto.html",
+    "https://www.alc.ca/en/casino.html",
+    "https://www.alc.ca/content/alc/en/play-online/instant-win-games.html",
+    "https://www.alc.ca/content/proline-stadium/en.html#nav-dashboard-mobile",
+    "https://www.alc.ca/content/proline-stadium/en.html#nav-m-item-x",
+    "https://www.alc.ca/content/proline-stadium/en.html#nav-m-item-1",
+    "https://www.alc.ca/content/proline-stadium/en.html#nav-m-item-2",
+    "https://www.alc.ca/content/proline-stadium/en.html#nav-m-item-3",
+    "https://www.alc.ca/content/proline-stadium/en.html#nav-m-item-alc-menu",
+    "https://www.alc.ca/content/alc/en/registration/create-account.html",
+    "https://www.facebook.com/ProlineStadium",
+    "https://www.instagram.com/atlanticlottery",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/buying-and-checking-your-tickets.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/winners.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/al-winners-publicity-policy.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/where-the-money-goes.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/corporate-social-responsibility.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/sponsorships.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/sponsored-events.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/who-is-al.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/integrity-and-compliance.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/corporate-transparency.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/career-opportunities.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/retailers.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/media-room.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/theticket.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/player-tools.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/player-assessment.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/know-the-facts.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/get-support.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/our-promise.html",
+    "https://www.alc.ca/content/proline-stadium/en.html#footer-mobile-0",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner.html#responsibility_text",
+    "https://www.alc.ca/content/proline-stadium/en.html#footer-mobile-1",
+    "https://www.alc.ca/content/proline-stadium/en.html#footer-mobile-2",
+    "https://www.alc.ca/content/alc/en/archive/who-is-al-old.html",
+    "https://www.alc.ca/content/alc/en/referenced-content/external/the-ticket.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html#par1_text",
+    "https://www.alc.ca/content/proline-stadium/en.html#footer-mobile-3",
+    "https://www.askaway.ca/",
+    "https://redshores.ca/",
+    "https://www.alc.ca/content/alc/en/legal/site-map.html",
+    "https://www.alc.ca/content/alc/en/legal/security.html",
+    "https://www.alc.ca/content/alc/en/legal/terms-and-conditions.html",
+    "https://www.alc.ca/content/alc/en/legal/privacy-policy.html",
+    "https://www.alc.ca/content/alc/en/legal/HealthyPlayPolicy.html",
+    "https://www.alc.ca/content/alc/en/referenced/cookie-policy.html",
+    "https://www.google.com/chrome/browser/desktop/index.html",
+    "https://getfirefox.com/",
+    "https://www.microsoft.com/en-ca/windows/microsoft-edge",
+    "http://www.apple.com/ca/safari/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.alc.ca/content/dam/proline/images/bet-card/qrcodeicon.svg",
+        "alt": "QR",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+        "alt": "My Offers logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+        "alt": "Rewards Logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+        "alt": "Points Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+        "alt": "Entries Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+        "alt": "Add Points Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+        "alt": "",
+        "w": 20,
+        "h": 16
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+        "alt": "Wallet Logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+        "alt": "Wallet Logo",
+        "w": 27,
+        "h": 25
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+        "alt": "Proline Tokens Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/proline/images/bet-card/qrcodeicon.svg",
+        "alt": "QR",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/games.img.png/1595412796536.png",
+        "alt": "",
+        "w": 313,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/games/proline.img.png/1595412796040.png",
+        "alt": "PRO•LINE",
+        "w": 313,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/games/fantasy.img.png/1595412795580.png",
+        "alt": "FANTASY",
+        "w": 328,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/games/futures.img.png/1531891058222.png",
+        "alt": "FUTURES",
+        "w": 308,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/games/stadium-bets.img.png/1531891060667.png",
+        "alt": "STADIUM•BETS",
+        "w": 348,
+        "h": 60
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/Atlantic_Lottery_Corporation.svg.png",
+        "alt": "",
+        "w": 928,
+        "h": 809
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+        "alt": "My Offers Logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+        "alt": "Points",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+        "alt": "Rewards points logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+        "alt": "Rewards entries logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+        "alt": "Add points logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+        "alt": "Wallet logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+        "alt": "Wallet Logo",
+        "w": 27,
+        "h": 25
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+        "alt": "Proline Tokens Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/proline/logos/ALC-logo.png",
+        "alt": "",
+        "w": 71,
+        "h": 62
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/prolineImage.img.png/1685467012520.png",
+        "alt": "",
+        "w": 313,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/fantasyImage.img.png/1685467012520.png",
+        "alt": "",
+        "w": 328,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/futuresImage.img.jpg/1685467012520.jpg",
+        "alt": "",
+        "w": 556,
+        "h": 160
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/stadiumImage.img.jpg/1685467012520.jpg",
+        "alt": "",
+        "w": 908,
+        "h": 148
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/prolineImage.img.png/1685467012520.png",
+        "alt": "",
+        "w": 313,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/fantasyImage.img.png/1685467012520.png",
+        "alt": "",
+        "w": 328,
+        "h": 91
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/futuresImage.img.jpg/1685467012520.jpg",
+        "alt": "",
+        "w": 556,
+        "h": 160
+      },
+      {
+        "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/stadiumImage.img.jpg/1685467012520.jpg",
+        "alt": "",
+        "w": 908,
+        "h": 148
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/proline/images/home/btn-learnmore-en.png",
+        "alt": "Learn More.",
+        "w": 292,
+        "h": 56
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/chevron-right.svg",
+        "alt": "",
+        "w": 103,
+        "h": 150
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/chevron-right.svg",
+        "alt": "",
+        "w": 103,
+        "h": 150
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+        "alt": "",
+        "w": 343,
+        "h": 50
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+        "alt": "AskAway.ca logo (opens in a new tab)",
+        "w": 141,
+        "h": 51
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+        "alt": "Red Shores logo (opens in a new tab)",
+        "w": 137,
+        "h": 51
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+        "alt": "Responsible Gaming Logo",
+        "w": 66,
+        "h": 66
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+        "alt": "WORLD LOTTERY ASSOCIATION CERTIFIED WLA RESPONSIBLE GAMING FRAMEWORK LEVEL 4 / VALID UNTIL 2025",
+        "w": 504,
+        "h": 130
+      }
+    ],
+    "allImgCount": 45,
+    "cssBackgrounds": [
+      "https://www.alc.ca/content/dam/proline/images/logos/DM_home-prolinestadium-logo-en.svg",
+      "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/imageD.img.jpg/1685467012520.jpg",
+      "https://www.alc.ca/content/proline-stadium/en/referenced-content/carousel-slides/PROLINE/proline-rg-Promo/jcr:content/componentPar/promotional_carousel/imageD.img.jpg/1788896324255.jpg",
+      "https://www.alc.ca/content/proline-stadium/en/referenced-content/carousel-slides/PROLINE/proline-promo2/jcr:content/componentPar/promotional_carousel/imageD.img.jpg/1788551183876.jpg",
+      "https://www.alc.ca/content/proline-stadium/en/jcr:content/title-1/promo_tile/imageD.img.jpg/1788182828874.jpg",
+      "https://www.alc.ca/content/proline-stadium/en/jcr:content/title-2/promo_tile_869457696/imageD.img.jpg/1788961797227.jpg",
+      "https://www.alc.ca/content/proline-stadium/en/jcr:content/tile-3/promo_tile/imageD.img.jpg/1784661965518.jpg",
+      "https://www.alc.ca/content/proline-stadium/en/jcr:content/promo-options/lobby_promo/imageD.img.jpg/1743595732007.jpg"
+    ],
+    "modals": [
+      "× Multi-Factor Authentication Enter 6-Digit Code A 6-digit code has been sent to (***) ***-**05. This code will expire in 5 minutes. Please enter it here: Resend CodeMulti-Factor Authentication Is Temporarily Unavailable You can still sign in to our website and mobile app to play games, buy lottery tickets, and deposit/withdrawal money. However, you won't be able to update your password, Phone number, or turn off multi-factor authentication. ContinueMulti-Factor Authentication Sorry, you've exceeded the number of authentication attempts. Back to Sign-in Need help? Help Centre Contact Us",
+      "× Multi-Factor Authentication Enter 6-Digit Code A 6-digit code has been sent to (***) ***-**05. This code will expire in 5 minutes. Please enter it here: Resend CodeMulti-Factor Authentication Is Temporarily Unavailable You can still sign in to our website and mobile app to play games, buy lottery tickets, and deposit/withdrawal money. However, you won't be able to update your password, Phone number, or turn off multi-factor authentication. ContinueMulti-Factor Authentication Sorry, you've exceeded the number of authentication attempts. Back to Sign-in Need help? Help Centre Contact Us",
+      "Please upgrade your browser for an improved experience × To get the best possible experience from ALC.ca, we recommend upgrading your browser. Google Chrome Mozilla Firefox Microsoft Edge Apple Safari",
+      "Please upgrade your browser for an improved experience × To get the best possible experience from ALC.ca, we recommend upgrading your browser. Google Chrome Mozilla Firefox Microsoft Edge Apple Safari"
+    ],
+    "videos": [],
+    "iframes": [
+      {
+        "src": "https://www.youtube.com/embed/Umhy2gA2w6E?wmode=transparent&rel=0",
+        "title": null
+      }
+    ]
+  },
+  "customProps": {
+    "--hero-height": "calc(341.12903226px)"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 16,
+    "mainTextLen": 21437,
+    "realImageCount": 42,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/libs/cq/i18n/dict.en.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/libs/cq/i18n/dict.en.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/libs/granite/csrf/token.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/libs/granite/csrf/token.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/services/pam/Dashboard",
+        "query": [
+          "_"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/services/pam/Dashboard",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/services/HeaderPromoServlet",
+        "query": [
+          "_"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/services/HeaderPromoServlet",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/services/AlertServlet",
+        "query": [
+          "_",
+          "path"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/services/AlertServlet",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "atlanticlottery2.us-7.evergage.com",
+        "path": "/api2/event/engage",
+        "query": [
+          "event"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://atlanticlottery2.us-7.evergage.com/api2/event/engage",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "googleads.g.doubleclick.net",
+        "path": "/pagead/id",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 133,
+        "hits": 1,
+        "example": "https://googleads.g.doubleclick.net/pagead/id",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "pixel-config.reddit.com",
+        "path": "/pixels/a2_eyrkyqvcmhun/config",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 97,
+        "hits": 1,
+        "example": "https://pixel-config.reddit.com/pixels/a2_eyrkyqvcmhun/config",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ib.adnxs.com",
+        "path": "/pixie/up",
+        "query": [
+          "pi"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/xml",
+        "status": 200,
+        "bytes": 9,
+        "hits": 2,
+        "example": "https://ib.adnxs.com/pixie/up",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ct.pinterest.com",
+        "path": "/user/",
+        "query": [
+          "cb",
+          "dep",
+          "pd",
+          "tid"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 232,
+        "hits": 1,
+        "example": "https://ct.pinterest.com/user/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ct.pinterest.com",
+        "path": "/v3/",
+        "query": [
+          "ad",
+          "cb",
+          "event",
+          "pd",
+          "tid"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 35,
+        "hits": 1,
+        "example": "https://ct.pinterest.com/v3/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "jnn-pa.googleapis.com",
+        "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json+protobuf",
+        "status": 200,
+        "bytes": 126,
+        "hits": 1,
+        "example": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;src=8593458;type=invmedia;cat=alc-u0;rcb=14;ord=6708745352239;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665774_y-D1KMzANgAweHNbft-odXr_2oGHGrDpcg;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;src=8593458;type=invmedia;cat=alc-u0;rcb=14;ord=6708745352239;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665774_y-D1KMzANgAweHNbft-odXr_2oGHGrDpcg;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;dc_pre=CNCHrMaQ9pYDFZTMfgkdhTcZtQ;src=8593458;type=invmedia;cat=alc-u0;rcb=14;ord=6708745352239;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665774_y-D1KMzANgAweHNbft-odXr_2oGHGrDpcg;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;dc_pre=CNCHrMaQ9pYDFZTMfgkdhTcZtQ;src=8593458;type=invmedia;cat=alc-u0;rcb=14;ord=6708745352239;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665774_y-D1KMzANgAweHNbft-odXr_2oGHGrDpcg;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/gmp/conversion/_dc_unique_id=17637009140850466614;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7RGntfD3El0hk6oht-f0inZMPHNYKh5c55nAQ;_dc_time=1789665775;cid=CAQS4gEAQM4h3HZANW6N8uc5pawyoo6uFZMIZJXofEXz_LH53_5NyBL9-YiWlQ8faqqVz-abhP_FFBFccmH6UkuXibi_xfhwg-uIgeczlV_QmLYzsPnvl7a6i564Oj6yuqoLW-rFHCvTNtlBFmbU2giw7oyAXYu4prYkNBVpNrD7fRslerC69e_NxX0ZW4BBW5iu6idEY94Sy4bOnqw7Fk5HxfRTR-1UZp5mquJffSpnfqBFHXvMZ9JJhXrATU0HnF4v08rU1kFAALnegk5Zqi2ZNEiY7JSh1Yz7LsnPjCrY6Wxwm5c3;eps=AHas8cBaGPmje_YBrJNxlczt4jMmofKgx1j1wnesehbzfEOoD3Zx0PDZuttPUI1oqiEHeJ2OKYU53loWwJ2hRnRYmB0VgadblUmz17c6rk3GeiCyNA;dc_pre=CNCHrMaQ9pYDFZTMfgkdhTcZtQ;src=8593458;type=invmedia;cat=alc-u0;rcb=14;ord=6708745352239;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665774_y-D1KMzANgAweHNbft-odXr_2oGHGrDpcg;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 42,
+        "hits": 1,
+        "example": "https://www.google.com/gmp/conversion/_dc_unique_id=17637009140850466614;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7RGntfD3El0hk6oht-f0inZMPHNYKh5c55nAQ;_dc_time=1789665775;cid=CAQS4gEAQM4h3HZANW6N8uc5pawyoo6uFZMIZJXofEXz_LH53_5NyBL9-YiWlQ8faqqVz-abhP_FFBFccmH6UkuXibi_xfhwg-uIgeczlV_QmLYzsPnvl7a6i564Oj6yuqoLW-rFHCvTNtlBFmbU2giw7oyAXYu4prYkNBVpNrD7fRslerC69e_NxX0ZW4BBW5iu6idEY94Sy4bOnqw7Fk5HxfRTR-1UZp5mquJffSpnfqBFHXvMZ9JJhXrATU0HnF4v08rU1kFAALnegk5Zqi2ZNEiY7JSh1Yz7LsnPjCrY6Wxwm5c3;eps=AHas8cBaGPmje_YBrJNxlczt4jMmofKgx1j1wnesehbzfEOoD3Zx0PDZuttPUI1oqiEHeJ2OKYU53loWwJ2hRnRYmB0VgadblUmz17c6rk3GeiCyNA;dc_pre=CNCHrMaQ9pYDFZTMfgkdhTcZtQ;src=8593458;type=invmedia;cat=alc-u0;rcb=14;ord=6708745352239;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665774_y-D1KMzANgAweHNbft-odXr_2oGHGrDpcg;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "tags.srv.stackadapt.com",
+        "path": "/sa.jpeg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/jpeg",
+        "status": 200,
+        "bytes": 693,
+        "hits": 1,
+        "example": "https://tags.srv.stackadapt.com/sa.jpeg",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "tags.srv.stackadapt.com",
+        "path": "/saq_pxl",
+        "query": [
+          "host",
+          "is_js",
+          "l_src",
+          "l_src_d",
+          "landing_url",
+          "sa-user-id",
+          "sa-user-id-v2",
+          "sa-user-id-v3",
+          "sa-user-id-v4",
+          "sa_conv_data_css_value",
+          "sa_conv_data_image_value",
+          "shop",
+          "t",
+          "tip",
+          "u_src",
+          "u_src_d",
+          "uid"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": 210,
+        "hits": 1,
+        "example": "https://tags.srv.stackadapt.com/saq_pxl",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "s.yimg.com",
+        "path": "/wi/config/10195444.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://s.yimg.com/wi/config/10195444.json",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;src=9785486;type=vendo0;cat=alc-u0;rcb=4;ord=6883881216151;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0h1v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~119791748~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665775_Tsrhuqq7Qc-ViQLA30bkD6d-l7VxOILF4Q;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;src=9785486;type=vendo0;cat=alc-u0;rcb=4;ord=6883881216151;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0h1v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~119791748~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665775_Tsrhuqq7Qc-ViQLA30bkD6d-l7VxOILF4Q;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;dc_pre=CMCS0caQ9pYDFS3gfgkdrNIdiQ;src=9785486;type=vendo0;cat=alc-u0;rcb=4;ord=6883881216151;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0h1v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~119791748~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665775_Tsrhuqq7Qc-ViQLA30bkD6d-l7VxOILF4Q;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;dc_pre=CMCS0caQ9pYDFS3gfgkdrNIdiQ;src=9785486;type=vendo0;cat=alc-u0;rcb=4;ord=6883881216151;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0h1v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~119791748~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665775_Tsrhuqq7Qc-ViQLA30bkD6d-l7VxOILF4Q;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/gmp/conversion/_dc_unique_id=3847517658655972198;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7TXZqoMLdOfREjKlTyjjx6hcCROJ9z6DG1ZXA;_dc_time=1789665775;cid=CAQS4gEAQM4h3G4SKgkDSVqEHyYzSJNlQ0_e-keE6ZPLva9bTQilr_2QFwvU8V53vabjjL5p8Pnf8DBvJm7iJvpyHDtvEw61WgC8zZdt8GvjpiFqr81U8rwuLAWv2u01IqQEl_Ko9-5hlGvYYnKcBS4GyOGjFNC7C-52k27bvq4dgPc_BnCaPgA_6gajoGHTBKBXDe8-yLEkQWlmAJKZNh635_D1oMYJ6ecDrQvwYzR98CbP11hwWtbT4YpKbquukV26i33wTZPaXWSS2WF7_7K2rAOLs7bi_6-2AKcEDRrLoOVMzrcX;eps=AHas8cDPmFZJmbTEsauq6lFq2zyzfu3sycKlhBWCJ3ZOkeKitZTvN_7hJuIyAMwjikXWLAimeS4HED5jCSO9GfsX_nAR092SZ4Yo6sZ2rOPjBa0ZzA;dc_pre=CMCS0caQ9pYDFS3gfgkdrNIdiQ;src=9785486;type=vendo0;cat=alc-u0;rcb=4;ord=6883881216151;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0h1v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~119791748~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665775_Tsrhuqq7Qc-ViQLA30bkD6d-l7VxOILF4Q;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 42,
+        "hits": 1,
+        "example": "https://www.google.com/gmp/conversion/_dc_unique_id=3847517658655972198;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7TXZqoMLdOfREjKlTyjjx6hcCROJ9z6DG1ZXA;_dc_time=1789665775;cid=CAQS4gEAQM4h3G4SKgkDSVqEHyYzSJNlQ0_e-keE6ZPLva9bTQilr_2QFwvU8V53vabjjL5p8Pnf8DBvJm7iJvpyHDtvEw61WgC8zZdt8GvjpiFqr81U8rwuLAWv2u01IqQEl_Ko9-5hlGvYYnKcBS4GyOGjFNC7C-52k27bvq4dgPc_BnCaPgA_6gajoGHTBKBXDe8-yLEkQWlmAJKZNh635_D1oMYJ6ecDrQvwYzR98CbP11hwWtbT4YpKbquukV26i33wTZPaXWSS2WF7_7K2rAOLs7bi_6-2AKcEDRrLoOVMzrcX;eps=AHas8cDPmFZJmbTEsauq6lFq2zyzfu3sycKlhBWCJ3ZOkeKitZTvN_7hJuIyAMwjikXWLAimeS4HED5jCSO9GfsX_nAR092SZ4Yo6sZ2rOPjBa0ZzA;dc_pre=CMCS0caQ9pYDFS3gfgkdrNIdiQ;src=9785486;type=vendo0;cat=alc-u0;rcb=4;ord=6883881216151;npa=0;auiddc=1299096422.1789665747;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0h1v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~119791748~120213116~120385422~120469145~120469153~121153387;epver=2;dc_random=1789665775_Tsrhuqq7Qc-ViQLA30bkD6d-l7VxOILF4Q;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Fproline-stadium%2Fen.html",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.youtube.com",
+        "path": "/youtubei/v1/log_event",
+        "query": [
+          "alt"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 31,
+        "hits": 2,
+        "example": "https://www.youtube.com/youtubei/v1/log_event",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "insight.adsrvr.org",
+        "path": "/track/realtimeconversion",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://insight.adsrvr.org/track/realtimeconversion",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.gstatic.com",
+        "path": "/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": 272,
+        "hits": 1,
+        "example": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "frm",
+          "gaf",
+          "gcd",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.youtube.com",
+        "count": 4
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "www.googleadservices.com",
+        "count": 4
+      },
+      {
+        "host": "analytics.tiktok.com",
+        "count": 3
+      },
+      {
+        "host": "s.pinimg.com",
+        "count": 2
+      },
+      {
+        "host": "js.adsrvr.org",
+        "count": 2
+      },
+      {
+        "host": "cdn.evgnet.com",
+        "count": 1
+      },
+      {
+        "host": "www.google-analytics.com",
+        "count": 1
+      },
+      {
+        "host": "static.doubleclick.net",
+        "count": 1
+      },
+      {
+        "host": "www.google.com",
+        "count": 1
+      },
+      {
+        "host": "acdn.adnxs.com",
+        "count": 1
+      },
+      {
+        "host": "www.redditstatic.com",
+        "count": 1
+      },
+      {
+        "host": "sc-static.net",
+        "count": 1
+      },
+      {
+        "host": "tr.snapchat.com",
+        "count": 1
+      },
+      {
+        "host": "tags.srv.stackadapt.com",
+        "count": 1
+      },
+      {
+        "host": "zz.connextra.com",
+        "count": 1
+      },
+      {
+        "host": "s.yimg.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.alc.ca/content/alc/en/search-results.html",
+        "hasAction": true,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "q"
+        ],
+        "search": true
+      }
+    ],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 5,
+      "thirdPartyEndpoints": 21,
+      "thirdPartyScriptHosts": 17,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 1,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/content-alc-en-play-online-proline-html.png",
+  "renderedHtml": "pages/content-alc-en-play-online-proline-html.html",
+  "type": "program",
+  "slots": {
+    "program-headline": {
+      "type": "text",
+      "value": "HOW GOOD IS YOUR GAME?",
+      "source": "headings[0].text"
+    },
+    "summary": {
+      "type": "text",
+      "value": "Play Proline Stadium online. Safe and secure sports betting in Canada. Wager on singles, futures, fantasy and more.",
+      "source": "description or body[0]"
+    },
+    "feature-grid": {
+      "type": "collection",
+      "value": {
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "New on Pro-Line"
+          },
+          {
+            "tag": "h2",
+            "text": "EVENTS AND PROMOTIONS"
+          },
+          {
+            "tag": "h2",
+            "text": "How do I Play?"
+          },
+          {
+            "tag": "h4",
+            "text": "How to use QR Codes"
+          },
+          {
+            "tag": "h4",
+            "text": "How to use QR Codes"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Play Moneyline"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Play Spreads and Totals"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Play Stadium Bets"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Play Combo Plays"
+          },
+          {
+            "tag": "h2",
+            "text": "How good is your game?"
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.alc.ca/content/dam/proline/images/bet-card/qrcodeicon.svg",
+            "alt": "QR",
+            "w": 150,
+            "h": 150
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+            "alt": "My Offers logo",
+            "w": 24,
+            "h": 24
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+            "alt": "Rewards Logo",
+            "w": 24,
+            "h": 24
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+            "alt": "Points Logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+            "alt": "Entries Logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+            "alt": "Add Points Logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+            "alt": "",
+            "w": 20,
+            "h": 16
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+            "alt": "Wallet Logo",
+            "w": 24,
+            "h": 24
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+            "alt": "Wallet Logo",
+            "w": 27,
+            "h": 25
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+            "alt": "Proline Tokens Logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/proline/images/bet-card/qrcodeicon.svg",
+            "alt": "QR",
+            "w": 150,
+            "h": 150
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/games.img.png/1595412796536.png",
+            "alt": "",
+            "w": 313,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/games/proline.img.png/1595412796040.png",
+            "alt": "PRO•LINE",
+            "w": 313,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/games/fantasy.img.png/1595412795580.png",
+            "alt": "FANTASY",
+            "w": 328,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/games/futures.img.png/1531891058222.png",
+            "alt": "FUTURES",
+            "w": 308,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/games/stadium-bets.img.png/1531891060667.png",
+            "alt": "STADIUM•BETS",
+            "w": 348,
+            "h": 60
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/Atlantic_Lottery_Corporation.svg.png",
+            "alt": "",
+            "w": 928,
+            "h": 809
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+            "alt": "My Offers Logo",
+            "w": 24,
+            "h": 24
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+            "alt": "Points",
+            "w": 24,
+            "h": 24
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+            "alt": "Rewards points logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+            "alt": "Rewards entries logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+            "alt": "Add points logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+            "alt": "Wallet logo",
+            "w": 24,
+            "h": 24
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+            "alt": "Wallet Logo",
+            "w": 27,
+            "h": 25
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+            "alt": "Proline Tokens Logo",
+            "w": 32,
+            "h": 32
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/proline/logos/ALC-logo.png",
+            "alt": "",
+            "w": 71,
+            "h": 62
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/prolineImage.img.png/1685467012520.png",
+            "alt": "",
+            "w": 313,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/fantasyImage.img.png/1685467012520.png",
+            "alt": "",
+            "w": 328,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/futuresImage.img.jpg/1685467012520.jpg",
+            "alt": "",
+            "w": 556,
+            "h": 160
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/stadiumImage.img.jpg/1685467012520.jpg",
+            "alt": "",
+            "w": 908,
+            "h": 148
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/prolineImage.img.png/1685467012520.png",
+            "alt": "",
+            "w": 313,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/fantasyImage.img.png/1685467012520.png",
+            "alt": "",
+            "w": 328,
+            "h": 91
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/futuresImage.img.jpg/1685467012520.jpg",
+            "alt": "",
+            "w": 556,
+            "h": 160
+          },
+          {
+            "src": "https://www.alc.ca/content/proline-stadium/en/jcr:content/game-box-fca/game_boxes_fca/stadiumImage.img.jpg/1685467012520.jpg",
+            "alt": "",
+            "w": 908,
+            "h": 148
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/proline/images/home/btn-learnmore-en.png",
+            "alt": "Learn More.",
+            "w": 292,
+            "h": 56
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/chevron-right.svg",
+            "alt": "",
+            "w": 103,
+            "h": 150
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/chevron-right.svg",
+            "alt": "",
+            "w": 103,
+            "h": 150
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+            "alt": "",
+            "w": 343,
+            "h": 50
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+            "alt": "AskAway.ca logo (opens in a new tab)",
+            "w": 141,
+            "h": 51
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+            "alt": "Red Shores logo (opens in a new tab)",
+            "w": 137,
+            "h": 51
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+            "alt": "Responsible Gaming Logo",
+            "w": 66,
+            "h": 66
+          },
+          {
+            "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+            "alt": "WORLD LOTTERY ASSOCIATION CERTIFIED WLA RESPONSIBLE GAMING FRAMEWORK LEVEL 4 / VALID UNTIL 2025",
+            "w": 504,
+            "h": 130
+          }
+        ]
+      },
+      "source": "headings[1:], media.imgs"
+    },
+    "details": {
+      "type": "rich-text",
+      "value": [
+        "Games Buy Proline tickets online. Wager on Games, Props and Novelty Bets through a variety of wagering formats. Buy Proline Fantasy tickets online. A different spin on Daily Fantasy: Fixed odds! Pick group winners and track performance on our In-Progress page. Buy Proline Futures tickets online. Single selection wagers available on a variety of sports and novelty offerings. No parlays required. Buy Proline Stadium Bets tickets online. Wager on Singles or Parlays at premium odds. No Proline \"Ties\".",
+        "How to Play How To Play - PRO•LINE How To Play - FANTASY How To Play - FUTURES How To Play - STADIUM•BETS",
+        "Scores & Stats Matchups & Stats PRO•LINE Results FANTASY Results FANTASY in-progress FUTURES Results STADIUM•BETS Results",
+        "ALC Atlantic Lottery Lotto Games Casino Instant Wins",
+        "Wager on Games, Props and Novelty Bets through a variety of wagering formats.",
+        "A different spin on Daily Fantasy: Fixed odds! Pick group winners and track performance on our In-Progress page.",
+        "Single selection wagers on league or tournament winners, awards shows and more",
+        "Wager on Singles or Parlays at premium odds. No Proline “Ties\"",
+        "Find all the information you need to help you place a PRO•LINE wager.",
+        "Check out the videos below for tips and tutorials on PRO•LINE fundamentals or learn more in our How to Play section.",
+        "Learn how to create QR Codes - a quick and easy way to make your PRO•LINE picks when purchasing at retail.",
+        "How to use QR Codes New! - WATCH VIDEO How to Play Moneyline Part 1 - WATCH VIDEO How to Play Spreads and Totals Part 2 - WATCH VIDEO How to Play Stadium Bets Part 3 - WATCH VIDEO How to Play Combo Plays Part 4 - WATCH VIDEO",
+        "New! -",
+        "Part 1 -",
+        "Part 2 -",
+        "Part 3 -",
+        "Part 4 -",
+        "Contact Us",
+        "tooltip_2 Leave a Comment",
+        "Buying and Checking your Tickets",
+        "Buying and Checking your Tickets",
+        "Claiming your Prize",
+        "Claiming your Prize",
+        "Winners",
+        "Winners",
+        "AL Winners Publicity Policy",
+        "AL Winners Publicity Policy",
+        "Where the Money Goes",
+        "Where the Money Goes",
+        "Social Responsibility",
+        "Social Responsibility",
+        "Sponsorships",
+        "Sponsorships",
+        "Community Initiative",
+        "Community Initiative",
+        "Who is Atlantic Lottery",
+        "Who is Atlantic Lottery",
+        "Integrity and Compliance",
+        "Integrity and Compliance",
+        "Corporate Transparency",
+        "Corporate Transparency",
+        "Career Opportunities",
+        "Career Opportunities",
+        "Retailer Zone",
+        "Retailer Zone",
+        "Contact Us",
+        "Contact Us",
+        "News Room",
+        "News Room",
+        "More News: The Ticket",
+        "More News: The Ticket",
+        "Supply Chain Management",
+        "Supply Chain Management",
+        "Rules and Regulations",
+        "Rules and Regulations",
+        "Player Tools",
+        "Player Tools",
+        "Player Assessment",
+        "Player Assessment",
+        "Know The Facts",
+        "Know The Facts",
+        "Get Support",
+        "Get Support",
+        "Our Promise",
+        "Our Promise",
+        "SITE MAP | SECURITY | TERMS OF SERVICE | LEGAL AND PRIVACY | HEALTHY PLAY POLICY | COOKIE POLICY",
+        "You must be 19+ to purchase, play or redeem ALC products.",
+        "© Copyright Atlantic Lottery Corporation. All rights reserved."
+      ],
+      "source": "body"
+    },
+    "cta-band": {
+      "type": "link-list",
+      "value": [
+        {
+          "label": "PROLINE",
+          "href": "/content/proline-stadium/en.html"
+        },
+        {
+          "label": "Français",
+          "href": "?toggle"
+        },
+        {
+          "label": "Help",
+          "href": "/content/proline-stadium/en/how-to-play.html"
+        },
+        {
+          "label": "Create Account",
+          "href": "/content/alc/en/registration/register-account.html"
+        },
+        {
+          "label": "0",
+          "href": "/content/alc/en/cart.html"
+        },
+        {
+          "label": " Sign In",
+          "href": null
+        },
+        {
+          "label": "Games",
+          "href": "/content/proline-stadium/en/games.html"
+        },
+        {
+          "label": "How to Play",
+          "href": "/content/proline-stadium/en/how-to-play.html"
+        },
+        {
+          "label": "Scores & Stats",
+          "href": "/content/proline-stadium/en/scores-and-stats.html"
+        },
+        {
+          "label": "ALC",
+          "href": null
+        },
+        {
+          "label": "Make your picks",
+          "href": "/content/proline-stadium/en/games/proline.html"
+        },
+        {
+          "label": "Make your picks",
+          "href": "/content/proline-stadium/en/games/fantasy.html"
+        },
+        {
+          "label": "Make your picks",
+          "href": "/content/proline-stadium/en/games/futures.html"
+        },
+        {
+          "label": "Make your picks",
+          "href": "/content/proline-stadium/en/games/stadium-bets.html"
+        },
+        {
+          "label": "1",
+          "href": null
+        },
+        {
+          "label": "2",
+          "href": null
+        },
+        {
+          "label": "previous",
+          "href": null
+        },
+        {
+          "label": "next",
+          "href": null
+        },
+        {
+          "label": "WATCH VIDEO",
+          "href": "#"
+        },
+        {
+          "label": "WATCH VIDEO",
+          "href": "#"
+        },
+        {
+          "label": "WATCH VIDEO",
+          "href": "#"
+        },
+        {
+          "label": "WATCH VIDEO",
+          "href": "#"
+        },
+        {
+          "label": "WATCH VIDEO",
+          "href": "#"
+        },
+        {
+          "label": "Wager Now",
+          "href": "/content/alc/en/registration/create-account.html"
+        },
+        {
+          "label": "Contact Us",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+        },
+        {
+          "label": "Leave a Comment",
+          "href": null
+        },
+        {
+          "label": "Are you a winner?",
+          "href": "/content/alc/en/corporate/are-you-a-winner.html"
+        },
+        {
+          "label": "Buying and Checking your Tickets",
+          "href": "/content/alc/en/corporate/are-you-a-winner/buying-and-checking-your-tickets.html"
+        },
+        {
+          "label": "Claiming your Prize",
+          "href": "/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html"
+        },
+        {
+          "label": "Winners",
+          "href": "/content/alc/en/corporate/are-you-a-winner/winners.html"
+        },
+        {
+          "label": "AL Winners Publicity Policy",
+          "href": "/content/alc/en/corporate/are-you-a-winner/al-winners-publicity-policy.html"
+        },
+        {
+          "label": "Giving Back",
+          "href": "/content/alc/en/corporate/giving-back.html"
+        },
+        {
+          "label": "Where the Money Goes",
+          "href": "/content/alc/en/corporate/giving-back/where-the-money-goes.html"
+        },
+        {
+          "label": "Social Responsibility",
+          "href": "/content/alc/en/corporate/giving-back/corporate-social-responsibility.html"
+        },
+        {
+          "label": "Sponsorships",
+          "href": "/content/alc/en/corporate/giving-back/sponsorships.html"
+        },
+        {
+          "label": "Community Initiative",
+          "href": "/content/alc/en/corporate/giving-back/sponsored-events.html"
+        },
+        {
+          "label": "About Atlantic Lottery",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery.html"
+        },
+        {
+          "label": "Who is Atlantic Lottery",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/who-is-al.html"
+        },
+        {
+          "label": "Integrity and Compliance",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/integrity-and-compliance.html"
+        },
+        {
+          "label": "Corporate Transparency",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/corporate-transparency.html"
+        },
+        {
+          "label": "Career Opportunities",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/career-opportunities.html"
+        },
+        {
+          "label": "Retailer Zone",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/retailers.html"
+        },
+        {
+          "label": "Contact Us",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+        },
+        {
+          "label": "News Room",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/media-room.html"
+        },
+        {
+          "label": "More News: The Ticket",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/theticket.html"
+        },
+        {
+          "label": "Supply Chain Management",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html"
+        },
+        {
+          "label": "Rules and Regulations",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html"
+        },
+        {
+          "label": "PlayWise",
+          "href": "/content/alc/en/corporate/playwise.html"
+        },
+        {
+          "label": "Player Tools",
+          "href": "/content/alc/en/corporate/playwise/player-tools.html"
+        },
+        {
+          "label": "Player Assessment",
+          "href": "/content/alc/en/corporate/playwise/player-assessment.html"
+        },
+        {
+          "label": "Know The Facts",
+          "href": "/content/alc/en/corporate/playwise/know-the-facts.html"
+        },
+        {
+          "label": "Get Support",
+          "href": "/content/alc/en/corporate/playwise/get-support.html"
+        },
+        {
+          "label": "Our Promise",
+          "href": "/content/alc/en/corporate/playwise/our-promise.html"
+        },
+        {
+          "label": "SITE MAP",
+          "href": "/content/alc/en/legal/site-map.html"
+        },
+        {
+          "label": "SECURITY",
+          "href": "/content/alc/en/legal/security.html"
+        },
+        {
+          "label": "TERMS OF SERVICE",
+          "href": "/content/alc/en/legal/terms-and-conditions.html"
+        },
+        {
+          "label": "LEGAL AND PRIVACY",
+          "href": "/content/alc/en/legal/privacy-policy.html"
+        },
+        {
+          "label": "HEALTHY PLAY POLICY",
+          "href": "/content/alc/en/legal/HealthyPlayPolicy.html"
+        },
+        {
+          "label": "COOKIE POLICY",
+          "href": "/content/alc/en/referenced/cookie-policy.html"
+        }
+      ],
+      "source": "ctas"
+    }
+  }
+}

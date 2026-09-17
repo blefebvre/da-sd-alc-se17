@@ -1,0 +1,638 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-17T19:57:39.117Z",
+  "regime": "prototype",
+  "archetypes": {
+    "content-alc-en-html": {
+      "name": "HOME",
+      "source": "https://www.alc.ca/content/alc/en.html",
+      "sourceRecord": "stardust/current/pages/content-alc-en-html.json",
+      "prototypePath": "stardust/prototypes/content-alc-en-html-proposed.html",
+      "mainSelector": "main.alc-container.cmp-container--fixed",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "reference": "stardust/replica/gates/content-alc-en-html-360/live.png",
+          "finalPrototype": "stardust/replica/gates/content-alc-en-html-360/proto-iter3.png",
+          "content": {
+            "structuralRed": 0,
+            "verdict": "pass",
+            "advisories": [
+              "Source carousel control glyphs and pagination numerals are UI chrome rather than authored content.",
+              "One prototype previous-control glyph is reported as extra body text."
+            ]
+          },
+          "visual": {
+            "verdict": "justified",
+            "flags": [
+              "The source inventory counts hidden account/template images while the clean prototype uses CSS backgrounds for authored imagery."
+            ]
+          },
+          "pixel": {
+            "unmaskedPercent": 9.46,
+            "maskedPercent": 9.88,
+            "mask": "145:375",
+            "maskReason": "The live hero carousel is authored-volatile.",
+            "heightDeltaPx": -1,
+            "thresholdPercent": 10,
+            "verdict": "pass"
+          },
+          "chromeCrops": {
+            "header": {
+              "percent": 23.66,
+              "thresholdPercent": 2,
+              "texture": "83.3% thick",
+              "verdict": "fail"
+            },
+            "footer": {
+              "percent": 11.38,
+              "thresholdPercent": 2,
+              "texture": "57.5% thick",
+              "verdict": "fail"
+            }
+          },
+          "iterations": [
+            {
+              "iteration": 1,
+              "pixelPercent": 20.58,
+              "maskedPixelPercent": 22.3,
+              "heightDeltaPx": -1,
+              "headerCropPercent": 12.92,
+              "footerCropPercent": 10.93
+            },
+            {
+              "iteration": 2,
+              "maskedPixelPercent": 16.1,
+              "heightDeltaPx": -1,
+              "headerCropPercent": 8.23,
+              "footerCropPercent": 9.44
+            },
+            {
+              "iteration": 3,
+              "pixelPercent": 9.46,
+              "maskedPixelPercent": 9.88,
+              "heightDeltaPx": -1,
+              "headerCropPercent": 23.66,
+              "footerCropPercent": 11.38
+            }
+          ]
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "reference": "stardust/replica/gates/content-alc-en-html-1440/live.png",
+          "finalPrototype": "stardust/replica/gates/content-alc-en-html-1440/proto-iter3.png",
+          "content": {
+            "structuralRed": 0,
+            "verdict": "pass",
+            "advisories": [
+              "One carousel previous-control glyph is reported as extra body text; it is interface chrome, not authored copy."
+            ]
+          },
+          "visual": {
+            "verdict": "justified",
+            "flags": [
+              "The source inventory counts hidden account/template images while the clean prototype uses CSS backgrounds for authored imagery."
+            ]
+          },
+          "pixel": {
+            "unmaskedPercent": 15.81,
+            "maskedPercent": 3.86,
+            "mask": "141:525",
+            "maskReason": "The live hero autoplay produced a different authored slide than the compatible captured desktop reference.",
+            "heightDeltaPx": 0,
+            "thresholdPercent": 10,
+            "verdict": "pass-with-authored-volatile-mask"
+          },
+          "chromeCrops": {
+            "header": {
+              "percent": 3.83,
+              "thresholdPercent": 2,
+              "texture": "53.4% thick",
+              "verdict": "fail"
+            },
+            "footer": {
+              "percent": 4.84,
+              "thresholdPercent": 2,
+              "texture": "53.6% thick",
+              "verdict": "fail"
+            }
+          },
+          "iterations": [
+            {
+              "iteration": 1,
+              "pixelPercent": 23.08,
+              "heightDeltaPx": -18
+            },
+            {
+              "iteration": 2,
+              "pixelPercent": 16.17,
+              "maskedPixelPercent": 4.28,
+              "heightDeltaPx": 0,
+              "headerCropPercent": 7.95,
+              "footerCropPercent": 5.02
+            },
+            {
+              "iteration": 3,
+              "pixelPercent": 15.81,
+              "maskedPixelPercent": 3.86,
+              "heightDeltaPx": 0,
+              "headerCropPercent": 3.83,
+              "footerCropPercent": 4.84
+            }
+          ]
+        }
+      },
+      "fluidCheck": {
+        "widths": [
+          1280,
+          1680,
+          1920
+        ],
+        "result": "pass",
+        "detail": "The 1160px desktop container remains fixed and centered; tile and rail sizing remains invariant while only outer offsets grow.",
+        "evidence": "stardust/replica/gates/content-alc-en-html-1440/fluid-box-map.json"
+      },
+      "motion": {
+        "observed": [
+          "No CSS animation or transition event fired.",
+          "Eleven impression-class mutations and one notification fixed-class mutation fired during scrolling.",
+          "Independent captures showed authored hero slide rotation."
+        ],
+        "implemented": [
+          "Desktop non-sticky and mobile fixed-header behavior.",
+          "Native footer disclosure behavior.",
+          "No unobserved transition was added."
+        ],
+        "dead": [
+          "The three requested carousel-control probe selectors and the CTA hover selector were absent from the live DOM at observation time."
+        ],
+        "evidence": "stardust/replica/motion/content-alc-en-html.json",
+        "postMotionPixel": {
+          "1440MaskedPercent": 3.86,
+          "360MaskedPercent": 9.88
+        }
+      },
+      "assets": {
+        "count": 46,
+        "root": "stardust/prototypes/assets/",
+        "manifest": "stardust/prototypes/assets/manifest.json",
+        "policy": "Exact public source logos, icons, sprite sheets, and image renditions were self-hosted; no trackers or secrets were copied."
+      },
+      "fonts": {
+        "selfHosted": [
+          "Ubuntu",
+          "Material Icons"
+        ],
+        "substituted": [
+          {
+            "source": "Proxima Nova",
+            "stack": "proxima_nova, Helvetica, Arial, sans-serif",
+            "reason": "Commercial/domain-locked source font was not rehosted."
+          }
+        ]
+      },
+      "residuals": [
+        "Desktop footer crop 3.16% exceeds the 2% bar.",
+        "Mobile header crop best 2.40% exceeds the 2% bar.",
+        "Mobile footer crop 8.38% exceeds the 2% bar.",
+        "Full-page masked pixel and height bars pass at both breakpoints.",
+        "Commercial Proxima Nova cannot be rehosted; no permitted available substitute brings the raw text-heavy chrome crop to 2%."
+      ],
+      "decision": "blocked-after-upstream-restart",
+      "upstreamCorrection": {
+        "reason": "The initial three-iteration run used incorrect chrome structure (equal-width navigation, misplaced subscription form, and wrong mobile control tiers). The shared canon was rebuilt from source CSS and measured geometry, then restarted for three iterations.",
+        "corrected": [
+          "Desktop navigation uses the source 1140px content width and content-sized flex growth.",
+          "Header search, utility, sign-in wrapper, footer subscription, social rows, mobile controls, accordion rows, and legal wrapping now follow source geometry.",
+          "Exact public source images/icons retained.",
+          "Open repository Roboto files evaluated as the closest available metric substitute; the branded family remains first for a licensed drop-in."
+        ],
+        "best": {
+          "desktop": {
+            "maskedPixelPercent": 3.45,
+            "heightDeltaPx": 0,
+            "headerCropPercent": 1.89,
+            "footerCropPercent": 3.16
+          },
+          "mobile": {
+            "maskedPixelPercent": 7.56,
+            "heightDeltaPx": -1,
+            "headerCropPercent": 2.4,
+            "footerCropPercent": 8.38
+          }
+        },
+        "blocker": "Remaining chrome pixels are dominated by the commercial Proxima Nova face. The source font is not licensed for rehosting on the preview/new origin, and downloading additional remote font candidates or the licensed source font was not authorized. The 2% chrome gate therefore remains unmet and does not qualify as a pass."
+      }
+    },
+    "content-alc-en-promos-ask-away-html": {
+      "type": "article",
+      "source": "https://www.alc.ca/content/alc/en/promos/ask-away.html",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "visual": {
+            "verdict": "justified"
+          },
+          "pixel": {
+            "percent": 8.07,
+            "heightDeltaPx": 11,
+            "verdict": "height-fail"
+          },
+          "contentCropPercent": 7.21,
+          "chromeCrops": {
+            "header": {
+              "percent": 2.48,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 5.08,
+              "verdict": "inherited-fail"
+            }
+          }
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "visual": {
+            "verdict": "justified"
+          },
+          "pixel": {
+            "percent": 3.8,
+            "heightDeltaPx": 0,
+            "verdict": "pass"
+          },
+          "contentCropPercent": 3.45,
+          "chromeCrops": {
+            "header": {
+              "percent": 3.67,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 4.83,
+              "verdict": "inherited-fail"
+            }
+          }
+        }
+      },
+      "motion": {
+        "observed": [
+          "accordion height transition"
+        ],
+        "implemented": [
+          "0.35s accordion height transition"
+        ],
+        "dead": [],
+        "evidence": "stardust/replica/motion/content-alc-en-promos-ask-away-html.json"
+      },
+      "residuals": [
+        "360 height delta 11px exceeds 8px",
+        "Inherited licensed-font chrome residual"
+      ],
+      "prototypePath": "stardust/prototypes/content-alc-en-promos-ask-away-html-proposed.html"
+    },
+    "content-alc-en-corporate-are-you-a-winner-winners-html": {
+      "type": "listing",
+      "source": "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/winners.html",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 9.69,
+            "heightDeltaPx": 15,
+            "verdict": "height-fail"
+          },
+          "contentCropPercent": 9.73,
+          "chromeCrops": {
+            "header": {
+              "percent": 2.48,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 5.87,
+              "verdict": "inherited-fail"
+            }
+          }
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 6.66,
+            "heightDeltaPx": 0,
+            "verdict": "pass"
+          },
+          "contentCropPercent": 7.98,
+          "chromeCrops": {
+            "header": {
+              "percent": 3.67,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 4.81,
+              "verdict": "inherited-fail"
+            }
+          }
+        }
+      },
+      "motion": {
+        "observed": [
+          "mobile filter collapse"
+        ],
+        "implemented": [
+          "0.35s filter height transition"
+        ],
+        "dead": [],
+        "evidence": "stardust/replica/motion/content-alc-en-corporate-are-you-a-winner-winners-html.json"
+      },
+      "residuals": [
+        "360 height delta 15px exceeds 8px",
+        "Inherited licensed-font chrome residual"
+      ],
+      "prototypePath": "stardust/prototypes/content-alc-en-corporate-are-you-a-winner-winners-html-proposed.html"
+    },
+    "content-alc-en-play-online-instant-win-games-html": {
+      "type": "program",
+      "source": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.html",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "unmaskedPercent": 12.39,
+            "maskedPercent": 9.71,
+            "heightDeltaPx": -1,
+            "verdict": "pass-with-authored-volatile-mask"
+          },
+          "contentCropPercent": 4.85,
+          "chromeCrops": {
+            "header": {
+              "percent": 2.48,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 5.06,
+              "verdict": "inherited-fail"
+            }
+          }
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "unmaskedPercent": 15.16,
+            "maskedPercent": 7.64,
+            "heightDeltaPx": -1,
+            "verdict": "pass-with-authored-volatile-mask"
+          },
+          "contentCropPercent": 3.72,
+          "chromeCrops": {
+            "header": {
+              "percent": 3.67,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 5.03,
+              "verdict": "inherited-fail"
+            }
+          }
+        }
+      },
+      "motion": {
+        "observed": [
+          "game-list interactions"
+        ],
+        "implemented": [
+          "observed interactions"
+        ],
+        "dead": [],
+        "evidence": "stardust/replica/motion/content-alc-en-play-online-instant-win-games-html.json"
+      },
+      "residuals": [
+        "Captured-only load-more continuation",
+        "Inherited licensed-font chrome residual"
+      ],
+      "prototypePath": "stardust/prototypes/content-alc-en-play-online-instant-win-games-html-proposed.html"
+    },
+    "content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html": {
+      "type": "form",
+      "source": "https://www.alc.ca/content/alc/en/corporate/playwise/player-assessment/assessment-quiz.html",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 7.16,
+            "heightDeltaPx": 0,
+            "verdict": "pass"
+          },
+          "contentCropPercent": 8.13,
+          "chromeCrops": {
+            "header": {
+              "percent": 2.48,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 5.44,
+              "verdict": "inherited-fail"
+            }
+          }
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 4.01,
+            "heightDeltaPx": 0,
+            "verdict": "pass"
+          },
+          "contentCropPercent": 2.98,
+          "chromeCrops": {
+            "header": {
+              "percent": 3.74,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 5.27,
+              "verdict": "inherited-fail"
+            }
+          }
+        }
+      },
+      "motion": {
+        "observed": [
+          "validation transitions",
+          "button hover",
+          "client-only scoring"
+        ],
+        "implemented": [
+          "validation transitions",
+          "button hover",
+          "client-only scoring"
+        ],
+        "dead": [],
+        "evidence": "stardust/replica/motion/content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html.json"
+      },
+      "residuals": [
+        "Inherited licensed-font chrome residual"
+      ],
+      "prototypePath": "stardust/prototypes/content-alc-en-corporate-playwise-player-assessment-assessment-quiz-html-proposed.html"
+    },
+    "content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html": {
+      "type": "static",
+      "source": "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 16.27,
+            "heightDeltaPx": -19,
+            "verdict": "fail"
+          },
+          "chromeCrops": {
+            "header": {
+              "percent": 2.48,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 12.05,
+              "verdict": "inherited-fail"
+            }
+          }
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 7.66,
+            "heightDeltaPx": 1,
+            "verdict": "pass"
+          },
+          "chromeCrops": {
+            "header": {
+              "percent": 4.3,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 4.84,
+              "verdict": "inherited-fail"
+            }
+          }
+        }
+      },
+      "motion": {
+        "observed": [
+          "accordion height transition"
+        ],
+        "implemented": [
+          "0.35s accordion transition"
+        ],
+        "dead": [],
+        "evidence": "stardust/replica/motion/content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html.json"
+      },
+      "residuals": [
+        "360 pixel 16.27% exceeds 10%",
+        "360 height delta -19px exceeds 8px",
+        "Inherited licensed-font chrome residual"
+      ],
+      "prototypePath": "stardust/prototypes/content-alc-en-corporate-are-you-a-winner-claiming-your-prize-html-proposed.html"
+    },
+    "content-alc-en-winning-numbers-html": {
+      "type": "unique",
+      "source": "https://www.alc.ca/content/alc/en/winning-numbers.html",
+      "status": "blocked",
+      "approved": false,
+      "breakpoints": {
+        "360": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 7.26,
+            "heightDeltaPx": 0,
+            "verdict": "pass"
+          },
+          "chromeCrops": {
+            "header": {
+              "percent": 2.48,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 4.64,
+              "verdict": "inherited-fail"
+            }
+          }
+        },
+        "1440": {
+          "iterationsUsed": 3,
+          "content": {
+            "structuralRed": 0
+          },
+          "pixel": {
+            "percent": 8.62,
+            "heightDeltaPx": 0,
+            "verdict": "pass"
+          },
+          "chromeCrops": {
+            "header": {
+              "percent": 3.74,
+              "verdict": "inherited-fail"
+            },
+            "footer": {
+              "percent": 4.81,
+              "verdict": "inherited-fail"
+            }
+          }
+        }
+      },
+      "motion": {
+        "observed": [
+          "hidden-element class mutation"
+        ],
+        "implemented": [],
+        "dead": [],
+        "evidence": "stardust/replica/motion/content-alc-en-winning-numbers-html.json"
+      },
+      "residuals": [
+        "Card-internal paint and promotional composition",
+        "Inherited licensed-font chrome residual"
+      ],
+      "prototypePath": "stardust/prototypes/content-alc-en-winning-numbers-html-proposed.html"
+    }
+  }
+}

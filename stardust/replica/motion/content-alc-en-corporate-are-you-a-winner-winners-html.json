@@ -1,0 +1,346 @@
+{
+  "url": "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/winners.html",
+  "width": 360,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 2400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 3600,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 3474,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 1974,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 2400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 800,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 500,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 300,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 150,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 120,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 90,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 60,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 30,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".filters-collapse button",
+      "frames": [
+        {
+          "t": 17001.69999998808,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 17224.09999999404,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 17426,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 17628.09999999404,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".loadmore",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "height",
+        "el": "div.row > div.col-lg-8 > div.winners-content > div > div.collapse-xs.collapsing",
+        "y": 444,
+        "dur": "0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.promo-holder.col-lg-4 > div.row > div.col-lg-12.col-sm-6 > div.game-tile.parbase.section > article.game-tile.impress.col-xs-12",
+        "y": 2800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.promo-holder.col-lg-4 > div.row > div.col-lg-12.col-sm-6 > div.game-tile.parbase.section > article.game-tile.impress.col-xs-12",
+        "y": 3200
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 444
+      },
+      {
+        "added": [
+          "collapsing"
+        ],
+        "el": "div.row > div.col-lg-8 > div.winners-content > div > div.collapse-xs.collapsing",
+        "y": 444
+      },
+      {
+        "added": [
+          "collapse",
+          "in"
+        ],
+        "el": "div.row > div.col-lg-8 > div.winners-content > div > div.collapse-xs.collapse.in",
+        "y": 444
+      },
+      {
+        "added": [
+          "collapse",
+          "in"
+        ],
+        "el": "div.row > div.col-lg-8 > div.winners-content > div > div.collapse-xs.collapse.in",
+        "y": 444
+      }
+    ]
+  }
+}

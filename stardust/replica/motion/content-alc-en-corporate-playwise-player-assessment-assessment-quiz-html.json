@@ -1,0 +1,666 @@
+{
+  "url": "https://www.alc.ca/content/alc/en/corporate/playwise/player-assessment/assessment-quiz.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 391,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1491,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 800,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 500,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 300,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 150,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 120,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 90,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 60,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 30,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".questionnaire-form button",
+      "frames": [
+        {
+          "t": 15275.79999999702,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15479.20000000298,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15682.59999999404,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15885.79999999702,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".questionnaire-form select",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(105, 114, 123)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "rgba(0, 0, 0, 0.075) 0px 1px 1px 0px inset, rgb(206, 132, 131) 0px 0px 6px 0px",
+          "opacity": "1",
+          "transition": "border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(105, 114, 123)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "rgba(0, 0, 0, 0.075) 0px 1px 1px 0px inset, rgb(206, 132, 131) 0px 0px 6px 0px",
+          "opacity": "1",
+          "transition": "border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".questionnaire-form button",
+      "changed": [
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(0, 111, 175)",
+          "boxShadow": "rgba(0, 82, 155, 0.1) 0px 3px 5px 0px",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(0, 123, 194)",
+          "boxShadow": "rgba(0, 82, 155, 0.1) 0px 3px 5px 0px",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error > select.form-control.choices",
+        "y": 101,
+        "dur": "0.15s, 0.15s"
+      },
+      {
+        "prop": "opacity",
+        "el": "html > body.page.basicpage.FF_PAYPAL > div.popover.error-popover.fade",
+        "y": 101,
+        "dur": "0.15s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 400
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 972
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "has-error"
+        ],
+        "el": "ul.question-list > li > div.row > div.col-sm-4.col-md-3.col-lg-4 > div.form-group.has-error",
+        "y": 101
+      },
+      {
+        "added": [
+          "in"
+        ],
+        "el": "html > body.page.basicpage.FF_PAYPAL > div.popover.error-popover.fade",
+        "y": 101
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 972
+      }
+    ]
+  },
+  "formInteractionObservation": {
+    "initialState": "nine unanswered selects; questionnaire open; results hidden",
+    "emptySubmit": {
+      "observed": "all nine form groups add has-error; first select receives focus; border colors and box-shadow transition for 0.15s",
+      "implemented": true
+    },
+    "completedSubmit": {
+      "observedAt": [
+        1440,
+        360
+      ],
+      "testAnswers": [
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        3,
+        0
+      ],
+      "observedScore": 12,
+      "observed": "client-side score summary appears; zero-point questions hide; non-zero questions show answer and points; no request or navigation",
+      "implemented": true
+    },
+    "hover": {
+      "selectChangedProperties": [],
+      "buttonChangedProperties": [
+        "background"
+      ],
+      "implemented": true
+    },
+    "dead": [
+      "form entrance animation",
+      "select hover animation",
+      "backend submission"
+    ]
+  }
+}

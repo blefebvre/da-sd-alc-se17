@@ -1,0 +1,1483 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-09-17T17:22:32.465Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "content-alc-en-game-configurator-html",
+  "url": "https://www.alc.ca/content/alc/en/game-configurator.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-09-17T17:22:32.465Z",
+  "finalUrl": "https://www.alc.ca/content/alc/en/game-configurator.html",
+  "title": "game-configurator",
+  "description": null,
+  "og": {
+    "title": "Game Configurator",
+    "description": null,
+    "image": "https://www.alc.ca/content/dam/alc/images/static/social-share-images/facebook-alc-en.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Are you a winner?"
+    },
+    {
+      "tag": "h1",
+      "text": "Giving Back"
+    },
+    {
+      "tag": "h2",
+      "text": "Did you know 100% of the profits go back into the community?"
+    },
+    {
+      "tag": "h1",
+      "text": "About Atlantic Lottery"
+    },
+    {
+      "tag": "h1",
+      "text": "PlayWise"
+    },
+    {
+      "tag": "h3",
+      "text": "Explore our other sites:"
+    }
+  ],
+  "body": [
+    "Play Online Play now Play now Play now Play now Play now Play now Play now Play now More Games Atlantic 49 Salsa Bingo Bucko Keno Atlantic Poker Lotto Mobile App",
+    "Our Games See all games See all games See all games See all games See all games See all games See all games More Games Mobile APP Breakopen Coasters Red Shores Group Lottery Play Self Service Terminals",
+    "Winning Numbers",
+    "Rewards",
+    "Yes! Send me jackpot alerts, exclusive promotions, and exciting news.",
+    "Contact Us",
+    "tooltip_2 Leave a Comment",
+    "Buying and Checking your Tickets",
+    "Buying and Checking your Tickets",
+    "Claiming your Prize",
+    "Claiming your Prize",
+    "Winners",
+    "Winners",
+    "AL Winners Publicity Policy",
+    "AL Winners Publicity Policy",
+    "Where the Money Goes",
+    "Where the Money Goes",
+    "Social Responsibility",
+    "Social Responsibility",
+    "Sponsorships",
+    "Sponsorships",
+    "Community Initiative",
+    "Community Initiative",
+    "Who is Atlantic Lottery",
+    "Who is Atlantic Lottery",
+    "Integrity and Compliance",
+    "Integrity and Compliance",
+    "Corporate Transparency",
+    "Corporate Transparency",
+    "Career Opportunities",
+    "Career Opportunities",
+    "Retailer Zone",
+    "Retailer Zone",
+    "Contact Us",
+    "Contact Us",
+    "News Room",
+    "News Room",
+    "More News: The Ticket",
+    "More News: The Ticket",
+    "Supply Chain Management",
+    "Supply Chain Management",
+    "Rules and Regulations",
+    "Rules and Regulations",
+    "Player Tools",
+    "Player Tools",
+    "Player Assessment",
+    "Player Assessment",
+    "Know The Facts",
+    "Know The Facts",
+    "Get Support",
+    "Get Support",
+    "Our Promise",
+    "Our Promise",
+    "SITE MAP | SECURITY | TERMS OF SERVICE | LEGAL AND PRIVACY | HEALTHY PLAY POLICY | COOKIE POLICY",
+    "You must be 19+ to purchase, play or redeem ALC products.",
+    "© Copyright Atlantic Lottery Corporation. All rights reserved."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "ALC",
+      "href": "/content/alc/en.html"
+    },
+    {
+      "label": "Français",
+      "href": "?toggle"
+    },
+    {
+      "label": "Help",
+      "href": "/content/alc/en/referenced-content/external/help-redirect.html"
+    },
+    {
+      "label": "Create Account",
+      "href": "/content/alc/en/registration/register-account.html"
+    },
+    {
+      "label": "0",
+      "href": "/content/alc/en/cart.html"
+    },
+    {
+      "label": " Sign In",
+      "href": null
+    },
+    {
+      "label": "Play Online",
+      "href": "/content/alc/en/play-online.html"
+    },
+    {
+      "label": "Our Games",
+      "href": "/content/alc/en/our-games.html"
+    },
+    {
+      "label": "Winning Numbers",
+      "href": "/content/alc/en/winning-numbers.html"
+    },
+    {
+      "label": "Rewards",
+      "href": "/content/alc/en/rewards.html"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "Contact Us",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+    },
+    {
+      "label": "Leave a Comment",
+      "href": null
+    },
+    {
+      "label": "Are you a winner?",
+      "href": "/content/alc/en/corporate/are-you-a-winner.html"
+    },
+    {
+      "label": "Buying and Checking your Tickets",
+      "href": "/content/alc/en/corporate/are-you-a-winner/buying-and-checking-your-tickets.html"
+    },
+    {
+      "label": "Claiming your Prize",
+      "href": "/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html"
+    },
+    {
+      "label": "Winners",
+      "href": "/content/alc/en/corporate/are-you-a-winner/winners.html"
+    },
+    {
+      "label": "AL Winners Publicity Policy",
+      "href": "/content/alc/en/corporate/are-you-a-winner/al-winners-publicity-policy.html"
+    },
+    {
+      "label": "Giving Back",
+      "href": "/content/alc/en/corporate/giving-back.html"
+    },
+    {
+      "label": "Where the Money Goes",
+      "href": "/content/alc/en/corporate/giving-back/where-the-money-goes.html"
+    },
+    {
+      "label": "Social Responsibility",
+      "href": "/content/alc/en/corporate/giving-back/corporate-social-responsibility.html"
+    },
+    {
+      "label": "Sponsorships",
+      "href": "/content/alc/en/corporate/giving-back/sponsorships.html"
+    },
+    {
+      "label": "Community Initiative",
+      "href": "/content/alc/en/corporate/giving-back/sponsored-events.html"
+    },
+    {
+      "label": "About Atlantic Lottery",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery.html"
+    },
+    {
+      "label": "Who is Atlantic Lottery",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/who-is-al.html"
+    },
+    {
+      "label": "Integrity and Compliance",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/integrity-and-compliance.html"
+    },
+    {
+      "label": "Corporate Transparency",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/corporate-transparency.html"
+    },
+    {
+      "label": "Career Opportunities",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/career-opportunities.html"
+    },
+    {
+      "label": "Retailer Zone",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/retailers.html"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+    },
+    {
+      "label": "News Room",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/media-room.html"
+    },
+    {
+      "label": "More News: The Ticket",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/theticket.html"
+    },
+    {
+      "label": "Supply Chain Management",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html"
+    },
+    {
+      "label": "Rules and Regulations",
+      "href": "/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html"
+    },
+    {
+      "label": "PlayWise",
+      "href": "/content/alc/en/corporate/playwise.html"
+    },
+    {
+      "label": "Player Tools",
+      "href": "/content/alc/en/corporate/playwise/player-tools.html"
+    },
+    {
+      "label": "Player Assessment",
+      "href": "/content/alc/en/corporate/playwise/player-assessment.html"
+    },
+    {
+      "label": "Know The Facts",
+      "href": "/content/alc/en/corporate/playwise/know-the-facts.html"
+    },
+    {
+      "label": "Get Support",
+      "href": "/content/alc/en/corporate/playwise/get-support.html"
+    },
+    {
+      "label": "Our Promise",
+      "href": "/content/alc/en/corporate/playwise/our-promise.html"
+    },
+    {
+      "label": "SITE MAP",
+      "href": "/content/alc/en/legal/site-map.html"
+    },
+    {
+      "label": "SECURITY",
+      "href": "/content/alc/en/legal/security.html"
+    },
+    {
+      "label": "TERMS OF SERVICE",
+      "href": "/content/alc/en/legal/terms-and-conditions.html"
+    },
+    {
+      "label": "LEGAL AND PRIVACY",
+      "href": "/content/alc/en/legal/privacy-policy.html"
+    },
+    {
+      "label": "HEALTHY PLAY POLICY",
+      "href": "/content/alc/en/legal/HealthyPlayPolicy.html"
+    },
+    {
+      "label": "COOKIE POLICY",
+      "href": "/content/alc/en/referenced/cookie-policy.html"
+    }
+  ],
+  "links": [
+    "https://www.alc.ca/content/alc/en/referenced-content/external/help-redirect.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/contact-us.html",
+    "https://www.alc.ca/content/alc/en.html",
+    "https://www.alc.ca/content/alc/en/game-configurator.html?toggle",
+    "https://www.alc.ca/content/alc/en/registration/register-account.html",
+    "https://www.alc.ca/content/alc/en/cart.html",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#",
+    "https://www.alc.ca/content/alc/en/my-account.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-profile.html",
+    "https://www.alc.ca/content/alc/en/my-account/message-center.html",
+    "https://www.alc.ca/content/alc/en/registration/reverify-account.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-offers.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-rewards/redeem-points.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-rewards/contests-and-entries.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-rewards/enter-tickets.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-wallet.html",
+    "https://www.alc.ca/content/alc/en/my-account/my-proline-tokens.html",
+    "https://www.alc.ca/content/alc/en/game-configurator.html",
+    "https://www.alc.ca/content/alc/en/play-online.html",
+    "https://www.alc.ca/content/alc/en/play-online/lottomax.html",
+    "https://www.alc.ca/content/alc/en/play-online/lotto649.html",
+    "https://www.alc.ca/content/alc/en/play-online/dailygrand.html",
+    "https://www.alc.ca/content/alc/en/play-online/lotto.html",
+    "https://www.alc.ca/content/alc/en/play-online/casino.html",
+    "https://www.alc.ca/content/alc/en/play-online/instant-win-games.html",
+    "https://www.alc.ca/content/alc/en/play-online/proline.html",
+    "https://www.alc.ca/content/alc/en/play-online/subscriptions.html",
+    "https://www.alc.ca/content/alc/en/play-online/atlantic49.html",
+    "https://www.alc.ca/content/alc/en/play-online/salsabingo.html",
+    "https://www.alc.ca/content/alc/en/play-online/bucko.html",
+    "https://www.alc.ca/content/alc/en/play-online/keno.html",
+    "https://www.alc.ca/content/alc/en/play-online/pokerlotto.html",
+    "https://www.alc.ca/content/alc/en/play-online/app.html",
+    "https://www.alc.ca/content/alc/en/our-games.html",
+    "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.html",
+    "https://www.alc.ca/content/alc/en/our-games/lotto.html",
+    "https://www.alc.ca/content/alc/en/our-games/video-lottery.html",
+    "https://www.alc.ca/content/alc/en/our-games/casino.html",
+    "https://www.alc.ca/content/alc/en/our-games/instant-win-games.html",
+    "https://www.alc.ca/content/alc/en/our-games/proline.html",
+    "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.html",
+    "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.html",
+    "https://www.alc.ca/content/alc/en/our-games/mobile.html",
+    "https://www.alc.ca/content/alc/en/our-games/breakopen.html",
+    "https://www.alc.ca/content/alc/en/our-games/coasters.html",
+    "https://www.alc.ca/content/alc/en/our-games/red-shores.html",
+    "https://www.alc.ca/content/alc/en/our-games/group-lottery-play.html",
+    "https://www.alc.ca/content/alc/en/our-games/self-service-terminals.html",
+    "https://www.alc.ca/content/alc/en/winning-numbers.html",
+    "https://www.alc.ca/content/alc/en/rewards.html",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#nav-dashboard-mobile",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#nav-m-item-x",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#nav-m-item-1",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#nav-m-item-2",
+    "https://www.alc.ca/content/alc/en/legal/terms-and-conditions.html",
+    "https://www.facebook.com/atlanticlottery",
+    "https://www.instagram.com/atlanticlottery",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/buying-and-checking-your-tickets.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/winners.html",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner/al-winners-publicity-policy.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/where-the-money-goes.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/corporate-social-responsibility.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/sponsorships.html",
+    "https://www.alc.ca/content/alc/en/corporate/giving-back/sponsored-events.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/who-is-al.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/integrity-and-compliance.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/corporate-transparency.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/career-opportunities.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/retailers.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/media-room.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/theticket.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/player-tools.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/player-assessment.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/know-the-facts.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/get-support.html",
+    "https://www.alc.ca/content/alc/en/corporate/playwise/our-promise.html",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#footer-mobile-0",
+    "https://www.alc.ca/content/alc/en/corporate/are-you-a-winner.html#responsibility_text",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#footer-mobile-1",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#footer-mobile-2",
+    "https://www.alc.ca/content/alc/en/archive/who-is-al-old.html",
+    "https://www.alc.ca/content/alc/en/referenced-content/external/the-ticket.html",
+    "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html#par1_text",
+    "https://www.alc.ca/content/alc/en/game-configurator.html#footer-mobile-3",
+    "https://www.askaway.ca/",
+    "https://redshores.ca/",
+    "https://www.alc.ca/content/alc/en/legal/site-map.html",
+    "https://www.alc.ca/content/alc/en/legal/security.html",
+    "https://www.alc.ca/content/alc/en/legal/privacy-policy.html",
+    "https://www.alc.ca/content/alc/en/legal/HealthyPlayPolicy.html",
+    "https://www.alc.ca/content/alc/en/referenced/cookie-policy.html",
+    "https://www.google.com/chrome/browser/desktop/index.html",
+    "https://getfirefox.com/",
+    "https://www.microsoft.com/en-ca/windows/microsoft-edge",
+    "http://www.apple.com/ca/safari/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+        "alt": "My Offers logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+        "alt": "Rewards Logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+        "alt": "Points Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+        "alt": "Entries Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+        "alt": "Add Points Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+        "alt": "",
+        "w": 20,
+        "h": 16
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+        "alt": "Wallet Logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+        "alt": "Wallet Logo",
+        "w": 27,
+        "h": 25
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+        "alt": "Proline Tokens Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/lottomax.img.png/1711557921551.png",
+        "alt": "LottoMax",
+        "w": 270,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/lotto649.img.png/1662887407810.png",
+        "alt": "Lotto649",
+        "w": 554,
+        "h": 350
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/dailygrand.img.png/1595411787611.png",
+        "alt": "Daily Grand",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/lotto.img.png/1595411784994.png",
+        "alt": "Lotto",
+        "w": 199,
+        "h": 130
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/casino.img.png/1711033953086.png",
+        "alt": "Casino",
+        "w": 270,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.img.png/1711033977825.png",
+        "alt": "Instant Win Games",
+        "w": 228,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/proline.img.png/1711557988346.png",
+        "alt": "Proline Stadium",
+        "w": 270,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/play-online/subscriptions.img.png/1595411785761.png",
+        "alt": "Subscriptions",
+        "w": 351,
+        "h": 260
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.img.png/1595411780747.png",
+        "alt": "Scratch 'N Win",
+        "w": 275,
+        "h": 275
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/lotto.img.png/1595411791161.png",
+        "alt": "Lotto",
+        "w": 238,
+        "h": 139
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/video-lottery.img.png/1711558293081.png",
+        "alt": "Video Lottery",
+        "w": 270,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/casino.img.png/1711033953086.png",
+        "alt": "Casino",
+        "w": 270,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/instant-win-games.img.png/1711033977726.png",
+        "alt": "Instant Win Games",
+        "w": 228,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/proline.img.png/1711558304828.png",
+        "alt": "PRO•LINE",
+        "w": 270,
+        "h": 168
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.img.png/1595411785761.png",
+        "alt": "Lottery Subscriptions",
+        "w": 351,
+        "h": 260
+      },
+      {
+        "src": "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.img.png/1784049786620.png",
+        "alt": "Contests and Promotions",
+        "w": 320,
+        "h": 283
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+        "alt": "My Offers Logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+        "alt": "Points",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+        "alt": "Rewards points logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+        "alt": "Rewards entries logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+        "alt": "Add points logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+        "alt": "Wallet logo",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+        "alt": "Wallet Logo",
+        "w": 27,
+        "h": 25
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+        "alt": "Proline Tokens Logo",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+        "alt": "Know your limit",
+        "w": 343,
+        "h": 50
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+        "alt": "AskAway.ca logo (opens in a new tab)",
+        "w": 141,
+        "h": 51
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+        "alt": "Red Shores logo (opens in a new tab)",
+        "w": 137,
+        "h": 51
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+        "alt": "Responsible Gaming Logo",
+        "w": 66,
+        "h": 66
+      },
+      {
+        "src": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+        "alt": "WORLD LOTTERY ASSOCIATION CERTIFIED WLA RESPONSIBLE GAMING FRAMEWORK LEVEL 4 / VALID UNTIL 2025",
+        "w": 504,
+        "h": 130
+      }
+    ],
+    "allImgCount": 43,
+    "cssBackgrounds": [
+      "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png"
+    ],
+    "modals": [
+      "× Multi-Factor Authentication Enter 6-Digit Code A 6-digit code has been sent to (***) ***-**. This code will expire in 5 minutes. Please enter it here: Resend CodeMulti-Factor Authentication Is Temporarily Unavailable You can still sign in to our website and mobile app to play games, buy lottery tickets, and deposit/withdrawal money. However, you won't be able to update your password, Phone number, or turn off multi-factor authentication. ContinueMulti-Factor Authentication Sorry, you've exceeded the number of authentication attempts. Back to Sign-in Need help? Help Centre Contact Us",
+      "× Multi-Factor Authentication Enter 6-Digit Code A 6-digit code has been sent to (***) ***-**. This code will expire in 5 minutes. Please enter it here: Resend CodeMulti-Factor Authentication Is Temporarily Unavailable You can still sign in to our website and mobile app to play games, buy lottery tickets, and deposit/withdrawal money. However, you won't be able to update your password, Phone number, or turn off multi-factor authentication. ContinueMulti-Factor Authentication Sorry, you've exceeded the number of authentication attempts. Back to Sign-in Need help? Help Centre Contact Us",
+      "Please upgrade your browser for an improved experience × To get the best possible experience from ALC.ca, we recommend upgrading your browser. Google Chrome Mozilla Firefox Microsoft Edge Apple Safari",
+      "Please upgrade your browser for an improved experience × To get the best possible experience from ALC.ca, we recommend upgrading your browser. Google Chrome Mozilla Firefox Microsoft Edge Apple Safari"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--hero-height": "calc(341.12903226px)"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 6,
+    "mainTextLen": 17855,
+    "realImageCount": 38,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage",
+    "duplicateOf": "content-alc-en-registration-html"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/libs/cq/i18n/dict.en.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/libs/cq/i18n/dict.en.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/libs/granite/csrf/token.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/libs/granite/csrf/token.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/services/pam/Dashboard",
+        "query": [
+          "_"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/services/pam/Dashboard",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/services/HeaderPromoServlet",
+        "query": [
+          "_"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/services/HeaderPromoServlet",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.alc.ca",
+        "path": "/services/AlertServlet",
+        "query": [
+          "_",
+          "path"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.alc.ca/services/AlertServlet",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "atlanticlottery2.us-7.evergage.com",
+        "path": "/api2/event/engage",
+        "query": [
+          "event"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://atlanticlottery2.us-7.evergage.com/api2/event/engage",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/ccm/s/collect",
+        "query": [
+          "auid",
+          "fmt",
+          "gtm"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/ccm/s/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ct.pinterest.com",
+        "path": "/user/",
+        "query": [
+          "cb",
+          "dep",
+          "tid"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 232,
+        "hits": 1,
+        "example": "https://ct.pinterest.com/user/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ct.pinterest.com",
+        "path": "/v3/",
+        "query": [
+          "ad",
+          "cb",
+          "event",
+          "tid"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 35,
+        "hits": 1,
+        "example": "https://ct.pinterest.com/v3/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "pixel-config.reddit.com",
+        "path": "/pixels/a2_eyrkyqvcmhun/config",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 97,
+        "hits": 1,
+        "example": "https://pixel-config.reddit.com/pixels/a2_eyrkyqvcmhun/config",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_fv",
+          "_gaz",
+          "_nsi",
+          "_p",
+          "_prs",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "frm",
+          "gaf",
+          "gcd",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/measurement/conversion",
+        "query": [
+          "auid",
+          "cv",
+          "dma",
+          "en",
+          "fmt",
+          "frm",
+          "fst",
+          "gacid",
+          "gcd",
+          "gtm",
+          "ibt",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "tid",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/measurement/conversion",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/measurement/1p-conversion/",
+        "query": [
+          "auid",
+          "cerd",
+          "crd",
+          "ct_cookie_present",
+          "cv",
+          "dma",
+          "en",
+          "fmt",
+          "frm",
+          "fsk",
+          "fst",
+          "gacid",
+          "gcd",
+          "gtm",
+          "ibt",
+          "npa",
+          "pscdl",
+          "pscrd",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "tid",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/measurement/1p-conversion/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;src=8593458;type=invmedia;cat=alc-u0;rcb=0;ord=4587253127531;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_8fP9l4il95QCGXTf7cVLPi3wMwhLs4u-NA;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;src=8593458;type=invmedia;cat=alc-u0;rcb=0;ord=4587253127531;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_8fP9l4il95QCGXTf7cVLPi3wMwhLs4u-NA;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;dc_pre=CMeY1rmQ9pYDFa9FnQYdoqID7g;src=8593458;type=invmedia;cat=alc-u0;rcb=0;ord=4587253127531;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_8fP9l4il95QCGXTf7cVLPi3wMwhLs4u-NA;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;dc_pre=CMeY1rmQ9pYDFa9FnQYdoqID7g;src=8593458;type=invmedia;cat=alc-u0;rcb=0;ord=4587253127531;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_8fP9l4il95QCGXTf7cVLPi3wMwhLs4u-NA;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/gmp/conversion/_dc_unique_id=17313114711998332401;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7RF_Bnf6jjptIuy3PxUG2aiYoTYQ2RwRKWhZw;_dc_time=1789665748;cid=CAQS4gEAQM4h3Gfh0F7pV6EB5QSDElnpJEFz_VjoYhrxk-mjiBigPY2Dbb5iCkBUh9Ok-iFDn6v2Dl9nChCkuKoHMllq4kvp1ntQ1J7BwtGewohB9kLQ81YBWTE-x0KDUbsQRw4OH_Wmre6vSFzVr3qf6VR94Bu4MF-yTMCRwi6m624yF67SA_xb6C1ysL7npgmkoKUTUh9uNs6xvPj5OWmL-LTvgAJCYpb1EQX2jpfxksFnI_GUCnO3qgVnBvXb_PjseWUCLrfn-2_idHUj95J9tVulO422JW-UALzt9jJn9P3PhRZO;eps=AHas8cAQ2ALk6MjlbGkKa9f3N2Lca18Se7WKu-b9leOPcPEilc0tuSePlR_-HDi6KU3A_qZhjxcy9F9T02dz0Hi8EiQXYS8jEJZjnM1dKAT92HPQcw;dc_pre=CMeY1rmQ9pYDFa9FnQYdoqID7g;src=8593458;type=invmedia;cat=alc-u0;rcb=0;ord=4587253127531;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_8fP9l4il95QCGXTf7cVLPi3wMwhLs4u-NA;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 42,
+        "hits": 1,
+        "example": "https://www.google.com/gmp/conversion/_dc_unique_id=17313114711998332401;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7RF_Bnf6jjptIuy3PxUG2aiYoTYQ2RwRKWhZw;_dc_time=1789665748;cid=CAQS4gEAQM4h3Gfh0F7pV6EB5QSDElnpJEFz_VjoYhrxk-mjiBigPY2Dbb5iCkBUh9Ok-iFDn6v2Dl9nChCkuKoHMllq4kvp1ntQ1J7BwtGewohB9kLQ81YBWTE-x0KDUbsQRw4OH_Wmre6vSFzVr3qf6VR94Bu4MF-yTMCRwi6m624yF67SA_xb6C1ysL7npgmkoKUTUh9uNs6xvPj5OWmL-LTvgAJCYpb1EQX2jpfxksFnI_GUCnO3qgVnBvXb_PjseWUCLrfn-2_idHUj95J9tVulO422JW-UALzt9jJn9P3PhRZO;eps=AHas8cAQ2ALk6MjlbGkKa9f3N2Lca18Se7WKu-b9leOPcPEilc0tuSePlR_-HDi6KU3A_qZhjxcy9F9T02dz0Hi8EiQXYS8jEJZjnM1dKAT92HPQcw;dc_pre=CMeY1rmQ9pYDFa9FnQYdoqID7g;src=8593458;type=invmedia;cat=alc-u0;rcb=0;ord=4587253127531;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe69g0v9189783574za200zd9189783574xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_8fP9l4il95QCGXTf7cVLPi3wMwhLs4u-NA;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ib.adnxs.com",
+        "path": "/pixie/up",
+        "query": [
+          "pi"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/xml",
+        "status": 200,
+        "bytes": 9,
+        "hits": 2,
+        "example": "https://ib.adnxs.com/pixie/up",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;src=9785486;type=vendo0;cat=alc-u0;rcb=8;ord=3298913252694;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_v6B1rzqEqvrc7ReJd2k5tHyYohG3jCE9xw;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;src=9785486;type=vendo0;cat=alc-u0;rcb=8;ord=3298913252694;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_v6B1rzqEqvrc7ReJd2k5tHyYohG3jCE9xw;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ad.doubleclick.net",
+        "path": "/activity;dc_pre=CLP27LmQ9pYDFehanQYdTvQVhA;src=9785486;type=vendo0;cat=alc-u0;rcb=8;ord=3298913252694;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_v6B1rzqEqvrc7ReJd2k5tHyYohG3jCE9xw;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 302,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/activity;dc_pre=CLP27LmQ9pYDFehanQYdTvQVhA;src=9785486;type=vendo0;cat=alc-u0;rcb=8;ord=3298913252694;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_v6B1rzqEqvrc7ReJd2k5tHyYohG3jCE9xw;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/gmp/conversion/_dc_unique_id=200014917381351697;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7QtPwK9Z50DGTWjKzcz6MCfIbQZqC6T8G18Rg;_dc_time=1789665749;cid=CAQS4gEAQM4h3A0zK_sH6aNuAB7bS93zJyZk9AEEkMBSx-kLs_nXshsqKE93ZcoAD6s7KBskyIlwrot01V6TTbjaHsla8fKi42_N6j-JNjuwA4ZaA8Ty58uq3so2xpytmlnly9cERbuR1j1_Die8gq2V0P_uEq-e4lUd6_a5VxElvoDPJN_Bt8mbgX3l87IfyG1-Ul4WadQNBW74JZqNU0CICkHifpQXYsj6aCWsmyTqD8IatJVSkYnDLsiYkxX0Fryx0Z0x2Jo60TLSwz9QPikqnXwnEZpSr0Lbg2ieK7BlteJIBCBS;eps=AHas8cDjTS_18NDMm-yn5AJBDvIesMxMZCyVDFGPQk9cxRtgKtgsw20j25qirHKrt5ToY82lMb-aoWUinIXPebwuXjOhJSUfAc46D22-s__1uGuotA;dc_pre=CLP27LmQ9pYDFehanQYdTvQVhA;src=9785486;type=vendo0;cat=alc-u0;rcb=8;ord=3298913252694;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_v6B1rzqEqvrc7ReJd2k5tHyYohG3jCE9xw;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 42,
+        "hits": 1,
+        "example": "https://www.google.com/gmp/conversion/_dc_unique_id=200014917381351697;_dc_ptd=ChEI8J-u1QYQ7fOEka25pIPrARIfAJwBC7QtPwK9Z50DGTWjKzcz6MCfIbQZqC6T8G18Rg;_dc_time=1789665749;cid=CAQS4gEAQM4h3A0zK_sH6aNuAB7bS93zJyZk9AEEkMBSx-kLs_nXshsqKE93ZcoAD6s7KBskyIlwrot01V6TTbjaHsla8fKi42_N6j-JNjuwA4ZaA8Ty58uq3so2xpytmlnly9cERbuR1j1_Die8gq2V0P_uEq-e4lUd6_a5VxElvoDPJN_Bt8mbgX3l87IfyG1-Ul4WadQNBW74JZqNU0CICkHifpQXYsj6aCWsmyTqD8IatJVSkYnDLsiYkxX0Fryx0Z0x2Jo60TLSwz9QPikqnXwnEZpSr0Lbg2ieK7BlteJIBCBS;eps=AHas8cDjTS_18NDMm-yn5AJBDvIesMxMZCyVDFGPQk9cxRtgKtgsw20j25qirHKrt5ToY82lMb-aoWUinIXPebwuXjOhJSUfAc46D22-s__1uGuotA;dc_pre=CLP27LmQ9pYDFehanQYdTvQVhA;src=9785486;type=vendo0;cat=alc-u0;rcb=8;ord=3298913252694;npa=0;auiddc=16145630.1789665748;uaa=arm;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=macOS;uapv=14.8.9;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69g0v9190721778z86315333za20gzb6315333zd6315333xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120847434;epver=2;dc_random=1789665748_v6B1rzqEqvrc7ReJd2k5tHyYohG3jCE9xw;~oref=https%3A%2F%2Fwww.alc.ca%2Fcontent%2Falc%2Fen%2Fgame-configurator.html",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "s.yimg.com",
+        "path": "/wi/config/10195444.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://s.yimg.com/wi/config/10195444.json",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "insight.adsrvr.org",
+        "path": "/track/realtimeconversion",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://insight.adsrvr.org/track/realtimeconversion",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "www.googleadservices.com",
+        "count": 4
+      },
+      {
+        "host": "analytics.tiktok.com",
+        "count": 3
+      },
+      {
+        "host": "s.pinimg.com",
+        "count": 2
+      },
+      {
+        "host": "js.adsrvr.org",
+        "count": 2
+      },
+      {
+        "host": "sc-static.net",
+        "count": 2
+      },
+      {
+        "host": "cdn.evgnet.com",
+        "count": 1
+      },
+      {
+        "host": "www.google-analytics.com",
+        "count": 1
+      },
+      {
+        "host": "www.redditstatic.com",
+        "count": 1
+      },
+      {
+        "host": "acdn.adnxs.com",
+        "count": 1
+      },
+      {
+        "host": "tr.snapchat.com",
+        "count": 1
+      },
+      {
+        "host": "s.yimg.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.alc.ca/content/alc/en/search-results.html",
+        "hasAction": true,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "q"
+        ],
+        "search": true
+      }
+    ],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 5,
+      "thirdPartyEndpoints": 18,
+      "thirdPartyScriptHosts": 12,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 1,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/content-alc-en-game-configurator-html.png",
+  "renderedHtml": "pages/content-alc-en-game-configurator-html.html",
+  "type": "unique",
+  "slots": {
+    "headline": {
+      "type": "text",
+      "value": "game-configurator",
+      "source": "title"
+    },
+    "meta": {
+      "type": "metadata",
+      "value": {
+        "title": "game-configurator",
+        "description": null,
+        "og": {
+          "title": "Game Configurator",
+          "description": null,
+          "image": "https://www.alc.ca/content/dam/alc/images/static/social-share-images/facebook-alc-en.jpg",
+          "type": "website"
+        }
+      },
+      "source": "title, description, og"
+    },
+    "content-regions": {
+      "type": "rich-content",
+      "value": {
+        "headings": [],
+        "body": [
+          "Play Online Play now Play now Play now Play now Play now Play now Play now Play now More Games Atlantic 49 Salsa Bingo Bucko Keno Atlantic Poker Lotto Mobile App",
+          "Our Games See all games See all games See all games See all games See all games See all games See all games More Games Mobile APP Breakopen Coasters Red Shores Group Lottery Play Self Service Terminals",
+          "Winning Numbers",
+          "Rewards",
+          "Yes! Send me jackpot alerts, exclusive promotions, and exciting news.",
+          "Contact Us",
+          "tooltip_2 Leave a Comment",
+          "Buying and Checking your Tickets",
+          "Buying and Checking your Tickets",
+          "Claiming your Prize",
+          "Claiming your Prize",
+          "Winners",
+          "Winners",
+          "AL Winners Publicity Policy",
+          "AL Winners Publicity Policy",
+          "Where the Money Goes",
+          "Where the Money Goes",
+          "Social Responsibility",
+          "Social Responsibility",
+          "Sponsorships",
+          "Sponsorships",
+          "Community Initiative",
+          "Community Initiative",
+          "Who is Atlantic Lottery",
+          "Who is Atlantic Lottery",
+          "Integrity and Compliance",
+          "Integrity and Compliance",
+          "Corporate Transparency",
+          "Corporate Transparency",
+          "Career Opportunities",
+          "Career Opportunities",
+          "Retailer Zone",
+          "Retailer Zone",
+          "Contact Us",
+          "Contact Us",
+          "News Room",
+          "News Room",
+          "More News: The Ticket",
+          "More News: The Ticket",
+          "Supply Chain Management",
+          "Supply Chain Management",
+          "Rules and Regulations",
+          "Rules and Regulations",
+          "Player Tools",
+          "Player Tools",
+          "Player Assessment",
+          "Player Assessment",
+          "Know The Facts",
+          "Know The Facts",
+          "Get Support",
+          "Get Support",
+          "Our Promise",
+          "Our Promise",
+          "SITE MAP | SECURITY | TERMS OF SERVICE | LEGAL AND PRIVACY | HEALTHY PLAY POLICY | COOKIE POLICY",
+          "You must be 19+ to purchase, play or redeem ALC products.",
+          "© Copyright Atlantic Lottery Corporation. All rights reserved."
+        ]
+      },
+      "source": "headings, body"
+    },
+    "interactive-data": {
+      "type": "form-list",
+      "value": [],
+      "source": "dynamic.forms[search=false]"
+    },
+    "calls-to-action": {
+      "type": "link-list",
+      "value": [
+        {
+          "label": "ALC",
+          "href": "/content/alc/en.html"
+        },
+        {
+          "label": "Français",
+          "href": "?toggle"
+        },
+        {
+          "label": "Help",
+          "href": "/content/alc/en/referenced-content/external/help-redirect.html"
+        },
+        {
+          "label": "Create Account",
+          "href": "/content/alc/en/registration/register-account.html"
+        },
+        {
+          "label": "0",
+          "href": "/content/alc/en/cart.html"
+        },
+        {
+          "label": " Sign In",
+          "href": null
+        },
+        {
+          "label": "Play Online",
+          "href": "/content/alc/en/play-online.html"
+        },
+        {
+          "label": "Our Games",
+          "href": "/content/alc/en/our-games.html"
+        },
+        {
+          "label": "Winning Numbers",
+          "href": "/content/alc/en/winning-numbers.html"
+        },
+        {
+          "label": "Rewards",
+          "href": "/content/alc/en/rewards.html"
+        },
+        {
+          "label": "Subscribe",
+          "href": null
+        },
+        {
+          "label": "Contact Us",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+        },
+        {
+          "label": "Leave a Comment",
+          "href": null
+        },
+        {
+          "label": "Are you a winner?",
+          "href": "/content/alc/en/corporate/are-you-a-winner.html"
+        },
+        {
+          "label": "Buying and Checking your Tickets",
+          "href": "/content/alc/en/corporate/are-you-a-winner/buying-and-checking-your-tickets.html"
+        },
+        {
+          "label": "Claiming your Prize",
+          "href": "/content/alc/en/corporate/are-you-a-winner/claiming-your-prize.html"
+        },
+        {
+          "label": "Winners",
+          "href": "/content/alc/en/corporate/are-you-a-winner/winners.html"
+        },
+        {
+          "label": "AL Winners Publicity Policy",
+          "href": "/content/alc/en/corporate/are-you-a-winner/al-winners-publicity-policy.html"
+        },
+        {
+          "label": "Giving Back",
+          "href": "/content/alc/en/corporate/giving-back.html"
+        },
+        {
+          "label": "Where the Money Goes",
+          "href": "/content/alc/en/corporate/giving-back/where-the-money-goes.html"
+        },
+        {
+          "label": "Social Responsibility",
+          "href": "/content/alc/en/corporate/giving-back/corporate-social-responsibility.html"
+        },
+        {
+          "label": "Sponsorships",
+          "href": "/content/alc/en/corporate/giving-back/sponsorships.html"
+        },
+        {
+          "label": "Community Initiative",
+          "href": "/content/alc/en/corporate/giving-back/sponsored-events.html"
+        },
+        {
+          "label": "About Atlantic Lottery",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery.html"
+        },
+        {
+          "label": "Who is Atlantic Lottery",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/who-is-al.html"
+        },
+        {
+          "label": "Integrity and Compliance",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/integrity-and-compliance.html"
+        },
+        {
+          "label": "Corporate Transparency",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/corporate-transparency.html"
+        },
+        {
+          "label": "Career Opportunities",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/career-opportunities.html"
+        },
+        {
+          "label": "Retailer Zone",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/retailers.html"
+        },
+        {
+          "label": "Contact Us",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/contact-us.html"
+        },
+        {
+          "label": "News Room",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/media-room.html"
+        },
+        {
+          "label": "More News: The Ticket",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/theticket.html"
+        },
+        {
+          "label": "Supply Chain Management",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/supply-chain-management.html"
+        },
+        {
+          "label": "Rules and Regulations",
+          "href": "/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html"
+        },
+        {
+          "label": "PlayWise",
+          "href": "/content/alc/en/corporate/playwise.html"
+        },
+        {
+          "label": "Player Tools",
+          "href": "/content/alc/en/corporate/playwise/player-tools.html"
+        },
+        {
+          "label": "Player Assessment",
+          "href": "/content/alc/en/corporate/playwise/player-assessment.html"
+        },
+        {
+          "label": "Know The Facts",
+          "href": "/content/alc/en/corporate/playwise/know-the-facts.html"
+        },
+        {
+          "label": "Get Support",
+          "href": "/content/alc/en/corporate/playwise/get-support.html"
+        },
+        {
+          "label": "Our Promise",
+          "href": "/content/alc/en/corporate/playwise/our-promise.html"
+        },
+        {
+          "label": "SITE MAP",
+          "href": "/content/alc/en/legal/site-map.html"
+        },
+        {
+          "label": "SECURITY",
+          "href": "/content/alc/en/legal/security.html"
+        },
+        {
+          "label": "TERMS OF SERVICE",
+          "href": "/content/alc/en/legal/terms-and-conditions.html"
+        },
+        {
+          "label": "LEGAL AND PRIVACY",
+          "href": "/content/alc/en/legal/privacy-policy.html"
+        },
+        {
+          "label": "HEALTHY PLAY POLICY",
+          "href": "/content/alc/en/legal/HealthyPlayPolicy.html"
+        },
+        {
+          "label": "COOKIE POLICY",
+          "href": "/content/alc/en/referenced/cookie-policy.html"
+        }
+      ],
+      "source": "ctas"
+    }
+  }
+}

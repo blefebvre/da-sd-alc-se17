@@ -1,0 +1,323 @@
+{
+  "url": "https://www.alc.ca/content/alc/en.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 2400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1413,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 2400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 800,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 500,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 300,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 150,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 120,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 90,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 60,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 30,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "90.8438px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 2
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".hero .slick-next",
+      "error": "not found"
+    },
+    {
+      "sel": ".winners-carousel .slick-next",
+      "error": "not found"
+    },
+    {
+      "sel": "main.alc-container.cmp-container--game-tiles .slick-next",
+      "error": "not found"
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".round-button",
+      "error": "not found"
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.cmp.cmp-image > div.impress.impressed",
+        "y": 400
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.cmp.cmp-image > div.impress.impressed",
+        "y": 800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 1200
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 1200
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.cmp.cmp-image > div.impress.impressed",
+        "y": 1200
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--game-tiles.aem-GridColumn--sm--none > div.cmp-container > div.game-tile.parbase > article.game-tile.impress.col-sm-6",
+        "y": 1600
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.cmp.cmp-image > div.impress.impressed",
+        "y": 1600
+      }
+    ]
+  },
+  "summary": {
+    "observed": [
+      "Desktop header remained static at every scroll sample",
+      "12 scroll-triggered class mutations fired: 11 impression markers and one fixed notification marker",
+      "No CSS animation or transition event fired",
+      "Independent source captures showed the hero in different authored slides, so its pixels are treated as authored-volatile"
+    ],
+    "implemented": [
+      "Desktop non-sticky and mobile fixed-header regimes",
+      "Native footer disclosure behavior",
+      "No unobserved animation or transition was added"
+    ],
+    "dead": [
+      ".hero .slick-next probe target not present",
+      ".winners-carousel .slick-next probe target not present",
+      "game-tile .slick-next probe target not present",
+      ".round-button hover probe target not present"
+    ],
+    "interactivePolicy": "Account, cart, tracking, and notification integrations remain inactive per curated dynamic plan."
+  }
+}

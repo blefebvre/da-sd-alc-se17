@@ -1,0 +1,854 @@
+{
+  "url": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.html",
+  "width": 360,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 2400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 3600,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 4800,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 6000,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 7200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 8400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 7351,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 5851,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 2400,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 1200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 800,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 500,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 300,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 200,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 150,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 120,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 90,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 60,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 30,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    },
+    {
+      "y": 0,
+      "cls": "container hidden-xs tablet-desktop header-en alc",
+      "position": "static",
+      "height": "auto",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "70px",
+      "headerCount": 2
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".di-carousel .next",
+      "frames": [
+        {
+          "t": 21311.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 21513.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 21714.70000000298,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 21918,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".browse-search .filter",
+      "frames": [
+        {
+          "t": 22929.79999999702,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 23133,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 23335.29999999702,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 23538.59999999404,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".load-more-games",
+      "frames": [
+        {
+          "t": 24554,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 24755,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 24958.29999999702,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 25159.70000000298,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".tile-digital-instants .play-now-link .button",
+      "changed": [
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(0, 111, 175)",
+          "boxShadow": "rgba(0, 82, 155, 0.1) 0px 3px 5px 0px",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(0, 123, 194)",
+          "boxShadow": "rgba(0, 82, 155, 0.1) 0px 3px 5px 0px",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "opacity",
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.fade-in",
+        "y": 2800,
+        "dur": "0.85s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 2800,
+        "dur": "0.85s, 0.85s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 2800,
+        "dur": "0.85s, 0.85s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 0,
+        "dur": "0.85s, 0.85s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 0,
+        "dur": "0.85s, 0.85s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.fade-in",
+        "y": 0,
+        "dur": "0.85s"
+      },
+      {
+        "prop": "max-height",
+        "el": "div.row > div > div.digital-instants-browse > div.browse-game-bar > div.browse-search.active",
+        "y": 797,
+        "dur": "0.2s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 400
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 1200
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 1600
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 2000
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 2400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 2800
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div.alc-carousel.reveal > div.controls > div.controls-container > div.pagination-nav > button.paginator.active",
+        "y": 2800
+      },
+      {
+        "added": [
+          "slide-out-right"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 2800
+      },
+      {
+        "added": [
+          "slide-out-right"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 2800
+      },
+      {
+        "added": [
+          "fade-in"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.fade-in",
+        "y": 2800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 3200
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 3600
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 4000
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 4400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 4800
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 4800
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 4800
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 4800
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 4800
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 4800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 5600
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 6000
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 6400
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 6800
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.digital-instants-browse > div.browse-game-list > div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress",
+        "y": 7200
+      },
+      {
+        "added": [
+          "impressed"
+        ],
+        "el": "div.alc-carousel.reveal > ul.slides > li.slide.active > div.digital-instants-slide.section > div.di-image.picturefill-background.impress",
+        "y": 300
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div.alc-carousel.reveal > div.controls > div.controls-container > div.pagination-nav > button.paginator.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "slide-out-right"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 0
+      },
+      {
+        "added": [
+          "slide-out-right"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.slide-out-right",
+        "y": 0
+      },
+      {
+        "added": [
+          "fade-in"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.fade-in",
+        "y": 0
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "body.FF_PAYPAL.FF_MFALOGINEXPIRYFIX.FF_VSE > section.di-carousel.hero > div.alc-carousel.reveal > ul.slides > li.slide.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "div.footer.container > div.row > div > div.notification.section > div.cmp-notification.fixed",
+        "y": 797
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div.row > div > div.digital-instants-browse > div.browse-game-bar > div.browse-search.active",
+        "y": 797
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "div > div.digital-instants-browse > div.browse-game-bar > div.browse-search.active > p.filter.visible-xs.active",
+        "y": 797
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      },
+      {
+        "added": [
+          "hidden"
+        ],
+        "el": "div.clearfix.show-search-result > div.col-lg-3.col-md-4.col-sm-6 > article.game-tile-nondraw.tile-digital-instants.impress > div.game-tile-content > p.game-prize.hidden",
+        "y": 8028
+      }
+    ]
+  },
+  "implementation": {
+    "implemented": [
+      "Carousel previous, next, pagination, 5000ms autoplay, and the observed 850ms opacity/translate transition",
+      "Mobile Filter disclosure and the observed 200ms max-height transition",
+      "Play-now hover background change from #006faf to #007bc2",
+      "Reduced-motion transition suppression"
+    ],
+    "notImplemented": [
+      {
+        "interaction": "Load more games",
+        "reason": "The click fired a network-backed second page, but those game records and assets are absent from the user-authorized capture; the captured control remains present without fabricated content."
+      }
+    ],
+    "validation": {
+      "desktop": "carousel index 0→1; no console errors; no horizontal overflow",
+      "mobile": "carousel index 0→1; filter 50px→191.71875px and aria-expanded false→true; no console errors; no horizontal overflow"
+    }
+  }
+}

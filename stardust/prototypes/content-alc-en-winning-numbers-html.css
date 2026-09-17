@@ -1,0 +1,924 @@
+/* stylelint-disable no-descending-specificity, declaration-property-value-no-unknown, media-feature-range-notation */
+
+.jackpot-hero {
+  background: #68ba18 url("./assets/content-alc-en-winning-numbers-html/hero-desktop.png") no-repeat center center / auto;
+  height: 405px;
+}
+
+.jackpot-hero a {
+  display: block;
+  height: 100%;
+}
+
+.winning-title {
+  background: #009ddb;
+  color: #fff;
+  height: 50px;
+}
+
+.winning-title .container {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  padding: 0 10px;
+}
+
+.winning-title h1 {
+  color: #fff;
+  flex: 1;
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  margin: 0;
+}
+
+.winning-share {
+  align-items: center;
+  display: flex;
+  font-size: 12px;
+  gap: 7px;
+  margin-right: 18px;
+}
+
+.winning-share a {
+  align-items: center;
+  background: #fff;
+  border-radius: 1px;
+  color: #009ddb;
+  display: inline-flex;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  height: 23px;
+  justify-content: center;
+  width: 23px;
+}
+
+.print-link {
+  background: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 12px;
+}
+
+.print-link .material-icons {
+  font-size: 18px;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.winning-page {
+  height: 4050px;
+}
+
+.results-background {
+  background: url("./assets/content-alc-en-winning-numbers-html/background.jpg") no-repeat center center / cover;
+  height: 4050px;
+}
+
+.results-grid {
+  align-content: start;
+  background: rgb(255 255 255 / 50%);
+  display: grid;
+  grid-auto-rows: 879px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3px 20px;
+  height: 3576px;
+  padding: 27px 10px 0;
+}
+
+.game-card {
+  background: #fff;
+  height: 879px;
+  min-width: 0;
+  padding-bottom: 15px;
+}
+
+.game-mast {
+  background-color: #009ddb;
+  height: 144px;
+  margin-top: 0;
+  padding-top: 15px;
+}
+
+.game-logo {
+  background: url("./assets/content-alc-en-winning-numbers-html/game-logo-spritesheet.png") no-repeat 50% -20px / 180px auto;
+  display: block;
+  height: 120px;
+  width: 100%;
+}
+
+.lotto-max .game-mast {
+  background-image: linear-gradient(#2d5501 0, #46a511 100%);
+}
+
+.lotto-649 .game-mast {
+  background-image: linear-gradient(#000202 0, #0650a0 100%);
+}
+
+.lotto-649 .game-logo {
+  background-position: 50% -195px;
+}
+
+.daily-grand .game-mast {
+  background-image: linear-gradient(#65717e 0, #e4e8ec 100%);
+}
+
+.daily-grand .game-logo {
+  background-position: 50% -298px;
+  background-size: 150px auto;
+}
+
+.atlantic-49 .game-mast {
+  background-image: linear-gradient(#0069a0 0, #64a8d6 100%);
+}
+
+.atlantic-49 .game-logo {
+  background-position: 50% -1105px;
+  background-size: 270px auto;
+}
+
+.hit-or-miss .game-mast {
+  background-image: linear-gradient(#026681 0, #37c6ed 100%);
+}
+
+.hit-or-miss .game-logo {
+  background-position: 50% -1210px;
+  background-size: 240px auto;
+}
+
+.salsa-bingo .game-mast {
+  background-image: linear-gradient(#fba134 0, #fedcb8 100%);
+}
+
+.salsa-bingo .game-logo {
+  background-position: 50% -1100px;
+  background-size: 160px auto;
+}
+
+.poker-lotto .game-mast {
+  background-image: linear-gradient(#026425 0, #3bb753 100%);
+}
+
+.poker-lotto .game-logo {
+  background-position: 50% -1175px;
+  background-size: 150px auto;
+}
+
+.lotto-4 .game-mast {
+  background-image: linear-gradient(#4ac4b2 0, #ace2d9 100%);
+}
+
+.lotto-4 .game-logo {
+  background-position: 50% -2145px;
+  background-size: 240px auto;
+}
+
+.bucko .game-mast {
+  background-image: linear-gradient(#3b54b4 0, #8898d8 100%);
+}
+
+.bucko .game-logo {
+  background-position: 50% -2380px;
+  background-size: 240px auto;
+}
+
+.keno .game-mast {
+  background-image: linear-gradient(#005f86 0, #2ea3d3 100%);
+}
+
+.keno .game-logo {
+  background-position: 50% -1725px;
+  background-size: 160px auto;
+}
+
+.mobile-result-toggle {
+  display: none;
+}
+
+.game-expanded {
+  border: 1px solid #d4dadf;
+  border-top: 0;
+  height: 720px;
+}
+
+.draw-date {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  padding: 10px;
+}
+
+.draw-date input {
+  background: #fff;
+  border: 1px solid #d4dadf;
+  border-right: 0;
+  border-radius: 0;
+  color: #4e5b68;
+  font-size: 12px;
+  height: 42px;
+  padding: 0 13px;
+  width: calc(100% - 43px);
+}
+
+.draw-date .calendar-icon {
+  align-items: center;
+  background: #007cb9;
+  color: #fff;
+  display: flex;
+  font-size: 21px;
+  height: 42px;
+  justify-content: center;
+  width: 43px;
+}
+
+.result-panel {
+  height: 265px;
+  padding: 25px 12px 0;
+  position: relative;
+}
+
+.number-group {
+  display: inline-block;
+  max-width: calc(100% - 53px);
+  vertical-align: top;
+}
+
+.draw-date .calendar-icon::before {
+  content: "▦";
+  font-size: 23px;
+}
+
+.number-group .body-label,
+.gold-ball .body-label {
+  color: #4e5b68;
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 14px;
+  margin: 0;
+}
+
+.number-group.bonus {
+  float: right;
+  max-width: 46px;
+  text-align: center;
+}
+
+.balls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  list-style: none;
+  margin: 5px 0 0;
+  padding: 0;
+}
+
+.balls li {
+  align-items: center;
+  background: #009ddb;
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  font-size: 13px;
+  font-weight: 700;
+  height: 29px;
+  justify-content: center;
+  line-height: 29px;
+  width: 29px;
+}
+
+.number-group.wide {
+  max-width: 100%;
+}
+
+.number-group.wide .balls {
+  width: 268px;
+}
+
+.gold-ball {
+  left: 12px;
+  position: absolute;
+  right: 12px;
+  top: 100px;
+}
+
+.gold-ball span {
+  background: #215096;
+  color: #fff;
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 4px;
+  padding: 8px 15px;
+}
+
+.extras {
+  align-items: center;
+  bottom: 5px;
+  display: flex;
+  height: 75px;
+  left: 12px;
+  position: absolute;
+  right: 12px;
+}
+
+.extras.two-up {
+  justify-content: space-between;
+}
+
+.extras > p {
+  margin: 0;
+  text-align: center;
+}
+
+.extras > p small {
+  color: #006faf;
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.extras > p .guarantee-number {
+  font-size: 17px;
+}
+
+.tag {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+}
+
+.tag img {
+  height: 27px;
+  object-fit: contain;
+  width: 36px;
+}
+
+.tag b {
+  color: #006faf;
+  font-size: 12px;
+}
+
+.twist {
+  height: auto;
+  object-fit: contain;
+  width: 55px;
+}
+
+.bingo {
+  max-width: 100%;
+}
+
+.bingo .balls {
+  gap: 3px;
+  margin-top: 0;
+}
+
+.bingo .balls li {
+  font-size: 10px;
+  height: 27px;
+  width: 27px;
+}
+
+.keno-balls {
+  max-width: 100%;
+}
+
+.keno-balls .balls {
+  width: 265px;
+}
+
+.playing-cards {
+  display: flex;
+  gap: 4px;
+  list-style: none;
+  margin: 6px 0 0;
+  padding: 0;
+}
+
+.playing-cards li {
+  background: #fff radial-gradient(circle, currentcolor 0 7px, transparent 8px) no-repeat center / 20px;
+  border: 1px solid #d4dadf;
+  color: #111;
+  font-family: Arial, sans-serif;
+  font-size: 0;
+  height: 72px;
+  overflow: hidden;
+  position: relative;
+  width: 46px;
+}
+
+.playing-cards li::before,
+.playing-cards li::after {
+  content: attr(data-rank);
+  font-size: 12px;
+  left: 3px;
+  line-height: 12px;
+  position: absolute;
+  top: 2px;
+}
+
+.playing-cards li::after {
+  inset: auto 3px 2px auto;
+}
+
+.playing-cards li::marker {
+  content: "";
+}
+
+.playing-cards .red {
+  color: #b32227;
+}
+
+.card-actions {
+  height: 321px;
+  margin: 15px -5px 0;
+  position: relative;
+  text-align: center;
+}
+
+.payout {
+  border: 2px solid #69727b;
+  border-radius: 22px;
+  color: #4e5b68;
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  height: 42px;
+  line-height: 38px;
+  margin: 0 auto;
+  position: relative;
+  width: calc(100% - 40px);
+}
+
+.payout::after,
+.ticket::after {
+  align-items: center;
+  border: 2px solid currentcolor;
+  border-radius: 50%;
+  content: "›";
+  display: flex;
+  font-family: Arial, sans-serif;
+  font-size: 19px;
+  height: 25px;
+  justify-content: center;
+  position: absolute;
+  right: 8px;
+  top: 6px;
+  width: 25px;
+}
+
+.next-date {
+  color: #69727b;
+  font-size: 11px;
+  height: 35px;
+  line-height: 35px;
+  margin: 0;
+}
+
+.next-date b {
+  color: #009ddb;
+}
+
+.jackpot {
+  align-items: center;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 120px;
+  justify-content: center;
+  padding: 4px;
+}
+
+.lotto-max .jackpot { background: #488a00; }
+.lotto-649 .jackpot { background: #215096; }
+.daily-grand .jackpot { background: #f4711f; }
+.atlantic-49 .jackpot { background: #df5354; }
+.hit-or-miss .jackpot { background: #008bb1; }
+.salsa-bingo .jackpot { background: #f47931; }
+.poker-lotto .jackpot { background: #31824c; }
+.lotto-4 .jackpot { background: #3a877c; }
+.bucko .jackpot { background: #6980d5; }
+.keno .jackpot { background: #0b83b4; }
+
+.jackpot > .info-text,
+.jackpot > .jackpot-label,
+.jackpot > .body-copy {
+  font-size: 11px;
+  line-height: 15px;
+  text-transform: uppercase;
+}
+
+.jackpot > .body-copy {
+  margin: 0;
+  font-size: 16px;
+  text-transform: none;
+}
+
+.jackpot > .body-copy.small {
+  font-size: 11px;
+}
+
+.prize-digits {
+  align-items: baseline;
+  display: flex;
+  gap: 4px;
+  margin: 4px 0;
+}
+
+.prize-digits::before {
+  color: #fff;
+  content: "$";
+  font-family: var(--alc-display);
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.prize-digits span {
+  background: #fff;
+  border-radius: 5px;
+  color: #00529b;
+  display: inline-block;
+  font-family: var(--alc-font);
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 30px;
+  padding: 8px 8px 0;
+}
+
+.prize-digits small {
+  color: #fff;
+  font-size: 9px;
+}
+
+.ticket {
+  background: #007cb9;
+  border-radius: 22px;
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  height: 42px;
+  line-height: 42px;
+  margin: 25px auto 0;
+  position: relative;
+  text-align: left;
+  padding-left: 19px;
+  width: calc(100% - 40px);
+}
+
+.ticket::after {
+  background: #fff;
+  color: #007cb9;
+}
+
+.how {
+  color: #006faf;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 34px;
+}
+
+.how::after,
+.alerts-card a:not(.download)::after,
+.claim-actions a::after {
+  content: " ›";
+}
+
+.no-ticket.card-actions {
+  height: 299px;
+}
+
+.no-ticket .retail {
+  color: #69727b;
+  font-size: 11px;
+  height: 54px;
+  line-height: 54px;
+  margin: 0;
+}
+
+.winning-promos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 474px;
+  padding-top: 24px;
+}
+
+.alerts-column,
+.winner-next-card {
+  margin: 0 10px;
+  padding-top: 8px;
+}
+
+.alerts-card,
+.winner-next-card {
+  background: #fff;
+  border: 1px solid #d4dadf;
+  border-radius: 6px;
+}
+
+.alerts-card {
+  height: 322px;
+  overflow: hidden;
+}
+
+.alerts-card h1,
+.winner-next-card h1 {
+  color: #009ddb;
+  font-family: var(--alc-display);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 29px;
+  margin: 14px 18px 11px;
+}
+
+.alerts-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.alerts-actions > div {
+  min-height: 240px;
+  padding: 0 18px;
+  position: relative;
+}
+
+.alerts-actions > div + div {
+  border-left: 1px solid #d4dadf;
+}
+
+.alerts-actions h3 {
+  color: #009ddb;
+  font-family: var(--alc-display);
+  font-size: 16px;
+  line-height: 25px;
+  margin: 0;
+}
+
+.alerts-actions p,
+.winner-next-card p {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 2px 0;
+}
+
+.alerts-actions a:not(.download) {
+  bottom: 20px;
+  color: #006faf;
+  font-size: 13px;
+  font-weight: 700;
+  left: 18px;
+  position: absolute;
+}
+
+.alerts-actions .download {
+  bottom: 11px;
+  left: 18px;
+  position: absolute;
+}
+
+.alerts-actions .download img {
+  height: 56px;
+  width: 219px;
+}
+
+.disclaimer {
+  font-size: 12px;
+  line-height: 18px;
+  margin: 43px 0 0;
+}
+
+.winner-next-card {
+  height: 268px;
+  overflow: hidden;
+  position: relative;
+}
+
+.winner-next-card .winner-copy {
+  width: 65%;
+}
+
+.winner-next-card h1 {
+  color: #aaba0a;
+  font-size: 30px;
+  line-height: 32px;
+}
+
+.winner-next-card > img {
+  height: 171px;
+  object-fit: contain;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 213px;
+}
+
+.claim-actions {
+  border-top: 5px solid #91bd00;
+  bottom: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+.claim-actions > div {
+  padding: 9px 15px 0;
+  text-align: center;
+}
+
+.claim-actions p {
+  color: #69727b;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+.claim-actions a {
+  color: #006faf;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  .jackpot-hero {
+    background-image: url("./assets/content-alc-en-winning-numbers-html/hero-mobile.png");
+    height: 405px;
+  }
+
+  .winning-title {
+    height: 50px;
+  }
+
+  .winning-title .container {
+    padding: 0 10px;
+  }
+
+  .winning-title h1 {
+    font-size: 18px;
+  }
+
+  .winning-share {
+    margin-right: 0;
+  }
+
+  .winning-share span,
+  .print-link {
+    display: none;
+  }
+
+  .winning-page,
+  .results-background {
+    height: 3563px;
+  }
+
+  .results-grid {
+    display: block;
+    height: 2475px;
+    padding: 27px 10px 0;
+  }
+
+  .game-card {
+    height: 240px;
+    padding-bottom: 15px;
+  }
+
+  .game-card + .game-card {
+    margin-top: 3px;
+  }
+
+  .game-mast {
+    height: 144px;
+  }
+
+  .mobile-result-toggle {
+    background: #fff;
+    border: 1px solid #d4dadf;
+    color: #009ddb;
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    height: 61px;
+    padding: 20px 15px;
+    position: relative;
+    text-align: left;
+    width: 100%;
+  }
+
+  .mobile-result-toggle::after {
+    content: "+";
+    font-size: 22px;
+    font-weight: 400;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+  }
+
+  .game-expanded {
+    display: none;
+  }
+
+  .winning-promos {
+    display: block;
+    height: 1088px;
+    padding-top: 24px;
+  }
+
+  .alerts-column,
+  .winner-next-card {
+    margin: 0;
+    padding-top: 8px;
+  }
+
+  .alerts-column {
+    height: 560px;
+  }
+
+  .alerts-card {
+    border: 0;
+    border-radius: 0;
+    height: 400px;
+    padding: 0 10px;
+  }
+
+  .alerts-card h1 {
+    font-size: 22px;
+    line-height: 29px;
+    margin: 14px 10px 12px;
+  }
+
+  .winner-next-card h1 {
+    font-size: 30px;
+    line-height: 32px;
+    margin: 14px 10px 12px;
+  }
+
+  .alerts-actions {
+    display: block;
+  }
+
+  .alerts-actions > div {
+    min-height: 145px;
+    padding: 0 10px;
+  }
+
+  .alerts-actions > div + div {
+    border-left: 0;
+  }
+
+  .alerts-actions p {
+    padding-right: 10px;
+  }
+
+  .alerts-actions a:not(.download) {
+    bottom: 18px;
+    left: 10px;
+  }
+
+  .alerts-actions .download {
+    bottom: 0;
+    left: 10px;
+  }
+
+  .disclaimer {
+    margin: 43px 10px 0;
+  }
+
+  .winner-next-card {
+    border-left: 0;
+    border-radius: 0;
+    border-right: 0;
+    height: 480px;
+    margin: 0 10px;
+  }
+
+  .winner-next-card .winner-copy {
+    box-sizing: border-box;
+    padding: 0 10px;
+    width: 60%;
+  }
+
+  .winner-next-card .winner-copy h1,
+  .winner-next-card .winner-copy p {
+    margin-left: 0;
+  }
+
+  .winner-next-card > img {
+    right: -18px;
+    top: 8px;
+  }
+
+  .claim-actions {
+    display: block;
+    height: 190px;
+  }
+
+  .claim-actions > div {
+    height: 90px;
+    padding-top: 16px;
+  }
+}

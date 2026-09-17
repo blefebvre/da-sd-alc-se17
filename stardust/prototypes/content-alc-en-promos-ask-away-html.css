@@ -1,0 +1,269 @@
+/* stylelint-disable number-max-precision, media-feature-range-notation, no-descending-specificity -- source-measured article values */
+
+.online-corporate-detail {
+  color: #69727b;
+}
+
+.article-hero,
+.article-hero .hero-image {
+  height: 405px;
+}
+
+.article-hero .hero-image {
+  background: url("./assets/content-alc-en-promos-ask-away-html/hero-desktop.jpg") center bottom / auto no-repeat;
+}
+
+.blue-bar {
+  background: #009ddb;
+  height: 50px;
+}
+
+.blue-bar .container {
+  padding: 0 10px;
+}
+
+.blue-bar h1 {
+  color: #fff;
+  font-family: var(--alc-display);
+  font-size: 28px;
+  font-weight: 700;
+  height: 47px;
+  line-height: 47px;
+  margin: 0;
+}
+
+.body-content {
+  background: #fff url("./assets/content-alc-en-promos-ask-away-html/body-background.jpg") top center repeat;
+}
+
+.body-content .white-bg {
+  background: rgb(255 255 255 / 50%);
+  min-height: 1416.234375px;
+  padding: 20px 10px 0;
+}
+
+.body-content::after {
+  content: "";
+  display: block;
+  height: 21px;
+}
+
+.article-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  margin: 0 -10px;
+}
+
+.article-copy,
+.article-sidebar {
+  min-width: 0;
+  padding: 0 10px;
+}
+
+.cmp-text {
+  color: #4e5b68;
+}
+
+.cmp-text h3 {
+  color: #009ddb;
+  font-family: var(--alc-display);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 19.8px;
+  margin: 20px 0 10px;
+}
+
+.cmp-text p {
+  color: #4e5b68;
+  font-size: 16px;
+  line-height: 22.8571px;
+  margin: 0 0 10px;
+}
+
+.cmp-text a {
+  color: #006faf;
+}
+
+.cmp-image {
+  display: block;
+}
+
+.cmp-image img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.cmp-text hr {
+  background: #e5e5e5;
+  border: 0;
+  height: 3px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.faq-heading h2 {
+  color: #009ddb;
+  font-family: var(--alc-display);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24.2px;
+  margin: 20px 0 10px;
+}
+
+.accordion {
+  margin: 0 0 20px;
+}
+
+.accordion .panel {
+  background: #fff;
+  border: 0;
+  border-radius: 4px;
+  margin: 0;
+}
+
+.accordion .panel + .panel {
+  margin-top: 5px;
+}
+
+.accordion .panel-title {
+  background: #d4dadf;
+  border-radius: 8px;
+  color: #009ddb;
+  cursor: pointer;
+  display: block;
+  font-family: var(--alc-display);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22.8571px;
+  list-style: none;
+  min-height: 42.84375px;
+  padding: 10px 15px;
+}
+
+.accordion .panel-title a {
+  color: #009ddb;
+  display: block;
+}
+
+.accordion .panel-title::-webkit-details-marker {
+  display: none;
+}
+
+.accordion .panel-body {
+  border: 1px solid #ddd;
+  border-top: 0;
+  color: #4e5b68;
+  overflow: hidden;
+  padding: 15px;
+  transition: height .35s ease;
+}
+
+.accordion .panel-body p {
+  margin: 0 0 10px;
+}
+
+.accordion .panel-body .alcblue {
+  color: #006faf;
+}
+
+.accordion .panel-body .fontsize22,
+.contact-copy .fontsize22 {
+  font-size: 22px;
+}
+
+.promo-holder {
+  min-height: 1396.234375px;
+  padding-top: 26px;
+}
+
+.video-frame,
+.contact-copy {
+  display: block;
+  margin-left: 31px;
+  width: calc(100% - 62px);
+}
+
+.video-frame {
+  height: 255px;
+  margin-bottom: 73.84375px;
+}
+
+.video-frame iframe {
+  border: 0;
+  display: block;
+  height: 255px;
+  width: 100%;
+}
+
+.contact-copy {
+  margin-top: 0;
+}
+
+.contact-copy p {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 767px) {
+  .article-hero,
+  .article-hero .hero-image {
+    height: 350px;
+  }
+
+  .article-hero .hero-image {
+    background-image: url("./assets/content-alc-en-promos-ask-away-html/hero-mobile.jpg");
+  }
+
+  .blue-bar h1 {
+    font-size: 30px;
+  }
+
+  .body-content .white-bg {
+    min-height: 2795.328125px;
+  }
+
+  .body-content::after {
+    height: 10px;
+  }
+
+  .article-grid {
+    display: block;
+  }
+
+  .faq-heading h2 {
+    font-size: 24px;
+    line-height: 26.4px;
+  }
+
+  .article-sidebar {
+    margin-top: -10.421875px;
+  }
+
+  .video-frame,
+  .contact-copy {
+    margin-left: 26px;
+    width: calc(100% - 52px);
+  }
+
+  .video-frame {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+
+  .video-frame iframe {
+    visibility: hidden;
+  }
+
+  .video-v7 {
+    background-image: url("./assets/content-alc-en-promos-ask-away-html/video-v7.png");
+  }
+
+  .video-oyi {
+    background-image: url("./assets/content-alc-en-promos-ask-away-html/video-oyi.png");
+  }
+
+  .video-do0 {
+    background-image: url("./assets/content-alc-en-promos-ask-away-html/video-do0.png");
+  }
+}
