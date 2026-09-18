@@ -1,3 +1,5 @@
+/* stylelint-disable no-duplicate-selectors, no-descending-specificity -- stock interaction rules are retained and repainted below */
+
 /* header and nav layout */
 header .nav-wrapper {
   background-color: var(--background-color);
@@ -269,4 +271,160 @@ header nav .nav-sections ul > li > ul > li {
 /* tools */
 header nav .nav-tools {
   grid-area: tools;
+}
+
+/* Atlantic Lottery chrome */
+header .nav-wrapper {
+  background: #fff;
+  box-shadow: 0 4px 2px -2px rgb(0 0 0 / 20%);
+  position: fixed;
+}
+
+header nav {
+  display: grid;
+  gap: 0;
+  grid-template:
+    "hamburger brand tools" 70px
+    "sections sections sections" 1fr / 67px 93px 1fr;
+  height: auto;
+  max-width: none;
+  padding: 0;
+}
+
+header nav .nav-brand {
+  align-items: center;
+  display: flex;
+  height: 70px;
+  padding-left: 2px;
+}
+
+header nav .nav-brand picture,
+header nav .nav-brand img {
+  height: 55px;
+  object-fit: contain;
+  width: 85px;
+}
+
+header nav .nav-tools {
+  align-items: center;
+  display: flex;
+  font-size: 14px;
+  gap: 18px;
+  justify-content: flex-end;
+  padding-right: 16px;
+}
+
+header nav .nav-tools .default-content-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+}
+
+header nav .nav-tools p {
+  display: none;
+}
+
+header nav .nav-tools p:first-child,
+header nav .nav-tools p:nth-child(4),
+header nav .nav-tools p:last-child {
+  display: block;
+}
+
+header nav .nav-sections {
+  background: #69727b;
+}
+
+header nav .nav-sections ul {
+  margin: 0;
+}
+
+header nav .nav-sections li {
+  border-left: 1px solid #fff;
+  text-align: center;
+}
+
+header nav .nav-sections li:last-child {
+  border-right: 1px solid #fff;
+}
+
+header nav .nav-sections a {
+  color: #fff;
+  display: block;
+  font-weight: 700;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+header nav .nav-hamburger {
+  height: 70px;
+  justify-content: center;
+}
+
+header nav .nav-hamburger button {
+  background: transparent;
+}
+
+@media (width >= 900px) {
+  header .nav-wrapper {
+    position: relative;
+  }
+
+  header nav {
+    display: grid;
+    grid-template:
+      "brand tools" 91px
+      "sections sections" 50px / 1fr 1fr;
+  }
+
+  header nav .nav-brand,
+  header nav .nav-tools {
+    margin: 0 auto;
+    max-width: 1160px;
+    width: 100%;
+  }
+
+  header nav .nav-brand {
+    grid-column: 1 / -1;
+    height: 91px;
+    padding: 0 20px;
+  }
+
+  header nav .nav-brand picture,
+  header nav .nav-brand img {
+    height: 84px;
+    width: 178px;
+  }
+
+  header nav .nav-tools {
+    grid-column: 1 / -1;
+    justify-content: flex-end;
+    pointer-events: none;
+    position: absolute;
+    right: calc((100% - 1160px) / 2);
+    top: 0;
+  }
+
+  header nav .nav-tools a {
+    pointer-events: auto;
+  }
+
+  header nav .nav-sections {
+    display: block;
+    height: 50px;
+    visibility: visible;
+  }
+
+  header nav .nav-sections .default-content-wrapper {
+    margin: 0 auto;
+    max-width: 1140px;
+  }
+
+  header nav .nav-sections ul {
+    display: flex;
+    gap: 0;
+  }
+
+  header nav .nav-sections li {
+    flex: 1;
+  }
 }

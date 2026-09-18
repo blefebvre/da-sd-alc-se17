@@ -1,0 +1,270 @@
+{
+ "source": "http://127.0.0.1:8797/content-alc-en-html-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "home-hero",
+   "items": [
+    { "role": "heading", "order": 0, "text": "Atlantic Lottery" },
+    { "role": "body", "order": 1, "text": "$32,000,000" },
+    { "role": "body", "order": 2, "text": "Gold Ball Jackpot" },
+    { "role": "cta", "order": 3, "text": "Get your ticket", "href": "/content/alc/en/game-configurator/lotto-649.html" }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "recent-winners-band",
+   "defaultContent": true,
+   "items": [
+    { "role": "heading", "order": 0, "text": "Recent winners" }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "winner-carousel",
+   "items": [
+    { "role": "heading", "order": 0, "text": "Robert Roche" },
+    { "role": "body", "order": 1, "text": "Glennfanning, PE" },
+    { "role": "cta", "order": 2, "text": "See all winners", "href": "/content/alc/en/corporate/are-you-a-winner/winners.html" },
+    { "role": "body", "order": 3, "text": "Winner" },
+    { "role": "body", "order": 4, "text": "$1,500,000" }
+   ],
+   "imgCount": 2,
+   "editableTexts": 5,
+   "repeats": []
+  },
+  {
+   "section": "featured-games-band",
+   "defaultContent": true,
+   "items": [
+    { "role": "heading", "order": 0, "text": "Featured games and promotions" }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "featured-games",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "‍$50,000,000"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "est."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "+ 50"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "× $100,000"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "LOTTO MAX"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Dream Bigger with LOTTO MAX."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Next Draw:"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Fri. 18 Sep. 2026"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "‍$50,000,000 est. +2 MAXMILLIONS"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Get your ticket",
+     "href": "/content/alc/en/game-configurator/lottomax.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "‍$32,000,000"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "LOTTO 649"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "LOTTO 6/49 with TWO big jackpots on every ticket!"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Read more",
+     "href": "/content/alc/en/our-games/lotto/lotto-6-49.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Next Draw:"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Sat. 19 Sep. 2026"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "‍$32,000,000 Gold Ball Jackpot"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Get your ticket",
+     "href": "/content/alc/en/game-configurator/lotto-649.html"
+    },
+    {
+     "role": "heading",
+     "order": 18,
+     "text": "Proline and Proline Stadium"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Proline Promotion ends October 11, 2026"
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Learn More",
+     "href": "/content/alc/en/promos/proline/season-kick-off.html?itm_source=Homepage&itm_medium=Game-Tile&itm_campaign=Proline-FootballSeasonStart&itm_term=2026-Sept-en&itm_content=play-now-CTA"
+    },
+    {
+     "role": "heading",
+     "order": 21,
+     "text": "What are you scratching with?"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "With Scratch'N Win tickets, the fun is literally in your hands!"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Learn More",
+     "href": "/content/alc/en/our-games/scratch-n-win.html?itm_source=Homepage&itm_medium=Game-Tile&itm_campaign=SNW-Sep2&itm_term=2026-Sep2-en&itm_content=learn-more-CTA"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "[new-en]"
+    },
+    {
+     "role": "heading",
+     "order": 25,
+     "text": "Desert Fantasy Wishes Unleashed"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Unleash Your Wishes."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Play Now",
+     "href": "/content/alc/en/play-online/instant-win-games/desert-fantasy-wishes-unleashed.html?itm_source=Homepage&itm_medium=Game-Tile&itm_campaign=IW-DesertFantasyWishesUnleashed&itm_term=2026-Sept-en&itm_content=play-now-CTA"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "[new-en]"
+    },
+    {
+     "role": "heading",
+     "order": 29,
+     "text": "Fortune Coin Charm"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "Check out the latest Casino game on alc.ca!"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Play Now",
+     "href": "/content/alc/en/play-online/casino/fortune-coin-charm.html?itm_source=Homepage&itm_medium=Game-Tile&itm_campaign=Casino-FortuneCoinCharm&itm_term=2026-Sept-en&itm_content=play-now-CTA"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "[new-en]"
+    },
+    {
+     "role": "heading",
+     "order": 33,
+     "text": "Live Casino Has Arrived!"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "Only available in select provinces."
+    },
+    {
+     "role": "cta",
+     "order": 35,
+     "text": "Play Now",
+     "href": "/content/alc/en/play-online/casino.html?itm_source=Homepage&itm_medium=Game-Tile&itm_campaign=LiveCasino&itm_term=2026-Jan-en&itm_content=play-now-CTA#live-casino"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "‹"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "›"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 18,
+   "repeats": [
+    {
+     "unitSelector": "ARTICLE.game-tile",
+     "count": 7,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 10
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

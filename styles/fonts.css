@@ -9,6 +9,38 @@
 }
 
 @font-face {
+  font-family: ubuntu;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/ubuntu-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: ubuntu;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/ubuntu-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: ubuntu;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/ubuntu-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('../fonts/material-icons.woff2') format('woff2');
+}
+
+@font-face {
   font-family: roboto;
   font-style: normal;
   font-weight: 700;

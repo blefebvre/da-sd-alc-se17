@@ -1,0 +1,131 @@
+.featured-games-container .featured-games-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.featured-games .featured-games-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  margin: 0 auto;
+  max-width: 1160px;
+  padding: 24px 0;
+}
+
+.featured-games .featured-games-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.featured-games .featured-game-card {
+  height: 405px;
+  margin: 0 0 27px;
+  padding: 0 10px;
+}
+
+.featured-games .featured-game-media {
+  border-radius: 8px 8px 0 0;
+  height: 185px;
+  overflow: hidden;
+}
+
+.featured-games .featured-game-media picture,
+.featured-games .featured-game-media img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.featured-games .featured-game-media img {
+  object-fit: cover;
+}
+
+.featured-games .featured-game-body {
+  background: #fff;
+  border: 1px solid var(--alc-line);
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 2px 8px -2px rgb(0 0 0 / 45%);
+  box-sizing: border-box;
+  height: 220px;
+  padding: 17px 40px 22px;
+  position: relative;
+}
+
+.featured-games .featured-game-body h3 {
+  font-size: 20px;
+  line-height: 22px;
+  margin: 0 0 10px;
+}
+
+.featured-games .featured-game-body p {
+  font-size: 15px;
+  line-height: 19px;
+  margin: 0;
+}
+
+.featured-games .featured-game-body p:first-of-type {
+  height: 50px;
+  overflow: hidden;
+}
+
+.featured-games .featured-game-body .button-wrapper {
+  bottom: 20px;
+  left: 40px;
+  margin: 0;
+  position: absolute;
+}
+
+.featured-games .featured-game-body a.button {
+  background: var(--alc-blue);
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.featured-games .featured-games-promos {
+  padding: 10px 10px 0;
+}
+
+.featured-games .featured-games-promos > :is(a, picture, img) {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.featured-games .featured-games-promos picture,
+.featured-games .featured-games-promos img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+@media (width < 768px) {
+  .featured-games .featured-games-layout {
+    display: block;
+    padding: 24px 0;
+  }
+
+  .featured-games .featured-games-grid {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+
+  .featured-games .featured-game-card {
+    flex: 0 0 360px;
+    height: 465px;
+    margin: 0;
+    padding: 0 10px;
+    scroll-snap-align: start;
+  }
+
+  .featured-games .featured-game-body {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .featured-games .featured-game-body .button-wrapper {
+    left: 30px;
+  }
+
+  .featured-games .featured-games-promos {
+    padding: 10px 10px 0;
+  }
+}

@@ -1,3 +1,4 @@
+/* stylelint-disable no-duplicate-selectors -- retain stock structural rules and apply site chrome overrides */
 footer {
   background-color: var(--light-color);
   font-size: var(--body-font-size-xs);
@@ -11,6 +12,100 @@ footer .footer > div {
 
 footer .footer p {
   margin: 0;
+}
+
+footer {
+  background: #fff;
+  color: #69727b;
+}
+
+footer .footer > div {
+  max-width: none;
+  padding: 0;
+}
+
+footer .footer .section {
+  margin: 0 auto;
+  max-width: 1160px;
+  padding: 20px 10px;
+}
+
+footer .footer .section:first-child {
+  background: var(--alc-muted);
+  max-width: none;
+  min-height: 99px;
+  padding: 31px max(10px, calc((100% - 1160px) / 2));
+}
+
+footer .footer .section:first-child p {
+  font-size: 18px;
+}
+
+footer .footer .section:nth-child(2) {
+  align-items: center;
+  border-bottom: 1px solid var(--alc-line);
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(4, 1fr);
+  min-height: 83px;
+}
+
+footer .footer .section:nth-child(2) img {
+  max-height: 40px;
+  object-fit: contain;
+}
+
+footer .footer .section:nth-child(3) {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+footer .footer .section:nth-child(3) h2 {
+  font-size: 18px;
+  margin: 0 0 10px;
+}
+
+footer .footer .section:nth-child(3) ul {
+  list-style: none;
+  margin: 0 0 18px;
+  padding: 0;
+}
+
+footer .footer .section:nth-child(4) {
+  border-top: 1px solid var(--alc-line);
+  font-size: 12px;
+}
+
+footer .footer .section:nth-child(4) picture {
+  display: inline-block;
+  margin-right: 12px;
+}
+
+footer .footer .section:nth-child(4) img {
+  display: inline-block;
+  max-height: 66px;
+  object-fit: contain;
+  width: auto;
+}
+
+@media (width < 900px) {
+  footer .footer .section:nth-child(2),
+  footer .footer .section:nth-child(3) {
+    display: block;
+  }
+
+  footer .footer .section:nth-child(3) h2 {
+    border-top: 1px solid var(--alc-line);
+    padding: 14px 30px;
+  }
+
+  footer .footer .section:nth-child(3) ul {
+    display: none;
+  }
+
+  footer .footer .section:nth-child(4) {
+    text-align: center;
+  }
 }
 
 @media (width >= 900px) {

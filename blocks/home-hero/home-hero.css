@@ -1,0 +1,91 @@
+.home-hero-container .home-hero-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.home-hero {
+  height: 525px;
+  overflow: hidden;
+  position: relative;
+}
+
+.home-hero .home-hero-media {
+  inset: 0;
+  position: absolute;
+}
+
+.home-hero .home-hero-media picture,
+.home-hero .home-hero-media img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.home-hero .home-hero-media img {
+  object-fit: cover;
+}
+
+.home-hero .home-hero-inner {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1160px;
+  padding: 105px 32px 0;
+  position: relative;
+}
+
+.home-hero .home-hero-heading {
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.home-hero .home-hero-logo img {
+  height: 67px;
+  object-fit: contain;
+  width: 106px;
+}
+
+.home-hero .home-hero-jackpot {
+  color: #fff;
+  font-family: var(--heading-font-family);
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -2px;
+  line-height: 80px;
+}
+
+.home-hero .home-hero-jackpot :is(p, strong) {
+  margin: 0;
+}
+
+.home-hero .home-hero-copy p {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 18px;
+}
+
+.home-hero .home-hero-actions p {
+  margin: 0;
+}
+
+.home-hero .home-hero-actions a.button {
+  background: var(--alc-blue);
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+@media (width < 768px) {
+  .home-hero {
+    height: 375px;
+  }
+
+  .home-hero .home-hero-inner {
+    display: none;
+  }
+
+  .home-hero .home-hero-media img {
+    content: url("/img/alc/hero-desert-mobile.jpg");
+  }
+}
