@@ -9,12 +9,16 @@ export default async function decorate(block) {
   const pictures = [...block.querySelectorAll('picture')];
   const directImages = [...block.querySelectorAll(':scope img')];
   const picture = pictures[0] || directImages[0];
+  const mobilePicture = pictures[1] || directImages[1];
   const heading = block.querySelector('h1');
   const images = pictures.length ? pictures : directImages;
-  const gameLogo = images.find((image) => image !== picture);
+  const gameLogo = images.find((image) => image !== picture && image !== mobilePicture);
   const cta = block.querySelector('a.button, strong a, em a');
-  const jackpot = rows[3]?.querySelector('strong, p');
-  const body = rows[4]?.querySelector('p');
+  const jackpotText = [...block.querySelectorAll('strong')]
+    .find((element) => !element.contains(cta) && element.textContent.includes('$'));
+  const jackpot = jackpotText?.closest('p') || jackpotText;
+  const body = [...block.querySelectorAll('p')]
+    .find((element) => element.textContent.trim() === 'Gold Ball Jackpot');
 
   const media = document.createElement('div');
   media.className = 'home-hero-media';
@@ -25,6 +29,10 @@ export default async function decorate(block) {
       img.fetchPriority = 'high';
     }
     media.append(picture);
+  }
+  if (mobilePicture) {
+    mobilePicture.classList.add('home-hero-mobile-media');
+    media.append(mobilePicture);
   }
 
   const content = document.createElement('div');
@@ -54,6 +62,9 @@ export default async function decorate(block) {
     content.append(wrap);
   }
   if (cta) {
+    cta.classList.add('button', 'primary');
+    const p = cta.closest('p');
+    if (p) p.classList.add('button-wrapper');
     const actions = document.createElement('div');
     actions.className = 'home-hero-actions';
     actions.append(cta.closest('p') || cta);

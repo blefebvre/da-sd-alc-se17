@@ -19,6 +19,7 @@
 
 .winner-carousel .winner-visual {
   height: 210px;
+  min-width: 215px;
   position: relative;
 }
 
@@ -82,6 +83,7 @@
   background: var(--alc-blue);
   border: 2px solid #fff;
   color: #fff;
+  position: relative;
 }
 
 .winner-carousel .winner-prize {
@@ -134,7 +136,9 @@
 
   .winner-carousel .winner-content {
     display: block;
+    height: 100%;
     padding-top: 20px;
+    position: relative;
   }
 
   .winner-carousel .winner-visual {
@@ -160,6 +164,31 @@
   }
 
   .winner-carousel .winner-prize {
-    display: none;
+    align-items: center;
+    bottom: 4px;
+    display: grid;
+    grid-template-columns: 72px 1fr;
+    left: 55px;
+    padding: 0;
+    position: absolute;
+    width: 260px;
+  }
+
+  .winner-carousel .winner-prize picture,
+  .winner-carousel .winner-prize img {
+    grid-row: 1 / 3;
+    height: 62px;
+    width: 62px;
+  }
+
+  .winner-carousel .winner-prize p {
+    font-size: 18px;
+    justify-self: start;
+    padding: 0 16px;
+  }
+
+  .winner-carousel .winner-amount {
+    font-size: 42px;
+    line-height: 44px;
   }
 }

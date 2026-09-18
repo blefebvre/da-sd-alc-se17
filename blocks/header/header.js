@@ -136,6 +136,27 @@ export default async function decorate(block) {
     brandLink.className = '';
     brandLink.closest('.button-container').className = '';
   }
+  const searchSource = navBrand.querySelectorAll('p')[1];
+  if (searchSource) {
+    const search = document.createElement('form');
+    search.className = 'nav-search';
+    search.role = 'search';
+    const label = document.createElement('label');
+    label.htmlFor = 'header-search';
+    label.textContent = 'Search';
+    const input = document.createElement('input');
+    input.id = 'header-search';
+    input.name = 'q';
+    input.type = 'search';
+    input.placeholder = searchSource.textContent.trim();
+    const button = document.createElement('button');
+    button.type = 'submit';
+    button.setAttribute('aria-label', 'Search');
+    button.textContent = 'search';
+    searchSource.hidden = true;
+    search.append(label, input, button);
+    navBrand.append(search);
+  }
 
   const navSections = nav.querySelector('.nav-sections');
   if (navSections) {

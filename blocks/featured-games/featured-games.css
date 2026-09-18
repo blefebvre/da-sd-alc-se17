@@ -26,6 +26,22 @@
   border-radius: 8px 8px 0 0;
   height: 185px;
   overflow: hidden;
+  position: relative;
+}
+
+.featured-games .featured-game-jackpot {
+  background: linear-gradient(110deg, #01152b 0 44%, #e5c524 44% 45%, #0655aa 45%);
+  bottom: 0;
+  color: #ffff1b;
+  font-size: 15px;
+  font-weight: 700;
+  height: 36px;
+  left: 0;
+  line-height: 36px;
+  margin: 0;
+  padding: 0 12px;
+  position: absolute;
+  right: 0;
 }
 
 .featured-games .featured-game-media picture,
@@ -78,6 +94,29 @@
   background: var(--alc-blue);
   border: 2px solid #fff;
   color: #fff;
+  position: relative;
+}
+
+.featured-games .featured-game-body a.button::after,
+.winner-carousel .winner-info a.button::after,
+.home-hero .home-hero-actions a.button::after {
+  align-items: center;
+  background: #fff;
+  border-radius: 50%;
+  color: var(--alc-blue);
+  content: "\203A";
+  display: flex;
+  font-size: 28px;
+  height: 31px;
+  justify-content: center;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 31px;
+}
+
+.featured-games .featured-games-controls {
+  display: none;
 }
 
 .featured-games .featured-games-promos {
@@ -96,9 +135,15 @@
   width: 100%;
 }
 
+.featured-games .featured-games-promos .featured-promo-mobile {
+  display: none;
+}
+
 @media (width < 768px) {
   .featured-games .featured-games-layout {
+    box-sizing: border-box;
     display: block;
+    height: 1558px;
     padding: 24px 0;
   }
 
@@ -106,6 +151,35 @@
     display: flex;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
+  }
+
+  .featured-games .featured-games-controls {
+    align-items: center;
+    display: flex;
+    height: 30px;
+    padding-left: 10px;
+  }
+
+  .featured-games .featured-games-controls button {
+    background: #eee;
+    border: 1px solid #aaa;
+    color: var(--text-color);
+    height: 30px;
+    padding: 0;
+    width: 40px;
+  }
+
+  .featured-games .featured-games-controls span {
+    background: var(--text-color);
+    border-radius: 50%;
+    height: 7px;
+    margin-left: 17px;
+    opacity: .8;
+    width: 7px;
+  }
+
+  .featured-games .featured-games-controls span.active {
+    background: var(--alc-cyan);
   }
 
   .featured-games .featured-game-card {
@@ -126,6 +200,23 @@
   }
 
   .featured-games .featured-games-promos {
+    box-sizing: border-box;
+    height: 1014px;
+    overflow: hidden;
     padding: 10px 10px 0;
+  }
+
+  .featured-games .featured-games-promos .featured-promo-desktop {
+    display: none;
+  }
+
+  .featured-games .featured-games-promos .featured-promo-mobile {
+    display: block;
+  }
+
+  .featured-games .featured-games-promos picture,
+  .featured-games .featured-games-promos img {
+    height: auto;
+    width: 340px;
   }
 }

@@ -409,3 +409,59 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+/* Replica pages use measured, contiguous section geometry. */
+main > .section {
+  margin: 0;
+}
+
+main > .section > div {
+  max-width: 1200px;
+  padding: 0 24px;
+}
+
+main > .section:has(> div:empty),
+main > .section:empty {
+  display: none;
+}
+
+main > .section.mobile-winning-banner {
+  display: none;
+}
+
+@media (width >= 900px) {
+  main > .section > div {
+    padding: 0 32px;
+  }
+}
+
+@media (width < 768px) {
+  header {
+    height: 70px;
+  }
+
+  main > .section.mobile-winning-banner {
+    display: block;
+    height: 75px;
+  }
+
+  main > .section.mobile-winning-banner > div {
+    height: 75px;
+    max-width: none;
+    padding: 0;
+  }
+
+  main > .section.mobile-winning-banner p,
+  main > .section.mobile-winning-banner a,
+  main > .section.mobile-winning-banner picture,
+  main > .section.mobile-winning-banner img {
+    display: block;
+    height: 75px;
+    margin: 0;
+    width: 100%;
+  }
+
+  main > .section.mobile-winning-banner img {
+    object-fit: cover;
+  }
+}

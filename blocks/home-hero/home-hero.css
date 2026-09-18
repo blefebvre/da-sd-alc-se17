@@ -25,6 +25,10 @@
   object-fit: cover;
 }
 
+.home-hero .home-hero-mobile-media {
+  display: none;
+}
+
 .home-hero .home-hero-inner {
   box-sizing: border-box;
   margin: 0 auto;
@@ -74,6 +78,7 @@
   background: var(--alc-blue);
   border: 2px solid #fff;
   color: #fff;
+  position: relative;
 }
 
 @media (width < 768px) {
@@ -85,7 +90,13 @@
     display: none;
   }
 
-  .home-hero .home-hero-media img {
-    content: url("/img/alc/hero-desert-mobile.jpg");
+  .home-hero .home-hero-media > picture:first-child {
+    display: none;
+  }
+
+  .home-hero .home-hero-mobile-media {
+    display: block;
+    height: 100%;
+    width: 100%;
   }
 }

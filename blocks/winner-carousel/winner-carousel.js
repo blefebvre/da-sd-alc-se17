@@ -16,7 +16,7 @@ export default async function decorate(block) {
   visual.className = 'winner-visual';
   const map = document.createElement('div');
   map.className = 'winner-map';
-  const picture = photoCell?.querySelector('picture');
+  const picture = photoCell?.querySelector('picture, img');
   if (picture) {
     const photo = document.createElement('div');
     photo.className = 'winner-photo';
@@ -26,11 +26,20 @@ export default async function decorate(block) {
 
   const info = document.createElement('div');
   info.className = 'winner-info';
-  if (infoCell) info.append(...infoCell.childNodes);
+  if (infoCell) {
+    infoCell.querySelectorAll('strong a').forEach((link) => {
+      link.classList.add('button', 'primary');
+      const p = link.closest('p');
+      if (p) p.classList.add('button-wrapper');
+    });
+    info.append(...infoCell.childNodes);
+  }
 
   const prize = document.createElement('div');
   prize.className = 'winner-prize';
   if (prizeCell) {
+    const prizePicture = prizeCell.querySelector('picture, img');
+    if (prizePicture) prizePicture.classList.add('winner-game-logo');
     const amount = prizeCell.querySelector('strong');
     const amountNode = amount?.closest('p') || amount;
     [...prizeCell.childNodes].forEach((node) => {
